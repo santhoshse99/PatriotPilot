@@ -1,0 +1,3796 @@
+[
+  {
+    "instruction": "Where is the administrative office for graduate advising located?",
+    "context": "Source: Computer Science Department Info Page, Category: Graduate Advising Location",
+    "response": "The administrative office for graduate advising is in the Engineering Building, Room 4300."
+  },
+  {
+    "instruction": "Where can I find the undergraduate advising office at George Mason University?",
+    "context": "Source: Computer Science Department Info Page, Category: Undergraduate Advising Location",
+    "response": "The undergraduate advising office is located in Buchanan Hall, Room D215."
+  },
+  {
+    "instruction": "What is the map link for the graduate advising office?",
+    "context": "Source: Computer Science Department Info Page, Category: Graduate Advising Map",
+    "response": "The map link for the graduate advising office is: https://cs.gmu.edu/about/visit-the-department/"
+  },
+  {
+    "instruction": "What is the map link for the undergraduate advising office?",
+    "context": "Source: Computer Science Department Info Page, Category: Undergraduate Advising Map",
+    "response": "The map link for the undergraduate advising office is: https://cs.gmu.edu/about/visit-the-department/"
+  },
+  {
+    "instruction": "What is the contact number for the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: Department Contact Number",
+    "response": "The contact number for the Computer Science department is (703) 993-1530."
+  },
+  {
+    "instruction": "What is the address of the Computer Science department at George Mason University?",
+    "context": "Source: Computer Science Department Info Page, Category: Department Mailing Address",
+    "response": "The address is 4400 University Drive, MSN 4A5, Fairfax, VA 22030, USA."
+  },
+  {
+    "instruction": "How do I contact administrative support for the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: Administrative Support Email",
+    "response": "You can contact administrative support via email at csinfo@gmu.edu."
+  },
+  {
+    "instruction": "What is the email address for the PhD program in Computer Science?",
+    "context": "Source: Computer Science Department Info Page, Category: PhD Program Email",
+    "response": "The email address for the PhD program is csphd@gmu.edu."
+  },
+  {
+    "instruction": "How do I reach the MS programs at the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: MS Programs Email",
+    "response": "You can reach the MS programs via email at csgrad@gmu.edu."
+  },
+  {
+    "instruction": "Who should I contact regarding undergraduate programs in Computer Science?",
+    "context": "Source: Computer Science Department Info Page, Category: Undergraduate Programs Email",
+    "response": "For undergraduate programs, email csug@gmu.edu."
+  },
+  {
+    "instruction": "Who is in charge of the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: Department Chair",
+    "response": "The Department Chair of Computer Science is David Rosenblum."
+  },
+  {
+    "instruction": "Who manages undergraduate studies in the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: Undergraduate Studies Chair",
+    "response": "The Associate Chairs for Undergraduate Studies are Shvetha Soundararajan and Mark Snyder."
+  },
+  {
+    "instruction": "Who is the Graduate Studies Chair in the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: Graduate Studies Chair",
+    "response": "The Associate Chair for Graduate Studies and Program Director for the Online MS CS is Robert Pettit."
+  },
+  {
+    "instruction": "Who oversees the PhD program in Computer Science?",
+    "context": "Source: Computer Science Department Info Page, Category: PhD Program Director",
+    "response": "The Program Director for the PhD CS is Hakan Aydin."
+  },
+  {
+    "instruction": "Who is the Program Director for MS Software Engineering?",
+    "context": "Source: Computer Science Department Info Page, Category: MS Software Engineering Director",
+    "response": "The Program Director for MS Software Engineering is ThanhVu Nguyen."
+  },
+  {
+    "instruction": "Who directs the MS Information Systems program?",
+    "context": "Source: Computer Science Department Info Page, Category: MS Information Systems Director",
+    "response": "The Program Director for MS Information Systems is Alex Brodsky."
+  },
+  {
+    "instruction": "Who is responsible for the MS CS program?",
+    "context": "Source: Computer Science Department Info Page, Category: MS CS Director",
+    "response": "The Program Director for MS CS is Zoran Duric."
+  },
+  {
+    "instruction": "Who is the Director of Inclusive Computing in the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: Inclusive Computing Director",
+    "response": "The Director of Inclusive Computing is Shahnaz Kamberi."
+  },
+  {
+    "instruction": "Who is the Operations Manager for the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: Operations Manager",
+    "response": "The Department Operations Manager and Assistant to the Chair is Michele Pieper."
+  },
+  {
+    "instruction": "Who is the Office Manager for the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: Office Manager",
+    "response": "The Office Manager is Tonya Lawrence."
+  },
+  {
+    "instruction": "Who are the Graduate Program Specialists?",
+    "context": "Source: Computer Science Department Info Page, Category: Graduate Program Specialists",
+    "response": "The Graduate Program Specialists are Alyssa Tsukamoto and Beth Posocco."
+  },
+  {
+    "instruction": "Who are the Undergraduate Academic Advisors?",
+    "context": "Source: Computer Science Department Info Page, Category: Undergraduate Academic Advisors",
+    "response": "The Undergraduate Academic Advisors are Linda Sheridan, Joshua Fletcher, Vernell Wilks, and Kristi Morrow."
+  },
+  {
+    "instruction": "Where is George Mason University located?",
+    "context": "Source: Computer Science Department Info Page, Category: University Location",
+    "response": "George Mason University is located at 4400 University Drive, Fairfax, VA 22030, USA."
+  },
+  {
+    "instruction": "How do I reach the Computer Science department by mail?",
+    "context": "Source: Computer Science Department Info Page, Category: Mailing Address",
+    "response": "You can mail the Computer Science department at 4400 University Drive, MSN 4A5, Fairfax, VA 22030, USA."
+  },
+  {
+    "instruction": "What is the general email for the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: General Email",
+    "response": "The general email for the Computer Science department is csinfo@gmu.edu."
+  },
+  {
+    "instruction": "How can I contact the administrative office of the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: Department Contact",
+    "response": "You can contact the administrative office by calling (703) 993-1530 or emailing csinfo@gmu.edu."
+  },
+  {
+    "instruction": "What is Josh Fletcher's position?",
+    "context": "name: Josh Fletcher, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/96/",
+    "response": "Undergraduate Academic Advisor"
+  },
+  {
+    "instruction": "What is Josh Fletcher's webpage?",
+    "context": "name: Josh Fletcher, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/96/",
+    "response": "https://cs.gmu.edu/directory/detail/96/"
+  },
+  {
+    "instruction": "What is Kristi Morrow's position?",
+    "context": "name: Kristi Morrow, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/186/",
+    "response": "Undergraduate Academic Advisor"
+  },
+  {
+    "instruction": "What is Kristi Morrow's webpage?",
+    "context": "name: Kristi Morrow, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/186/",
+    "response": "https://cs.gmu.edu/directory/detail/186/"
+  },
+  {
+    "instruction": "What is Linda Sheridan's position?",
+    "context": "name: Linda Sheridan, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/74/",
+    "response": "Undergraduate Academic Advisor"
+  },
+  {
+    "instruction": "What is Linda Sheridan's webpage?",
+    "context": "name: Linda Sheridan, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/74/",
+    "response": "https://cs.gmu.edu/directory/detail/74/"
+  },
+  {
+    "instruction": "What is Vernell Wilks's position?",
+    "context": "name: Vernell Wilks, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/167/",
+    "response": "Undergraduate Academic Advisor"
+  },
+  {
+    "instruction": "What is Vernell Wilks's webpage?",
+    "context": "name: Vernell Wilks, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/167/",
+    "response": "https://cs.gmu.edu/directory/detail/167/"
+  },
+  {
+    "instruction": "What is the undergraduate advising contact email?",
+    "context": "email: csug@gmu.edu, phone: (703) 993-1530",
+    "response": "csug@gmu.edu"
+  },
+  {
+    "instruction": "What is the undergraduate advising phone number?",
+    "context": "email: csug@gmu.edu, phone: (703) 993-1530",
+    "response": "(703) 993-1530"
+  },
+  {
+    "instruction": "What is the note for undergraduate advising appointments?",
+    "context": "note: Advising is by appointment only, booking_link: https://outlook.office365.com/book/CSUGAdvising@gmuedu.onmicrosoft.com/",
+    "response": "Advising is by appointment only"
+  },
+  {
+    "instruction": "Where can I book an undergraduate advising appointment?",
+    "context": "note: Advising is by appointment only, booking_link: https://outlook.office365.com/book/CSUGAdvising@gmuedu.onmicrosoft.com/",
+    "response": "https://outlook.office365.com/book/CSUGAdvising@gmuedu.onmicrosoft.com/"
+  },
+  {
+    "instruction": "What are the instructions for required advising for CS 110?",
+    "context": "course: CS 110, form_link: https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs110.pdf",
+    "response": [
+      "Meet with one of the Undergraduate Academic Advisors listed above.",
+      "Email the filled out CS 110 Advising Form at least 48 hours prior to the scheduled appointment.",
+      "Do not arrive at your appointment with your form in hand or on your laptop."
+    ]
+  },
+  {
+    "instruction": "Where can I find the advising form for CS 110?",
+    "context": "course: CS 110, form_link: https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs110.pdf",
+    "response": "https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs110.pdf"
+  },
+  {
+    "instruction": "What are the instructions for required advising for CS 330?",
+    "context": "course: CS 330, form_link: https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs330.pdf",
+    "response": [
+      "Meet with your faculty advisor.",
+      "Bring the filled out CS 330 Advising Form to your faculty meeting."
+    ]
+  },
+  {
+    "instruction": "Where can I find the advising form for CS 330?",
+    "context": "course: CS 330, form_link: https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs330.pdf",
+    "response": "https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs330.pdf"
+  },
+  {
+    "instruction": "What is Imekom Inyang's position?",
+    "context": "name: Imekom Inyang, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/198/",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Imekom Inyang's webpage?",
+    "context": "name: Imekom Inyang, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/198/",
+    "response": "https://cs.gmu.edu/directory/detail/198/"
+  },
+  {
+    "instruction": "What is Lauren Nyilas's position?",
+    "context": "name: Lauren Nyilas, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/197/",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Lauren Nyilas's webpage?",
+    "context": "name: Lauren Nyilas, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/197/",
+    "response": "https://cs.gmu.edu/directory/detail/197/"
+  },
+  {
+    "instruction": "What is Beth Posocco's position?",
+    "context": "name: Beth Posocco, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/75/",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Beth Posocco's webpage?",
+    "context": "name: Beth Posocco, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/75/",
+    "response": "https://cs.gmu.edu/directory/detail/75/"
+  },
+  {
+    "instruction": "What is Alyssa Tsukamoto's position?",
+    "context": "name: Alyssa Tsukamoto, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/180/",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Alyssa Tsukamoto's webpage?",
+    "context": "name: Alyssa Tsukamoto, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/180/",
+    "response": "https://cs.gmu.edu/directory/detail/180/"
+  },
+  {
+    "instruction": "Where is the graduate advising office located?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csgrad@gmu.edu, phone: (703) 993-1530",
+    "response": "Engineering Building Suite #4300, 4th Floor"
+  },
+  {
+    "instruction": "What is the graduate advising contact email?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csgrad@gmu.edu, phone: (703) 993-1530",
+    "response": "csgrad@gmu.edu"
+  },
+  {
+    "instruction": "What is the graduate advising phone number?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csgrad@gmu.edu, phone: (703) 993-1530",
+    "response": "(703) 993-1530"
+  },
+  {
+    "instruction": "What is Alyssa Tsukamoto's position?",
+    "context": "name: Alyssa Tsukamoto, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/180/",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Alyssa Tsukamoto's webpage?",
+    "context": "name: Alyssa Tsukamoto, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/180/",
+    "response": "https://cs.gmu.edu/directory/detail/180/"
+  },
+  {
+    "instruction": "Where is the PhD advising office located?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csphd@gmu.edu, phone: (703) 993-1530",
+    "response": "Engineering Building Suite #4300, 4th Floor"
+  },
+  {
+    "instruction": "What is the PhD advising contact email?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csphd@gmu.edu, phone: (703) 993-1530",
+    "response": "csphd@gmu.edu"
+  },
+  {
+    "instruction": "What is the PhD advising phone number?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csphd@gmu.edu, phone: (703) 993-1530",
+    "response": "(703) 993-1530"
+  },
+  {
+    "instruction": "What is Josh Fletcher's position?",
+    "context": "name: Josh Fletcher, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/96/",
+    "response": "Undergraduate Academic Advisor"
+  },
+  {
+    "instruction": "What is Josh Fletcher's webpage?",
+    "context": "name: Josh Fletcher, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/96/",
+    "response": "https://cs.gmu.edu/directory/detail/96/"
+  },
+  {
+    "instruction": "What is Kristi Morrow's position?",
+    "context": "name: Kristi Morrow, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/186/",
+    "response": "Undergraduate Academic Advisor"
+  },
+  {
+    "instruction": "What is Kristi Morrow's webpage?",
+    "context": "name: Kristi Morrow, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/186/",
+    "response": "https://cs.gmu.edu/directory/detail/186/"
+  },
+  {
+    "instruction": "What is Linda Sheridan's position?",
+    "context": "name: Linda Sheridan, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/74/",
+    "response": "Undergraduate Academic Advisor"
+  },
+  {
+    "instruction": "What is Linda Sheridan's webpage?",
+    "context": "name: Linda Sheridan, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/74/",
+    "response": "https://cs.gmu.edu/directory/detail/74/"
+  },
+  {
+    "instruction": "What is Vernell Wilks's position?",
+    "context": "name: Vernell Wilks, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/167/",
+    "response": "Undergraduate Academic Advisor"
+  },
+  {
+    "instruction": "What is Vernell Wilks's webpage?",
+    "context": "name: Vernell Wilks, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/167/",
+    "response": "https://cs.gmu.edu/directory/detail/167/"
+  },
+  {
+    "instruction": "What is the undergraduate advising contact email?",
+    "context": "email: csug@gmu.edu, phone: (703) 993-1530",
+    "response": "csug@gmu.edu"
+  },
+  {
+    "instruction": "What is the undergraduate advising phone number?",
+    "context": "email: csug@gmu.edu, phone: (703) 993-1530",
+    "response": "(703) 993-1530"
+  },
+  {
+    "instruction": "What is the note for undergraduate advising appointments?",
+    "context": "note: Advising is by appointment only, booking_link: https://outlook.office365.com/book/CSUGAdvising@gmuedu.onmicrosoft.com/",
+    "response": "Advising is by appointment only"
+  },
+  {
+    "instruction": "Where can I book an undergraduate advising appointment?",
+    "context": "note: Advising is by appointment only, booking_link: https://outlook.office365.com/book/CSUGAdvising@gmuedu.onmicrosoft.com/",
+    "response": "https://outlook.office365.com/book/CSUGAdvising@gmuedu.onmicrosoft.com/"
+  },
+  {
+    "instruction": "What are the instructions for required advising for CS 110?",
+    "context": "course: CS 110, form_link: https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs110.pdf",
+    "response": [
+      "Meet with one of the Undergraduate Academic Advisors listed above.",
+      "Email the filled out CS 110 Advising Form at least 48 hours prior to the scheduled appointment.",
+      "Do not arrive at your appointment with your form in hand or on your laptop."
+    ]
+  },
+  {
+    "instruction": "Where can I find the advising form for CS 110?",
+    "context": "course: CS 110, form_link: https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs110.pdf",
+    "response": "https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs110.pdf"
+  },
+  {
+    "instruction": "What are the instructions for required advising for CS 330?",
+    "context": "course: CS 330, form_link: https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs330.pdf",
+    "response": [
+      "Meet with your faculty advisor.",
+      "Bring the filled out CS 330 Advising Form to your faculty meeting."
+    ]
+  },
+  {
+    "instruction": "Where can I find the advising form for CS 330?",
+    "context": "course: CS 330, form_link: https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs330.pdf",
+    "response": "https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs330.pdf"
+  },
+  {
+    "instruction": "What is Imekom Inyang's position?",
+    "context": "name: Imekom Inyang, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/198/",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Imekom Inyang's webpage?",
+    "context": "name: Imekom Inyang, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/198/",
+    "response": "https://cs.gmu.edu/directory/detail/198/"
+  },
+  {
+    "instruction": "What is Lauren Nyilas's position?",
+    "context": "name: Lauren Nyilas, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/197/",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Lauren Nyilas's webpage?",
+    "context": "name: Lauren Nyilas, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/197/",
+    "response": "https://cs.gmu.edu/directory/detail/197/"
+  },
+  {
+    "instruction": "What is Beth Posocco's position?",
+    "context": "name: Beth Posocco, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/75/",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Beth Posocco's webpage?",
+    "context": "name: Beth Posocco, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/75/",
+    "response": "https://cs.gmu.edu/directory/detail/75/"
+  },
+  {
+    "instruction": "What is Alyssa Tsukamoto's position?",
+    "context": "name: Alyssa Tsukamoto, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/180/",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Alyssa Tsukamoto's webpage?",
+    "context": "name: Alyssa Tsukamoto, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/180/",
+    "response": "https://cs.gmu.edu/directory/detail/180/"
+  },
+  {
+    "instruction": "Where is the graduate advising office located?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csgrad@gmu.edu, phone: (703) 993-1530",
+    "response": "Engineering Building Suite #4300, 4th Floor"
+  },
+  {
+    "instruction": "What is the graduate advising contact email?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csgrad@gmu.edu, phone: (703) 993-1530",
+    "response": "csgrad@gmu.edu"
+  },
+  {
+    "instruction": "What is the graduate advising phone number?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csgrad@gmu.edu, phone: (703) 993-1530",
+    "response": "(703) 993-1530"
+  },
+  {
+    "instruction": "What is Alyssa Tsukamoto's position?",
+    "context": "name: Alyssa Tsukamoto, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/180/",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Alyssa Tsukamoto's webpage?",
+    "context": "name: Alyssa Tsukamoto, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/180/",
+    "response": "https://cs.gmu.edu/directory/detail/180/"
+  },
+  {
+    "instruction": "Where is the PhD advising office located?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csphd@gmu.edu, phone: (703) 993-1530",
+    "response": "Engineering Building Suite #4300, 4th Floor"
+  },
+  {
+    "instruction": "What is the PhD advising contact email?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csphd@gmu.edu, phone: (703) 993-1530",
+    "response": "csphd@gmu.edu"
+  },
+  {
+    "instruction": "What is the PhD advising phone number?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csphd@gmu.edu, phone: (703) 993-1530",
+    "response": "(703) 993-1530"
+  },
+  {
+    "instruction": "What is Ghada Abdelmoumin's email address?",
+    "context": "name: Ghada Abdelmoumin, title: Associate Professor (Teaching), email: gabdelmo@gmu.edu, office: Engineering 4439, phone: 703-993-1152, webpage: N/A",
+    "response": "gabdelmo@gmu.edu"
+  },
+  {
+    "instruction": "What is Ghada Abdelmoumin's phone number?",
+    "context": "name: Ghada Abdelmoumin, title: Associate Professor (Teaching), email: gabdelmo@gmu.edu, office: Engineering 4439, phone: 703-993-1152, webpage: N/A",
+    "response": "703-993-1152"
+  },
+  {
+    "instruction": "Where is Ghada Abdelmoumin's office located?",
+    "context": "name: Ghada Abdelmoumin, title: Associate Professor (Teaching), email: gabdelmo@gmu.edu, office: Engineering 4439, phone: 703-993-1152, webpage: N/A",
+    "response": "Engineering 4439"
+  },
+  {
+    "instruction": "What is Ghada Abdelmoumin's position?",
+    "context": "name: Ghada Abdelmoumin, title: Associate Professor (Teaching), email: gabdelmo@gmu.edu, office: Engineering 4439, phone: 703-993-1152, webpage: N/A",
+    "response": "Associate Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Ghada Abdelmoumin?",
+    "context": "name: Ghada Abdelmoumin, title: Associate Professor (Teaching), email: gabdelmo@gmu.edu, office: Engineering 4439, phone: 703-993-1152, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Jan Allbeck's email address?",
+    "context": "name: Jan Allbeck, title: Associate Professor, Associate Dean Honors College, email: jallbeck@gmu.edu, office: Buchanan D205D, phone: 703-993-1101, webpage: cs.gmu.edu/~jallbeck/",
+    "response": "jallbeck@gmu.edu"
+  },
+  {
+    "instruction": "What is Jan Allbeck's phone number?",
+    "context": "name: Jan Allbeck, title: Associate Professor, Associate Dean Honors College, email: jallbeck@gmu.edu, office: Buchanan D205D, phone: 703-993-1101, webpage: cs.gmu.edu/~jallbeck/",
+    "response": "703-993-1101"
+  },
+  {
+    "instruction": "Where is Jan Allbeck's office located?",
+    "context": "name: Jan Allbeck, title: Associate Professor, Associate Dean Honors College, email: jallbeck@gmu.edu, office: Buchanan D205D, phone: 703-993-1101, webpage: cs.gmu.edu/~jallbeck/",
+    "response": "Buchanan D205D"
+  },
+  {
+    "instruction": "What is Jan Allbeck's position?",
+    "context": "name: Jan Allbeck, title: Associate Professor, Associate Dean Honors College, email: jallbeck@gmu.edu, office: Buchanan D205D, phone: 703-993-1101, webpage: cs.gmu.edu/~jallbeck/",
+    "response": "Associate Professor, Associate Dean Honors College"
+  },
+  {
+    "instruction": "What is the webpage for Jan Allbeck?",
+    "context": "name: Jan Allbeck, title: Associate Professor, Associate Dean Honors College, email: jallbeck@gmu.edu, office: Buchanan D205D, phone: 703-993-1101, webpage: cs.gmu.edu/~jallbeck/",
+    "response": "cs.gmu.edu/~jallbeck/"
+  },
+  {
+    "instruction": "What is Antonios Anastasopoulos's email address?",
+    "context": "name: Antonios Anastasopoulos, title: Assistant Professor, email: antonis@gmu.edu, office: Engineering 4412, phone: 703-993-6821, webpage: cs.gmu.edu/~antonis/",
+    "response": "antonis@gmu.edu"
+  },
+  {
+    "instruction": "What is Antonios Anastasopoulos's phone number?",
+    "context": "name: Antonios Anastasopoulos, title: Assistant Professor, email: antonis@gmu.edu, office: Engineering 4412, phone: 703-993-6821, webpage: cs.gmu.edu/~antonis/",
+    "response": "703-993-6821"
+  },
+  {
+    "instruction": "Where is Antonios Anastasopoulos's office located?",
+    "context": "name: Antonios Anastasopoulos, title: Assistant Professor, email: antonis@gmu.edu, office: Engineering 4412, phone: 703-993-6821, webpage: cs.gmu.edu/~antonis/",
+    "response": "Engineering 4412"
+  },
+  {
+    "instruction": "What is Antonios Anastasopoulos's position?",
+    "context": "name: Antonios Anastasopoulos, title: Assistant Professor, email: antonis@gmu.edu, office: Engineering 4412, phone: 703-993-6821, webpage: cs.gmu.edu/~antonis/",
+    "response": "Assistant Professor"
+  },
+  {
+    "instruction": "What is the webpage for Antonios Anastasopoulos?",
+    "context": "name: Antonios Anastasopoulos, title: Assistant Professor, email: antonis@gmu.edu, office: Engineering 4412, phone: 703-993-6821, webpage: cs.gmu.edu/~antonis/",
+    "response": "cs.gmu.edu/~antonis/"
+  },
+  {
+    "instruction": "What is Kevin Andrea's email address?",
+    "context": "name: Kevin Andrea, title: Assistant Professor (Teaching), email: kandrea@gmu.edu, office: Buchanan Hall D217C, phone: 703-993-5429, webpage: cs.gmu.edu/~kandrea",
+    "response": "kandrea@gmu.edu"
+  },
+  {
+    "instruction": "What is Kevin Andrea's phone number?",
+    "context": "name: Kevin Andrea, title: Assistant Professor (Teaching), email: kandrea@gmu.edu, office: Buchanan Hall D217C, phone: 703-993-5429, webpage: cs.gmu.edu/~kandrea",
+    "response": "703-993-5429"
+  },
+  {
+    "instruction": "Where is Kevin Andrea's office located?",
+    "context": "name: Kevin Andrea, title: Assistant Professor (Teaching), email: kandrea@gmu.edu, office: Buchanan Hall D217C, phone: 703-993-5429, webpage: cs.gmu.edu/~kandrea",
+    "response": "Buchanan Hall D217C"
+  },
+  {
+    "instruction": "What is Kevin Andrea's position?",
+    "context": "name: Kevin Andrea, title: Assistant Professor (Teaching), email: kandrea@gmu.edu, office: Buchanan Hall D217C, phone: 703-993-5429, webpage: cs.gmu.edu/~kandrea",
+    "response": "Assistant Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Kevin Andrea?",
+    "context": "name: Kevin Andrea, title: Assistant Professor (Teaching), email: kandrea@gmu.edu, office: Buchanan Hall D217C, phone: 703-993-5429, webpage: cs.gmu.edu/~kandrea",
+    "response": "cs.gmu.edu/~kandrea"
+  },
+  {
+    "instruction": "What is Giuseppe Ateniese's email address?",
+    "context": "name: Giuseppe Ateniese, title: Eminent Scholar, Professor, email: ateniese@gmu.edu, office: Research Hall 339, phone: 703-993-6758, webpage: ateniese.github.io/",
+    "response": "ateniese@gmu.edu"
+  },
+  {
+    "instruction": "What is Giuseppe Ateniese's phone number?",
+    "context": "name: Giuseppe Ateniese, title: Eminent Scholar, Professor, email: ateniese@gmu.edu, office: Research Hall 339, phone: 703-993-6758, webpage: ateniese.github.io/",
+    "response": "703-993-6758"
+  },
+  {
+    "instruction": "Where is Giuseppe Ateniese's office located?",
+    "context": "name: Giuseppe Ateniese, title: Eminent Scholar, Professor, email: ateniese@gmu.edu, office: Research Hall 339, phone: 703-993-6758, webpage: ateniese.github.io/",
+    "response": "Research Hall 339"
+  },
+  {
+    "instruction": "What is Giuseppe Ateniese's position?",
+    "context": "name: Giuseppe Ateniese, title: Eminent Scholar, Professor, email: ateniese@gmu.edu, office: Research Hall 339, phone: 703-993-6758, webpage: ateniese.github.io/",
+    "response": "Eminent Scholar, Professor"
+  },
+  {
+    "instruction": "What is the webpage for Giuseppe Ateniese?",
+    "context": "name: Giuseppe Ateniese, title: Eminent Scholar, Professor, email: ateniese@gmu.edu, office: Research Hall 339, phone: 703-993-6758, webpage: ateniese.github.io/",
+    "response": "ateniese.github.io/"
+  },
+  {
+    "instruction": "What is Ivan Avramovic's email address?",
+    "context": "name: Ivan Avramovic, title: Assistant Professor (Teaching), email: iavramo2@gmu.edu, office: Buchanan Hall D215K, phone: 703-993-5426, webpage: cs.gmu.edu/~iavramo2/",
+    "response": "iavramo2@gmu.edu"
+  },
+  {
+    "instruction": "What is Ivan Avramovic's phone number?",
+    "context": "name: Ivan Avramovic, title: Assistant Professor (Teaching), email: iavramo2@gmu.edu, office: Buchanan Hall D215K, phone: 703-993-5426, webpage: cs.gmu.edu/~iavramo2/",
+    "response": "703-993-5426"
+  },
+  {
+    "instruction": "Where is Ivan Avramovic's office located?",
+    "context": "name: Ivan Avramovic, title: Assistant Professor (Teaching), email: iavramo2@gmu.edu, office: Buchanan Hall D215K, phone: 703-993-5426, webpage: cs.gmu.edu/~iavramo2/",
+    "response": "Buchanan Hall D215K"
+  },
+  {
+    "instruction": "What is Ivan Avramovic's position?",
+    "context": "name: Ivan Avramovic, title: Assistant Professor (Teaching), email: iavramo2@gmu.edu, office: Buchanan Hall D215K, phone: 703-993-5426, webpage: cs.gmu.edu/~iavramo2/",
+    "response": "Assistant Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Ivan Avramovic?",
+    "context": "name: Ivan Avramovic, title: Assistant Professor (Teaching), email: iavramo2@gmu.edu, office: Buchanan Hall D215K, phone: 703-993-5426, webpage: cs.gmu.edu/~iavramo2/",
+    "response": "cs.gmu.edu/~iavramo2/"
+  },
+  {
+    "instruction": "What is Hakan Ayd\u00c4\u00b1n's email address?",
+    "context": "name: Hakan Ayd\u00c4\u00b1n, title: Professor, email: aydin@cs.gmu.edu, office: Engineering 5308, phone: 703-993-3786, webpage: http://cs.gmu.edu/~aydin/",
+    "response": "aydin@cs.gmu.edu"
+  },
+  {
+    "instruction": "What is Hakan Ayd\u00c4\u00b1n's phone number?",
+    "context": "name: Hakan Ayd\u00c4\u00b1n, title: Professor, email: aydin@cs.gmu.edu, office: Engineering 5308, phone: 703-993-3786, webpage: http://cs.gmu.edu/~aydin/",
+    "response": "703-993-3786"
+  },
+  {
+    "instruction": "Where is Hakan Ayd\u00c4\u00b1n's office located?",
+    "context": "name: Hakan Ayd\u00c4\u00b1n, title: Professor, email: aydin@cs.gmu.edu, office: Engineering 5308, phone: 703-993-3786, webpage: http://cs.gmu.edu/~aydin/",
+    "response": "Engineering 5308"
+  },
+  {
+    "instruction": "What is Hakan Ayd\u00c4\u00b1n's position?",
+    "context": "name: Hakan Ayd\u00c4\u00b1n, title: Professor, email: aydin@cs.gmu.edu, office: Engineering 5308, phone: 703-993-3786, webpage: http://cs.gmu.edu/~aydin/",
+    "response": "Professor"
+  },
+  {
+    "instruction": "What is the webpage for Hakan Ayd\u00c4\u00b1n?",
+    "context": "name: Hakan Ayd\u00c4\u00b1n, title: Professor, email: aydin@cs.gmu.edu, office: Engineering 5308, phone: 703-993-3786, webpage: http://cs.gmu.edu/~aydin/",
+    "response": "http://cs.gmu.edu/~aydin/"
+  },
+  {
+    "instruction": "What is Foteini Baldimtsi's email address?",
+    "context": "name: Foteini Baldimtsi, title: Associate Professor, email: foteini@gmu.edu, office: Engineering 5333, phone: 703-993-6148, webpage: http://cs.gmu.edu/~foteini/",
+    "response": "foteini@gmu.edu"
+  },
+  {
+    "instruction": "What is Foteini Baldimtsi's phone number?",
+    "context": "name: Foteini Baldimtsi, title: Associate Professor, email: foteini@gmu.edu, office: Engineering 5333, phone: 703-993-6148, webpage: http://cs.gmu.edu/~foteini/",
+    "response": "703-993-6148"
+  },
+  {
+    "instruction": "Where is Foteini Baldimtsi's office located?",
+    "context": "name: Foteini Baldimtsi, title: Associate Professor, email: foteini@gmu.edu, office: Engineering 5333, phone: 703-993-6148, webpage: http://cs.gmu.edu/~foteini/",
+    "response": "Engineering 5333"
+  },
+  {
+    "instruction": "What is Foteini Baldimtsi's position?",
+    "context": "name: Foteini Baldimtsi, title: Associate Professor, email: foteini@gmu.edu, office: Engineering 5333, phone: 703-993-6148, webpage: http://cs.gmu.edu/~foteini/",
+    "response": "Associate Professor"
+  },
+  {
+    "instruction": "What is the webpage for Foteini Baldimtsi?",
+    "context": "name: Foteini Baldimtsi, title: Associate Professor, email: foteini@gmu.edu, office: Engineering 5333, phone: 703-993-6148, webpage: http://cs.gmu.edu/~foteini/",
+    "response": "http://cs.gmu.edu/~foteini/"
+  },
+  {
+    "instruction": "What is Daniel Barbar\u00c3\u00a1's email address?",
+    "context": "name: Daniel Barbar\u00c3\u00a1, title: Professor, email: dbarbara@gmu.edu, office: Engineering 4420, phone: 703-993-1627, webpage: http://cs.gmu.edu/~dbarbara/",
+    "response": "dbarbara@gmu.edu"
+  },
+  {
+    "instruction": "What is Daniel Barbar\u00c3\u00a1's phone number?",
+    "context": "name: Daniel Barbar\u00c3\u00a1, title: Professor, email: dbarbara@gmu.edu, office: Engineering 4420, phone: 703-993-1627, webpage: http://cs.gmu.edu/~dbarbara/",
+    "response": "703-993-1627"
+  },
+  {
+    "instruction": "Where is Daniel Barbar\u00c3\u00a1's office located?",
+    "context": "name: Daniel Barbar\u00c3\u00a1, title: Professor, email: dbarbara@gmu.edu, office: Engineering 4420, phone: 703-993-1627, webpage: http://cs.gmu.edu/~dbarbara/",
+    "response": "Engineering 4420"
+  },
+  {
+    "instruction": "What is Daniel Barbar\u00c3\u00a1's position?",
+    "context": "name: Daniel Barbar\u00c3\u00a1, title: Professor, email: dbarbara@gmu.edu, office: Engineering 4420, phone: 703-993-1627, webpage: http://cs.gmu.edu/~dbarbara/",
+    "response": "Professor"
+  },
+  {
+    "instruction": "What is the webpage for Daniel Barbar\u00c3\u00a1?",
+    "context": "name: Daniel Barbar\u00c3\u00a1, title: Professor, email: dbarbara@gmu.edu, office: Engineering 4420, phone: 703-993-1627, webpage: http://cs.gmu.edu/~dbarbara/",
+    "response": "http://cs.gmu.edu/~dbarbara/"
+  },
+  {
+    "instruction": "What is Alex Brodsky's email address?",
+    "context": "name: Alex Brodsky, title: Professor, email: brodsky@gmu.edu, office: Engineering 4418, phone: 703-993-1529, webpage: http://cs.gmu.edu/~brodsky/",
+    "response": "brodsky@gmu.edu"
+  },
+  {
+    "instruction": "What is Alex Brodsky's phone number?",
+    "context": "name: Alex Brodsky, title: Professor, email: brodsky@gmu.edu, office: Engineering 4418, phone: 703-993-1529, webpage: http://cs.gmu.edu/~brodsky/",
+    "response": "703-993-1529"
+  },
+  {
+    "instruction": "Where is Alex Brodsky's office located?",
+    "context": "name: Alex Brodsky, title: Professor, email: brodsky@gmu.edu, office: Engineering 4418, phone: 703-993-1529, webpage: http://cs.gmu.edu/~brodsky/",
+    "response": "Engineering 4418"
+  },
+  {
+    "instruction": "What is Alex Brodsky's position?",
+    "context": "name: Alex Brodsky, title: Professor, email: brodsky@gmu.edu, office: Engineering 4418, phone: 703-993-1529, webpage: http://cs.gmu.edu/~brodsky/",
+    "response": "Professor"
+  },
+  {
+    "instruction": "What is the webpage for Alex Brodsky?",
+    "context": "name: Alex Brodsky, title: Professor, email: brodsky@gmu.edu, office: Engineering 4418, phone: 703-993-1529, webpage: http://cs.gmu.edu/~brodsky/",
+    "response": "http://cs.gmu.edu/~brodsky/"
+  },
+  {
+    "instruction": "What is Jim X. Chen's email address?",
+    "context": "name: Jim X. Chen, title: Professor, email: jchen@cs.gmu.edu, office: Engineering 4446, phone: 703-993-1720, webpage: http://cs.gmu.edu/~jchen/",
+    "response": "jchen@cs.gmu.edu"
+  },
+  {
+    "instruction": "What is Jim X. Chen's phone number?",
+    "context": "name: Jim X. Chen, title: Professor, email: jchen@cs.gmu.edu, office: Engineering 4446, phone: 703-993-1720, webpage: http://cs.gmu.edu/~jchen/",
+    "response": "703-993-1720"
+  },
+  {
+    "instruction": "Where is Jim X. Chen's office located?",
+    "context": "name: Jim X. Chen, title: Professor, email: jchen@cs.gmu.edu, office: Engineering 4446, phone: 703-993-1720, webpage: http://cs.gmu.edu/~jchen/",
+    "response": "Engineering 4446"
+  },
+  {
+    "instruction": "What is Jim X. Chen's position?",
+    "context": "name: Jim X. Chen, title: Professor, email: jchen@cs.gmu.edu, office: Engineering 4446, phone: 703-993-1720, webpage: http://cs.gmu.edu/~jchen/",
+    "response": "Professor"
+  },
+  {
+    "instruction": "What is the webpage for Jim X. Chen?",
+    "context": "name: Jim X. Chen, title: Professor, email: jchen@cs.gmu.edu, office: Engineering 4446, phone: 703-993-1720, webpage: http://cs.gmu.edu/~jchen/",
+    "response": "http://cs.gmu.edu/~jchen/"
+  },
+  {
+    "instruction": "What is Songqing Chen's email address?",
+    "context": "name: Songqing Chen, title: Professor, email: sqchen@cs.gmu.edu, office: Engineering 5319, phone: 703-993-3176, webpage: http://cs.gmu.edu/~sqchen/",
+    "response": "sqchen@cs.gmu.edu"
+  },
+  {
+    "instruction": "What is Songqing Chen's phone number?",
+    "context": "name: Songqing Chen, title: Professor, email: sqchen@cs.gmu.edu, office: Engineering 5319, phone: 703-993-3176, webpage: http://cs.gmu.edu/~sqchen/",
+    "response": "703-993-3176"
+  },
+  {
+    "instruction": "Where is Songqing Chen's office located?",
+    "context": "name: Songqing Chen, title: Professor, email: sqchen@cs.gmu.edu, office: Engineering 5319, phone: 703-993-3176, webpage: http://cs.gmu.edu/~sqchen/",
+    "response": "Engineering 5319"
+  },
+  {
+    "instruction": "What is Songqing Chen's position?",
+    "context": "name: Songqing Chen, title: Professor, email: sqchen@cs.gmu.edu, office: Engineering 5319, phone: 703-993-3176, webpage: http://cs.gmu.edu/~sqchen/",
+    "response": "Professor"
+  },
+  {
+    "instruction": "What is the webpage for Songqing Chen?",
+    "context": "name: Songqing Chen, title: Professor, email: sqchen@cs.gmu.edu, office: Engineering 5319, phone: 703-993-3176, webpage: http://cs.gmu.edu/~sqchen/",
+    "response": "http://cs.gmu.edu/~sqchen/"
+  },
+  {
+    "instruction": "What is Mary (Missy) Cummings's email address?",
+    "context": "name: Mary (Missy) Cummings, title: Professor, email: cummings@gmu.edu, office: Engineering 2705, phone: 703-993-6969, webpage: cec.gmu.edu/node/9136",
+    "response": "cummings@gmu.edu"
+  },
+  {
+    "instruction": "What is Mary (Missy) Cummings's phone number?",
+    "context": "name: Mary (Missy) Cummings, title: Professor, email: cummings@gmu.edu, office: Engineering 2705, phone: 703-993-6969, webpage: cec.gmu.edu/node/9136",
+    "response": "703-993-6969"
+  },
+  {
+    "instruction": "Where is Mary (Missy) Cummings's office located?",
+    "context": "name: Mary (Missy) Cummings, title: Professor, email: cummings@gmu.edu, office: Engineering 2705, phone: 703-993-6969, webpage: cec.gmu.edu/node/9136",
+    "response": "Engineering 2705"
+  },
+  {
+    "instruction": "What is Mary (Missy) Cummings's position?",
+    "context": "name: Mary (Missy) Cummings, title: Professor, email: cummings@gmu.edu, office: Engineering 2705, phone: 703-993-6969, webpage: cec.gmu.edu/node/9136",
+    "response": "Professor"
+  },
+  {
+    "instruction": "What is the webpage for Mary (Missy) Cummings?",
+    "context": "name: Mary (Missy) Cummings, title: Professor, email: cummings@gmu.edu, office: Engineering 2705, phone: 703-993-6969, webpage: cec.gmu.edu/node/9136",
+    "response": "cec.gmu.edu/node/9136"
+  },
+  {
+    "instruction": "What is Sanmay Das's email address?",
+    "context": "name: Sanmay Das, title: Professor, email: sanmay@gmu.edu, office: Engineering 4422, phone: 703-993-6820, webpage: cs.gmu.edu/~sanmay/",
+    "response": "sanmay@gmu.edu"
+  },
+  {
+    "instruction": "What is Sanmay Das's phone number?",
+    "context": "name: Sanmay Das, title: Professor, email: sanmay@gmu.edu, office: Engineering 4422, phone: 703-993-6820, webpage: cs.gmu.edu/~sanmay/",
+    "response": "703-993-6820"
+  },
+  {
+    "instruction": "Where is Sanmay Das's office located?",
+    "context": "name: Sanmay Das, title: Professor, email: sanmay@gmu.edu, office: Engineering 4422, phone: 703-993-6820, webpage: cs.gmu.edu/~sanmay/",
+    "response": "Engineering 4422"
+  },
+  {
+    "instruction": "What is Sanmay Das's position?",
+    "context": "name: Sanmay Das, title: Professor, email: sanmay@gmu.edu, office: Engineering 4422, phone: 703-993-6820, webpage: cs.gmu.edu/~sanmay/",
+    "response": "Professor"
+  },
+  {
+    "instruction": "What is the webpage for Sanmay Das?",
+    "context": "name: Sanmay Das, title: Professor, email: sanmay@gmu.edu, office: Engineering 4422, phone: 703-993-6820, webpage: cs.gmu.edu/~sanmay/",
+    "response": "cs.gmu.edu/~sanmay/"
+  },
+  {
+    "instruction": "What is Ping Deng's email address?",
+    "context": "name: Ping Deng, title: Associate Professor (Teaching), email: pideng@gmu.edu, office: Engineering 4608, phone: 703-993-4322, webpage: cs.gmu.edu/~pideng/",
+    "response": "pideng@gmu.edu"
+  },
+  {
+    "instruction": "What is Ping Deng's phone number?",
+    "context": "name: Ping Deng, title: Associate Professor (Teaching), email: pideng@gmu.edu, office: Engineering 4608, phone: 703-993-4322, webpage: cs.gmu.edu/~pideng/",
+    "response": "703-993-4322"
+  },
+  {
+    "instruction": "Where is Ping Deng's office located?",
+    "context": "name: Ping Deng, title: Associate Professor (Teaching), email: pideng@gmu.edu, office: Engineering 4608, phone: 703-993-4322, webpage: cs.gmu.edu/~pideng/",
+    "response": "Engineering 4608"
+  },
+  {
+    "instruction": "What is Ping Deng's position?",
+    "context": "name: Ping Deng, title: Associate Professor (Teaching), email: pideng@gmu.edu, office: Engineering 4608, phone: 703-993-4322, webpage: cs.gmu.edu/~pideng/",
+    "response": "Associate Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Ping Deng?",
+    "context": "name: Ping Deng, title: Associate Professor (Teaching), email: pideng@gmu.edu, office: Engineering 4608, phone: 703-993-4322, webpage: cs.gmu.edu/~pideng/",
+    "response": "cs.gmu.edu/~pideng/"
+  },
+  {
+    "instruction": "What is Archange Destin\u00c3\u00a9's email address?",
+    "context": "name: Archange Destin\u00c3\u00a9, title: Instructor, email: adestine@gmu.edu, office: Engineering 3241, phone: 703-993-1452, webpage: N/A",
+    "response": "adestine@gmu.edu"
+  },
+  {
+    "instruction": "What is Archange Destin\u00c3\u00a9's phone number?",
+    "context": "name: Archange Destin\u00c3\u00a9, title: Instructor, email: adestine@gmu.edu, office: Engineering 3241, phone: 703-993-1452, webpage: N/A",
+    "response": "703-993-1452"
+  },
+  {
+    "instruction": "Where is Archange Destin\u00c3\u00a9's office located?",
+    "context": "name: Archange Destin\u00c3\u00a9, title: Instructor, email: adestine@gmu.edu, office: Engineering 3241, phone: 703-993-1452, webpage: N/A",
+    "response": "Engineering 3241"
+  },
+  {
+    "instruction": "What is Archange Destin\u00c3\u00a9's position?",
+    "context": "name: Archange Destin\u00c3\u00a9, title: Instructor, email: adestine@gmu.edu, office: Engineering 3241, phone: 703-993-1452, webpage: N/A",
+    "response": "Instructor"
+  },
+  {
+    "instruction": "What is the webpage for Archange Destin\u00c3\u00a9?",
+    "context": "name: Archange Destin\u00c3\u00a9, title: Instructor, email: adestine@gmu.edu, office: Engineering 3241, phone: 703-993-1452, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Socrates Dimitriadis's email address?",
+    "context": "name: Socrates Dimitriadis, title: Assistant Professor (Teaching), email: socrates@gmu.edu, office: Engineering 4508, phone: 703-993-6268, webpage: cs.gmu.edu/~socrates",
+    "response": "socrates@gmu.edu"
+  },
+  {
+    "instruction": "What is Socrates Dimitriadis's phone number?",
+    "context": "name: Socrates Dimitriadis, title: Assistant Professor (Teaching), email: socrates@gmu.edu, office: Engineering 4508, phone: 703-993-6268, webpage: cs.gmu.edu/~socrates",
+    "response": "703-993-6268"
+  },
+  {
+    "instruction": "Where is Socrates Dimitriadis's office located?",
+    "context": "name: Socrates Dimitriadis, title: Assistant Professor (Teaching), email: socrates@gmu.edu, office: Engineering 4508, phone: 703-993-6268, webpage: cs.gmu.edu/~socrates",
+    "response": "Engineering 4508"
+  },
+  {
+    "instruction": "What is Socrates Dimitriadis's position?",
+    "context": "name: Socrates Dimitriadis, title: Assistant Professor (Teaching), email: socrates@gmu.edu, office: Engineering 4508, phone: 703-993-6268, webpage: cs.gmu.edu/~socrates",
+    "response": "Assistant Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Socrates Dimitriadis?",
+    "context": "name: Socrates Dimitriadis, title: Assistant Professor (Teaching), email: socrates@gmu.edu, office: Engineering 4508, phone: 703-993-6268, webpage: cs.gmu.edu/~socrates",
+    "response": "cs.gmu.edu/~socrates"
+  },
+  {
+    "instruction": "What is Carlotta Domeniconi's email address?",
+    "context": "name: Carlotta Domeniconi, title: Professor, email: carlotta@cs.gmu.edu, office: Engineering 4424, phone: 703-993-1697, webpage: cs.gmu.edu/~carlotta/",
+    "response": "carlotta@cs.gmu.edu"
+  },
+  {
+    "instruction": "What is Carlotta Domeniconi's phone number?",
+    "context": "name: Carlotta Domeniconi, title: Professor, email: carlotta@cs.gmu.edu, office: Engineering 4424, phone: 703-993-1697, webpage: cs.gmu.edu/~carlotta/",
+    "response": "703-993-1697"
+  },
+  {
+    "instruction": "Where is Carlotta Domeniconi's office located?",
+    "context": "name: Carlotta Domeniconi, title: Professor, email: carlotta@cs.gmu.edu, office: Engineering 4424, phone: 703-993-1697, webpage: cs.gmu.edu/~carlotta/",
+    "response": "Engineering 4424"
+  },
+  {
+    "instruction": "What is Carlotta Domeniconi's position?",
+    "context": "name: Carlotta Domeniconi, title: Professor, email: carlotta@cs.gmu.edu, office: Engineering 4424, phone: 703-993-1697, webpage: cs.gmu.edu/~carlotta/",
+    "response": "Professor"
+  },
+  {
+    "instruction": "What is the webpage for Carlotta Domeniconi?",
+    "context": "name: Carlotta Domeniconi, title: Professor, email: carlotta@cs.gmu.edu, office: Engineering 4424, phone: 703-993-1697, webpage: cs.gmu.edu/~carlotta/",
+    "response": "cs.gmu.edu/~carlotta/"
+  },
+  {
+    "instruction": "What is Zoran Duri\u00c4\u2021's email address?",
+    "context": "name: Zoran Duri\u00c4\u2021, title: Associate Professor, email: zduric@cs.gmu.edu, office: Engineering 4443, phone: 703-993-1717, webpage: cs.gmu.edu/~zduric/",
+    "response": "zduric@cs.gmu.edu"
+  },
+  {
+    "instruction": "What is Zoran Duri\u00c4\u2021's phone number?",
+    "context": "name: Zoran Duri\u00c4\u2021, title: Associate Professor, email: zduric@cs.gmu.edu, office: Engineering 4443, phone: 703-993-1717, webpage: cs.gmu.edu/~zduric/",
+    "response": "703-993-1717"
+  },
+  {
+    "instruction": "Where is Zoran Duri\u00c4\u2021's office located?",
+    "context": "name: Zoran Duri\u00c4\u2021, title: Associate Professor, email: zduric@cs.gmu.edu, office: Engineering 4443, phone: 703-993-1717, webpage: cs.gmu.edu/~zduric/",
+    "response": "Engineering 4443"
+  },
+  {
+    "instruction": "What is Zoran Duri\u00c4\u2021's position?",
+    "context": "name: Zoran Duri\u00c4\u2021, title: Associate Professor, email: zduric@cs.gmu.edu, office: Engineering 4443, phone: 703-993-1717, webpage: cs.gmu.edu/~zduric/",
+    "response": "Associate Professor"
+  },
+  {
+    "instruction": "What is the webpage for Zoran Duri\u00c4\u2021?",
+    "context": "name: Zoran Duri\u00c4\u2021, title: Associate Professor, email: zduric@cs.gmu.edu, office: Engineering 4443, phone: 703-993-1717, webpage: cs.gmu.edu/~zduric/",
+    "response": "cs.gmu.edu/~zduric/"
+  },
+  {
+    "instruction": "What is Sapna Gambhir's email address?",
+    "context": "name: Sapna Gambhir, title: Associate Professor (Teaching), email: sgambhi@gmu.edu, office: Research Hall 356, phone: 703-993-7154, webpage: N/A",
+    "response": "sgambhi@gmu.edu"
+  },
+  {
+    "instruction": "What is Sapna Gambhir's phone number?",
+    "context": "name: Sapna Gambhir, title: Associate Professor (Teaching), email: sgambhi@gmu.edu, office: Research Hall 356, phone: 703-993-7154, webpage: N/A",
+    "response": "703-993-7154"
+  },
+  {
+    "instruction": "Where is Sapna Gambhir's office located?",
+    "context": "name: Sapna Gambhir, title: Associate Professor (Teaching), email: sgambhi@gmu.edu, office: Research Hall 356, phone: 703-993-7154, webpage: N/A",
+    "response": "Research Hall 356"
+  },
+  {
+    "instruction": "What is Sapna Gambhir's position?",
+    "context": "name: Sapna Gambhir, title: Associate Professor (Teaching), email: sgambhi@gmu.edu, office: Research Hall 356, phone: 703-993-7154, webpage: N/A",
+    "response": "Associate Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Sapna Gambhir?",
+    "context": "name: Sapna Gambhir, title: Associate Professor (Teaching), email: sgambhi@gmu.edu, office: Research Hall 356, phone: 703-993-7154, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Yotam Gingold's email address?",
+    "context": "name: Yotam Gingold, title: Associate Professor, email: ygingold@gmu.edu, office: Research Hall 408, phone: 703-993-9196, webpage: cs.gmu.edu/~ygingold/",
+    "response": "ygingold@gmu.edu"
+  },
+  {
+    "instruction": "What is Yotam Gingold's phone number?",
+    "context": "name: Yotam Gingold, title: Associate Professor, email: ygingold@gmu.edu, office: Research Hall 408, phone: 703-993-9196, webpage: cs.gmu.edu/~ygingold/",
+    "response": "703-993-9196"
+  },
+  {
+    "instruction": "Where is Yotam Gingold's office located?",
+    "context": "name: Yotam Gingold, title: Associate Professor, email: ygingold@gmu.edu, office: Research Hall 408, phone: 703-993-9196, webpage: cs.gmu.edu/~ygingold/",
+    "response": "Research Hall 408"
+  },
+  {
+    "instruction": "What is Yotam Gingold's position?",
+    "context": "name: Yotam Gingold, title: Associate Professor, email: ygingold@gmu.edu, office: Research Hall 408, phone: 703-993-9196, webpage: cs.gmu.edu/~ygingold/",
+    "response": "Associate Professor"
+  },
+  {
+    "instruction": "What is the webpage for Yotam Gingold?",
+    "context": "name: Yotam Gingold, title: Associate Professor, email: ygingold@gmu.edu, office: Research Hall 408, phone: 703-993-9196, webpage: cs.gmu.edu/~ygingold/",
+    "response": "cs.gmu.edu/~ygingold/"
+  },
+  {
+    "instruction": "What is Ana Loreto Gonzalez-Hernandez's email address?",
+    "context": "name: Ana Loreto Gonzalez-Hernandez, title: Assistant Professor (Teaching), email: loreto@gmu.edu, office: Buchanan Hall D217D, phone: 703-993-6431, webpage: N/A",
+    "response": "loreto@gmu.edu"
+  },
+  {
+    "instruction": "What is Ana Loreto Gonzalez-Hernandez's phone number?",
+    "context": "name: Ana Loreto Gonzalez-Hernandez, title: Assistant Professor (Teaching), email: loreto@gmu.edu, office: Buchanan Hall D217D, phone: 703-993-6431, webpage: N/A",
+    "response": "703-993-6431"
+  },
+  {
+    "instruction": "Where is Ana Loreto Gonzalez-Hernandez's office located?",
+    "context": "name: Ana Loreto Gonzalez-Hernandez, title: Assistant Professor (Teaching), email: loreto@gmu.edu, office: Buchanan Hall D217D, phone: 703-993-6431, webpage: N/A",
+    "response": "Buchanan Hall D217D"
+  },
+  {
+    "instruction": "What is Ana Loreto Gonzalez-Hernandez's position?",
+    "context": "name: Ana Loreto Gonzalez-Hernandez, title: Assistant Professor (Teaching), email: loreto@gmu.edu, office: Buchanan Hall D217D, phone: 703-993-6431, webpage: N/A",
+    "response": "Assistant Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Ana Loreto Gonzalez-Hernandez?",
+    "context": "name: Ana Loreto Gonzalez-Hernandez, title: Assistant Professor (Teaching), email: loreto@gmu.edu, office: Buchanan Hall D217D, phone: 703-993-6431, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is David Ignacio Gonzalez Samudio's email address?",
+    "context": "name: David Ignacio Gonzalez Samudio, title: Instructor (Teaching), email: dgonza10@gmu.edu, office: Buchanan D215 F, phone: N/A, webpage: N/A",
+    "response": "dgonza10@gmu.edu"
+  },
+  {
+    "instruction": "What is David Ignacio Gonzalez Samudio's phone number?",
+    "context": "name: David Ignacio Gonzalez Samudio, title: Instructor (Teaching), email: dgonza10@gmu.edu, office: Buchanan D215 F, phone: N/A, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "Where is David Ignacio Gonzalez Samudio's office located?",
+    "context": "name: David Ignacio Gonzalez Samudio, title: Instructor (Teaching), email: dgonza10@gmu.edu, office: Buchanan D215 F, phone: N/A, webpage: N/A",
+    "response": "Buchanan D215 F"
+  },
+  {
+    "instruction": "What is David Ignacio Gonzalez Samudio's position?",
+    "context": "name: David Ignacio Gonzalez Samudio, title: Instructor (Teaching), email: dgonza10@gmu.edu, office: Buchanan D215 F, phone: N/A, webpage: N/A",
+    "response": "Instructor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for David Ignacio Gonzalez Samudio?",
+    "context": "name: David Ignacio Gonzalez Samudio, title: Instructor (Teaching), email: dgonza10@gmu.edu, office: Buchanan D215 F, phone: N/A, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Sara-Lynn Gopalakrishna's email address?",
+    "context": "name: Sara-Lynn Gopalakrishna, title: Assistant Professor (Teaching), email: slgopal@gmu.edu, office: Buchanan Hall D217E, phone: 703-993-6936, webpage: N/A",
+    "response": "slgopal@gmu.edu"
+  },
+  {
+    "instruction": "What is Sara-Lynn Gopalakrishna's phone number?",
+    "context": "name: Sara-Lynn Gopalakrishna, title: Assistant Professor (Teaching), email: slgopal@gmu.edu, office: Buchanan Hall D217E, phone: 703-993-6936, webpage: N/A",
+    "response": "703-993-6936"
+  },
+  {
+    "instruction": "Where is Sara-Lynn Gopalakrishna's office located?",
+    "context": "name: Sara-Lynn Gopalakrishna, title: Assistant Professor (Teaching), email: slgopal@gmu.edu, office: Buchanan Hall D217E, phone: 703-993-6936, webpage: N/A",
+    "response": "Buchanan Hall D217E"
+  },
+  {
+    "instruction": "What is Sara-Lynn Gopalakrishna's position?",
+    "context": "name: Sara-Lynn Gopalakrishna, title: Assistant Professor (Teaching), email: slgopal@gmu.edu, office: Buchanan Hall D217E, phone: 703-993-6936, webpage: N/A",
+    "response": "Assistant Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Sara-Lynn Gopalakrishna?",
+    "context": "name: Sara-Lynn Gopalakrishna, title: Assistant Professor (Teaching), email: slgopal@gmu.edu, office: Buchanan Hall D217E, phone: 703-993-6936, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Dov Gordon's email address?",
+    "context": "name: Dov Gordon, title: Associate Professor, email: gordon@gmu.edu, office: Engineering 4423, phone: 703-993-2767, webpage: cs.gmu.edu/~gordon",
+    "response": "gordon@gmu.edu"
+  },
+  {
+    "instruction": "What is Dov Gordon's phone number?",
+    "context": "name: Dov Gordon, title: Associate Professor, email: gordon@gmu.edu, office: Engineering 4423, phone: 703-993-2767, webpage: cs.gmu.edu/~gordon",
+    "response": "703-993-2767"
+  },
+  {
+    "instruction": "Where is Dov Gordon's office located?",
+    "context": "name: Dov Gordon, title: Associate Professor, email: gordon@gmu.edu, office: Engineering 4423, phone: 703-993-2767, webpage: cs.gmu.edu/~gordon",
+    "response": "Engineering 4423"
+  },
+  {
+    "instruction": "What is Dov Gordon's position?",
+    "context": "name: Dov Gordon, title: Associate Professor, email: gordon@gmu.edu, office: Engineering 4423, phone: 703-993-2767, webpage: cs.gmu.edu/~gordon",
+    "response": "Associate Professor"
+  },
+  {
+    "instruction": "What is the webpage for Dov Gordon?",
+    "context": "name: Dov Gordon, title: Associate Professor, email: gordon@gmu.edu, office: Engineering 4423, phone: 703-993-2767, webpage: cs.gmu.edu/~gordon",
+    "response": "cs.gmu.edu/~gordon"
+  },
+  {
+    "instruction": "What is Bo Han's email address?",
+    "context": "name: Bo Han, title: Associate Professor, email: bohan@gmu.edu, office: Engineering 5324, phone: 703-993-6651, webpage: cs.gmu.edu/~bohan/",
+    "response": "bohan@gmu.edu"
+  },
+  {
+    "instruction": "What is Bo Han's phone number?",
+    "context": "name: Bo Han, title: Associate Professor, email: bohan@gmu.edu, office: Engineering 5324, phone: 703-993-6651, webpage: cs.gmu.edu/~bohan/",
+    "response": "703-993-6651"
+  },
+  {
+    "instruction": "Where is Bo Han's office located?",
+    "context": "name: Bo Han, title: Associate Professor, email: bohan@gmu.edu, office: Engineering 5324, phone: 703-993-6651, webpage: cs.gmu.edu/~bohan/",
+    "response": "Engineering 5324"
+  },
+  {
+    "instruction": "What is Bo Han's position?",
+    "context": "name: Bo Han, title: Associate Professor, email: bohan@gmu.edu, office: Engineering 5324, phone: 703-993-6651, webpage: cs.gmu.edu/~bohan/",
+    "response": "Associate Professor"
+  },
+  {
+    "instruction": "What is the webpage for Bo Han?",
+    "context": "name: Bo Han, title: Associate Professor, email: bohan@gmu.edu, office: Engineering 5324, phone: 703-993-6651, webpage: cs.gmu.edu/~bohan/",
+    "response": "cs.gmu.edu/~bohan/"
+  },
+  {
+    "instruction": "What is Brian Hrolenok's email address?",
+    "context": "name: Brian Hrolenok, title: Assistant Professor (Teaching), email: hrolenok@gmu.edu, office: Engineering 4708, phone: 703-993-6824, webpage: cs.gmu.edu/~hrolenok/",
+    "response": "hrolenok@gmu.edu"
+  },
+  {
+    "instruction": "What is Brian Hrolenok's phone number?",
+    "context": "name: Brian Hrolenok, title: Assistant Professor (Teaching), email: hrolenok@gmu.edu, office: Engineering 4708, phone: 703-993-6824, webpage: cs.gmu.edu/~hrolenok/",
+    "response": "703-993-6824"
+  },
+  {
+    "instruction": "Where is Brian Hrolenok's office located?",
+    "context": "name: Brian Hrolenok, title: Assistant Professor (Teaching), email: hrolenok@gmu.edu, office: Engineering 4708, phone: 703-993-6824, webpage: cs.gmu.edu/~hrolenok/",
+    "response": "Engineering 4708"
+  },
+  {
+    "instruction": "What is Brian Hrolenok's position?",
+    "context": "name: Brian Hrolenok, title: Assistant Professor (Teaching), email: hrolenok@gmu.edu, office: Engineering 4708, phone: 703-993-6824, webpage: cs.gmu.edu/~hrolenok/",
+    "response": "Assistant Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Brian Hrolenok?",
+    "context": "name: Brian Hrolenok, title: Assistant Professor (Teaching), email: hrolenok@gmu.edu, office: Engineering 4708, phone: 703-993-6824, webpage: cs.gmu.edu/~hrolenok/",
+    "response": "cs.gmu.edu/~hrolenok/"
+  },
+  {
+    "instruction": "What is Wassim Itani's email address?",
+    "context": "name: Wassim Itani, title: Associate Professor (Teaching), email: wassim@gmu.edu, office: Buchanan Hall D217I, phone: 703-993-6943, webpage: N/A",
+    "response": "wassim@gmu.edu"
+  },
+  {
+    "instruction": "What is Wassim Itani's phone number?",
+    "context": "name: Wassim Itani, title: Associate Professor (Teaching), email: wassim@gmu.edu, office: Buchanan Hall D217I, phone: 703-993-6943, webpage: N/A",
+    "response": "703-993-6943"
+  },
+  {
+    "instruction": "Where is Wassim Itani's office located?",
+    "context": "name: Wassim Itani, title: Associate Professor (Teaching), email: wassim@gmu.edu, office: Buchanan Hall D217I, phone: 703-993-6943, webpage: N/A",
+    "response": "Buchanan Hall D217I"
+  },
+  {
+    "instruction": "What is Wassim Itani's position?",
+    "context": "name: Wassim Itani, title: Associate Professor (Teaching), email: wassim@gmu.edu, office: Buchanan Hall D217I, phone: 703-993-6943, webpage: N/A",
+    "response": "Associate Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Wassim Itani?",
+    "context": "name: Wassim Itani, title: Associate Professor (Teaching), email: wassim@gmu.edu, office: Buchanan Hall D217I, phone: 703-993-6943, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Michael Jarret Baume's email address?",
+    "context": "name: Michael Jarret Baume, title: Assistant Professor, email: mjarretb@gmu.edu, office: Exploratory Hall 2220, phone: N/A, webpage: N/A",
+    "response": "mjarretb@gmu.edu"
+  },
+  {
+    "instruction": "What is Michael Jarret Baume's phone number?",
+    "context": "name: Michael Jarret Baume, title: Assistant Professor, email: mjarretb@gmu.edu, office: Exploratory Hall 2220, phone: N/A, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "Where is Michael Jarret Baume's office located?",
+    "context": "name: Michael Jarret Baume, title: Assistant Professor, email: mjarretb@gmu.edu, office: Exploratory Hall 2220, phone: N/A, webpage: N/A",
+    "response": "Exploratory Hall 2220"
+  },
+  {
+    "instruction": "What is Michael Jarret Baume's position?",
+    "context": "name: Michael Jarret Baume, title: Assistant Professor, email: mjarretb@gmu.edu, office: Exploratory Hall 2220, phone: N/A, webpage: N/A",
+    "response": "Assistant Professor"
+  },
+  {
+    "instruction": "What is the webpage for Michael Jarret Baume?",
+    "context": "name: Michael Jarret Baume, title: Assistant Professor, email: mjarretb@gmu.edu, office: Exploratory Hall 2220, phone: N/A, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Brittany Johnson-Matthews's email address?",
+    "context": "name: Brittany Johnson-Matthews, title: Assistant Professor, email: johnsonb@gmu.edu, office: Engineering 4440, phone: 703-993-6828, webpage: cs.gmu.edu/~johnsonb/",
+    "response": "johnsonb@gmu.edu"
+  },
+  {
+    "instruction": "What is Brittany Johnson-Matthews's phone number?",
+    "context": "name: Brittany Johnson-Matthews, title: Assistant Professor, email: johnsonb@gmu.edu, office: Engineering 4440, phone: 703-993-6828, webpage: cs.gmu.edu/~johnsonb/",
+    "response": "703-993-6828"
+  },
+  {
+    "instruction": "Where is Brittany Johnson-Matthews's office located?",
+    "context": "name: Brittany Johnson-Matthews, title: Assistant Professor, email: johnsonb@gmu.edu, office: Engineering 4440, phone: 703-993-6828, webpage: cs.gmu.edu/~johnsonb/",
+    "response": "Engineering 4440"
+  },
+  {
+    "instruction": "What is Brittany Johnson-Matthews's position?",
+    "context": "name: Brittany Johnson-Matthews, title: Assistant Professor, email: johnsonb@gmu.edu, office: Engineering 4440, phone: 703-993-6828, webpage: cs.gmu.edu/~johnsonb/",
+    "response": "Assistant Professor"
+  },
+  {
+    "instruction": "What is the webpage for Brittany Johnson-Matthews?",
+    "context": "name: Brittany Johnson-Matthews, title: Assistant Professor, email: johnsonb@gmu.edu, office: Engineering 4440, phone: 703-993-6828, webpage: cs.gmu.edu/~johnsonb/",
+    "response": "cs.gmu.edu/~johnsonb/"
+  },
+  {
+    "instruction": "What is Shahnaz Kamberi's email address?",
+    "context": "name: Shahnaz Kamberi, title: Associate Professor (Teaching), email: kamberis@gmu.edu, office: Engineering 2706, phone: 703-993-6825, webpage: N/A",
+    "response": "kamberis@gmu.edu"
+  },
+  {
+    "instruction": "What is Shahnaz Kamberi's phone number?",
+    "context": "name: Shahnaz Kamberi, title: Associate Professor (Teaching), email: kamberis@gmu.edu, office: Engineering 2706, phone: 703-993-6825, webpage: N/A",
+    "response": "703-993-6825"
+  },
+  {
+    "instruction": "Where is Shahnaz Kamberi's office located?",
+    "context": "name: Shahnaz Kamberi, title: Associate Professor (Teaching), email: kamberis@gmu.edu, office: Engineering 2706, phone: 703-993-6825, webpage: N/A",
+    "response": "Engineering 2706"
+  },
+  {
+    "instruction": "What is Shahnaz Kamberi's position?",
+    "context": "name: Shahnaz Kamberi, title: Associate Professor (Teaching), email: kamberis@gmu.edu, office: Engineering 2706, phone: 703-993-6825, webpage: N/A",
+    "response": "Associate Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Shahnaz Kamberi?",
+    "context": "name: Shahnaz Kamberi, title: Associate Professor (Teaching), email: kamberis@gmu.edu, office: Engineering 2706, phone: 703-993-6825, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Parastoo Kamranfar's email address?",
+    "context": "name: Parastoo Kamranfar, title: Assistant Professor (Teaching), email: pkamranf@gmu.edu, office: Research Hall 361, phone: 703-993-8885, webpage: N/A",
+    "response": "pkamranf@gmu.edu"
+  },
+  {
+    "instruction": "What is Parastoo Kamranfar's phone number?",
+    "context": "name: Parastoo Kamranfar, title: Assistant Professor (Teaching), email: pkamranf@gmu.edu, office: Research Hall 361, phone: 703-993-8885, webpage: N/A",
+    "response": "703-993-8885"
+  },
+  {
+    "instruction": "Where is Parastoo Kamranfar's office located?",
+    "context": "name: Parastoo Kamranfar, title: Assistant Professor (Teaching), email: pkamranf@gmu.edu, office: Research Hall 361, phone: 703-993-8885, webpage: N/A",
+    "response": "Research Hall 361"
+  },
+  {
+    "instruction": "What is Parastoo Kamranfar's position?",
+    "context": "name: Parastoo Kamranfar, title: Assistant Professor (Teaching), email: pkamranf@gmu.edu, office: Research Hall 361, phone: 703-993-8885, webpage: N/A",
+    "response": "Assistant Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Parastoo Kamranfar?",
+    "context": "name: Parastoo Kamranfar, title: Assistant Professor (Teaching), email: pkamranf@gmu.edu, office: Research Hall 361, phone: 703-993-8885, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Angkul Kongmunvattana's email address?",
+    "context": "name: Angkul Kongmunvattana, title: Professor (Teaching), email: akongmun@cs.gmu.edu, office: Engineering 4428, phone: 703-993-1660, webpage: N/A",
+    "response": "akongmun@cs.gmu.edu"
+  },
+  {
+    "instruction": "What is Angkul Kongmunvattana's phone number?",
+    "context": "name: Angkul Kongmunvattana, title: Professor (Teaching), email: akongmun@cs.gmu.edu, office: Engineering 4428, phone: 703-993-1660, webpage: N/A",
+    "response": "703-993-1660"
+  },
+  {
+    "instruction": "Where is Angkul Kongmunvattana's office located?",
+    "context": "name: Angkul Kongmunvattana, title: Professor (Teaching), email: akongmun@cs.gmu.edu, office: Engineering 4428, phone: 703-993-1660, webpage: N/A",
+    "response": "Engineering 4428"
+  },
+  {
+    "instruction": "What is Angkul Kongmunvattana's position?",
+    "context": "name: Angkul Kongmunvattana, title: Professor (Teaching), email: akongmun@cs.gmu.edu, office: Engineering 4428, phone: 703-993-1660, webpage: N/A",
+    "response": "Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Angkul Kongmunvattana?",
+    "context": "name: Angkul Kongmunvattana, title: Professor (Teaching), email: akongmun@cs.gmu.edu, office: Engineering 4428, phone: 703-993-1660, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Evgenios Kornaropoulos's email address?",
+    "context": "name: Evgenios Kornaropoulos, title: Assistant Professor, email: evgenios@gmu.edu, office: Research Hall 352, phone: 703-993-6646, webpage: cs.gmu.edu/~evgenios/",
+    "response": "evgenios@gmu.edu"
+  },
+  {
+    "instruction": "What is Evgenios Kornaropoulos's phone number?",
+    "context": "name: Evgenios Kornaropoulos, title: Assistant Professor, email: evgenios@gmu.edu, office: Research Hall 352, phone: 703-993-6646, webpage: cs.gmu.edu/~evgenios/",
+    "response": "703-993-6646"
+  },
+  {
+    "instruction": "Where is Evgenios Kornaropoulos's office located?",
+    "context": "name: Evgenios Kornaropoulos, title: Assistant Professor, email: evgenios@gmu.edu, office: Research Hall 352, phone: 703-993-6646, webpage: cs.gmu.edu/~evgenios/",
+    "response": "Research Hall 352"
+  },
+  {
+    "instruction": "What is Evgenios Kornaropoulos's position?",
+    "context": "name: Evgenios Kornaropoulos, title: Assistant Professor, email: evgenios@gmu.edu, office: Research Hall 352, phone: 703-993-6646, webpage: cs.gmu.edu/~evgenios/",
+    "response": "Assistant Professor"
+  },
+  {
+    "instruction": "What is the webpage for Evgenios Kornaropoulos?",
+    "context": "name: Evgenios Kornaropoulos, title: Assistant Professor, email: evgenios@gmu.edu, office: Research Hall 352, phone: 703-993-6646, webpage: cs.gmu.edu/~evgenios/",
+    "response": "cs.gmu.edu/~evgenios/"
+  },
+  {
+    "instruction": "What is Jana Ko\u00c5\u00a1eck\u00c3\u00a1's email address?",
+    "context": "name: Jana Ko\u00c5\u00a1eck\u00c3\u00a1, title: Professor, email: kosecka@cs.gmu.edu, office: Engineering 4444, phone: 703-993-1876, webpage: cs.gmu.edu/~kosecka/",
+    "response": "kosecka@cs.gmu.edu"
+  },
+  {
+    "instruction": "What is Jana Ko\u00c5\u00a1eck\u00c3\u00a1's phone number?",
+    "context": "name: Jana Ko\u00c5\u00a1eck\u00c3\u00a1, title: Professor, email: kosecka@cs.gmu.edu, office: Engineering 4444, phone: 703-993-1876, webpage: cs.gmu.edu/~kosecka/",
+    "response": "703-993-1876"
+  },
+  {
+    "instruction": "Where is Jana Ko\u00c5\u00a1eck\u00c3\u00a1's office located?",
+    "context": "name: Jana Ko\u00c5\u00a1eck\u00c3\u00a1, title: Professor, email: kosecka@cs.gmu.edu, office: Engineering 4444, phone: 703-993-1876, webpage: cs.gmu.edu/~kosecka/",
+    "response": "Engineering 4444"
+  },
+  {
+    "instruction": "What is Jana Ko\u00c5\u00a1eck\u00c3\u00a1's position?",
+    "context": "name: Jana Ko\u00c5\u00a1eck\u00c3\u00a1, title: Professor, email: kosecka@cs.gmu.edu, office: Engineering 4444, phone: 703-993-1876, webpage: cs.gmu.edu/~kosecka/",
+    "response": "Professor"
+  },
+  {
+    "instruction": "What is the webpage for Jana Ko\u00c5\u00a1eck\u00c3\u00a1?",
+    "context": "name: Jana Ko\u00c5\u00a1eck\u00c3\u00a1, title: Professor, email: kosecka@cs.gmu.edu, office: Engineering 4444, phone: 703-993-1876, webpage: cs.gmu.edu/~kosecka/",
+    "response": "cs.gmu.edu/~kosecka/"
+  },
+  {
+    "instruction": "What is Wing Lam's email address?",
+    "context": "name: Wing Lam, title: Assistant Professor, email: winglam@gmu.edu, office: Engineering 4442, phone: 703-993-6664, webpage: cs.gmu.edu/~winglam/",
+    "response": "winglam@gmu.edu"
+  },
+  {
+    "instruction": "What is Wing Lam's phone number?",
+    "context": "name: Wing Lam, title: Assistant Professor, email: winglam@gmu.edu, office: Engineering 4442, phone: 703-993-6664, webpage: cs.gmu.edu/~winglam/",
+    "response": "703-993-6664"
+  },
+  {
+    "instruction": "Where is Wing Lam's office located?",
+    "context": "name: Wing Lam, title: Assistant Professor, email: winglam@gmu.edu, office: Engineering 4442, phone: 703-993-6664, webpage: cs.gmu.edu/~winglam/",
+    "response": "Engineering 4442"
+  },
+  {
+    "instruction": "What is Wing Lam's position?",
+    "context": "name: Wing Lam, title: Assistant Professor, email: winglam@gmu.edu, office: Engineering 4442, phone: 703-993-6664, webpage: cs.gmu.edu/~winglam/",
+    "response": "Assistant Professor"
+  },
+  {
+    "instruction": "What is the webpage for Wing Lam?",
+    "context": "name: Wing Lam, title: Assistant Professor, email: winglam@gmu.edu, office: Engineering 4442, phone: 703-993-6664, webpage: cs.gmu.edu/~winglam/",
+    "response": "cs.gmu.edu/~winglam/"
+  },
+  {
+    "instruction": "What is Thomas LaToza's email address?",
+    "context": "name: Thomas LaToza, title: Associate Professor, email: tlatoza@gmu.edu, office: Engineering 4431, phone: 703-993-1677, webpage: cs.gmu.edu/~tlatoza/",
+    "response": "tlatoza@gmu.edu"
+  },
+  {
+    "instruction": "What is Thomas LaToza's phone number?",
+    "context": "name: Thomas LaToza, title: Associate Professor, email: tlatoza@gmu.edu, office: Engineering 4431, phone: 703-993-1677, webpage: cs.gmu.edu/~tlatoza/",
+    "response": "703-993-1677"
+  },
+  {
+    "instruction": "Where is Thomas LaToza's office located?",
+    "context": "name: Thomas LaToza, title: Associate Professor, email: tlatoza@gmu.edu, office: Engineering 4431, phone: 703-993-1677, webpage: cs.gmu.edu/~tlatoza/",
+    "response": "Engineering 4431"
+  },
+  {
+    "instruction": "What is Thomas LaToza's position?",
+    "context": "name: Thomas LaToza, title: Associate Professor, email: tlatoza@gmu.edu, office: Engineering 4431, phone: 703-993-1677, webpage: cs.gmu.edu/~tlatoza/",
+    "response": "Associate Professor"
+  },
+  {
+    "instruction": "What is the webpage for Thomas LaToza?",
+    "context": "name: Thomas LaToza, title: Associate Professor, email: tlatoza@gmu.edu, office: Engineering 4431, phone: 703-993-1677, webpage: cs.gmu.edu/~tlatoza/",
+    "response": "cs.gmu.edu/~tlatoza/"
+  },
+  {
+    "instruction": "What is Fei Li's email address?",
+    "context": "name: Fei Li, title: Associate Professor, email: fli4@gmu.edu, office: Engineering 5326, phone: 703-993-1540, webpage: cs.gmu.edu/~lifei/",
+    "response": "fli4@gmu.edu"
+  },
+  {
+    "instruction": "What is Fei Li's phone number?",
+    "context": "name: Fei Li, title: Associate Professor, email: fli4@gmu.edu, office: Engineering 5326, phone: 703-993-1540, webpage: cs.gmu.edu/~lifei/",
+    "response": "703-993-1540"
+  },
+  {
+    "instruction": "Where is Fei Li's office located?",
+    "context": "name: Fei Li, title: Associate Professor, email: fli4@gmu.edu, office: Engineering 5326, phone: 703-993-1540, webpage: cs.gmu.edu/~lifei/",
+    "response": "Engineering 5326"
+  },
+  {
+    "instruction": "What is Fei Li's position?",
+    "context": "name: Fei Li, title: Associate Professor, email: fli4@gmu.edu, office: Engineering 5326, phone: 703-993-1540, webpage: cs.gmu.edu/~lifei/",
+    "response": "Associate Professor"
+  },
+  {
+    "instruction": "What is the webpage for Fei Li?",
+    "context": "name: Fei Li, title: Associate Professor, email: fli4@gmu.edu, office: Engineering 5326, phone: 703-993-1540, webpage: cs.gmu.edu/~lifei/",
+    "response": "cs.gmu.edu/~lifei/"
+  },
+  {
+    "instruction": "What is Jessica Lin's email address?",
+    "context": "name: Jessica Lin, title: Associate Professor, email: jessica@cs.gmu.edu, office: Engineering 4419, phone: 703-993-4693, webpage: cs.gmu.edu/~jessica/",
+    "response": "jessica@cs.gmu.edu"
+  },
+  {
+    "instruction": "What is Jessica Lin's phone number?",
+    "context": "name: Jessica Lin, title: Associate Professor, email: jessica@cs.gmu.edu, office: Engineering 4419, phone: 703-993-4693, webpage: cs.gmu.edu/~jessica/",
+    "response": "703-993-4693"
+  },
+  {
+    "instruction": "Where is Jessica Lin's office located?",
+    "context": "name: Jessica Lin, title: Associate Professor, email: jessica@cs.gmu.edu, office: Engineering 4419, phone: 703-993-4693, webpage: cs.gmu.edu/~jessica/",
+    "response": "Engineering 4419"
+  },
+  {
+    "instruction": "What is Jessica Lin's position?",
+    "context": "name: Jessica Lin, title: Associate Professor, email: jessica@cs.gmu.edu, office: Engineering 4419, phone: 703-993-4693, webpage: cs.gmu.edu/~jessica/",
+    "response": "Associate Professor"
+  },
+  {
+    "instruction": "What is the webpage for Jessica Lin?",
+    "context": "name: Jessica Lin, title: Associate Professor, email: jessica@cs.gmu.edu, office: Engineering 4419, phone: 703-993-4693, webpage: cs.gmu.edu/~jessica/",
+    "response": "cs.gmu.edu/~jessica/"
+  },
+  {
+    "instruction": "What is Mingrui Liu's email address?",
+    "context": "name: Mingrui Liu, title: Assistant Professor, email: mingrui@gmu.edu, office: Research Hall 355, phone: 703-993-6645, webpage: mingrui.github.io",
+    "response": "mingrui@gmu.edu"
+  },
+  {
+    "instruction": "What is Mingrui Liu's phone number?",
+    "context": "name: Mingrui Liu, title: Assistant Professor, email: mingrui@gmu.edu, office: Research Hall 355, phone: 703-993-6645, webpage: mingrui.github.io",
+    "response": "703-993-6645"
+  },
+  {
+    "instruction": "Where is Mingrui Liu's office located?",
+    "context": "name: Mingrui Liu, title: Assistant Professor, email: mingrui@gmu.edu, office: Research Hall 355, phone: 703-993-6645, webpage: mingrui.github.io",
+    "response": "Research Hall 355"
+  },
+  {
+    "instruction": "What is Mingrui Liu's position?",
+    "context": "name: Mingrui Liu, title: Assistant Professor, email: mingrui@gmu.edu, office: Research Hall 355, phone: 703-993-6645, webpage: mingrui.github.io",
+    "response": "Assistant Professor"
+  },
+  {
+    "instruction": "What is the webpage for Mingrui Liu?",
+    "context": "name: Mingrui Liu, title: Assistant Professor, email: mingrui@gmu.edu, office: Research Hall 355, phone: 703-993-6645, webpage: mingrui.github.io",
+    "response": "mingrui.github.io"
+  },
+  {
+    "instruction": "What is Sean Luke's email address?",
+    "context": "name: Sean Luke, title: Professor, email: sean@cs.gmu.edu, office: Engineering 4451, phone: 703-993-4169, webpage: cs.gmu.edu/~sean/",
+    "response": "sean@cs.gmu.edu"
+  },
+  {
+    "instruction": "What is Sean Luke's phone number?",
+    "context": "name: Sean Luke, title: Professor, email: sean@cs.gmu.edu, office: Engineering 4451, phone: 703-993-4169, webpage: cs.gmu.edu/~sean/",
+    "response": "703-993-4169"
+  },
+  {
+    "instruction": "Where is Sean Luke's office located?",
+    "context": "name: Sean Luke, title: Professor, email: sean@cs.gmu.edu, office: Engineering 4451, phone: 703-993-4169, webpage: cs.gmu.edu/~sean/",
+    "response": "Engineering 4451"
+  },
+  {
+    "instruction": "What is Sean Luke's position?",
+    "context": "name: Sean Luke, title: Professor, email: sean@cs.gmu.edu, office: Engineering 4451, phone: 703-993-4169, webpage: cs.gmu.edu/~sean/",
+    "response": "Professor"
+  },
+  {
+    "instruction": "What is the webpage for Sean Luke?",
+    "context": "name: Sean Luke, title: Professor, email: sean@cs.gmu.edu, office: Engineering 4451, phone: 703-993-4169, webpage: cs.gmu.edu/~sean/",
+    "response": "cs.gmu.edu/~sean/"
+  },
+  {
+    "instruction": "What is Judy Luo's email address?",
+    "context": "name: Judy Luo, title: Associate Professor (Teaching), email: jluo2@gmu.edu, office: Engineering 5328, phone: 703-993-5241, webpage: N/A",
+    "response": "jluo2@gmu.edu"
+  },
+  {
+    "instruction": "What is Judy Luo's phone number?",
+    "context": "name: Judy Luo, title: Associate Professor (Teaching), email: jluo2@gmu.edu, office: Engineering 5328, phone: 703-993-5241, webpage: N/A",
+    "response": "703-993-5241"
+  },
+  {
+    "instruction": "Where is Judy Luo's office located?",
+    "context": "name: Judy Luo, title: Associate Professor (Teaching), email: jluo2@gmu.edu, office: Engineering 5328, phone: 703-993-5241, webpage: N/A",
+    "response": "Engineering 5328"
+  },
+  {
+    "instruction": "What is Judy Luo's position?",
+    "context": "name: Judy Luo, title: Associate Professor (Teaching), email: jluo2@gmu.edu, office: Engineering 5328, phone: 703-993-5241, webpage: N/A",
+    "response": "Associate Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Judy Luo?",
+    "context": "name: Judy Luo, title: Associate Professor (Teaching), email: jluo2@gmu.edu, office: Engineering 5328, phone: 703-993-5241, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Lannan (Lisa) Luo's email address?",
+    "context": "name: Lannan (Lisa) Luo, title: Associate Professor, email: lluo4@gmu.edu, office: Engineering 5332, phone: 703-993-6942, webpage: lannan.github.io/",
+    "response": "lluo4@gmu.edu"
+  },
+  {
+    "instruction": "What is Lannan (Lisa) Luo's phone number?",
+    "context": "name: Lannan (Lisa) Luo, title: Associate Professor, email: lluo4@gmu.edu, office: Engineering 5332, phone: 703-993-6942, webpage: lannan.github.io/",
+    "response": "703-993-6942"
+  },
+  {
+    "instruction": "Where is Lannan (Lisa) Luo's office located?",
+    "context": "name: Lannan (Lisa) Luo, title: Associate Professor, email: lluo4@gmu.edu, office: Engineering 5332, phone: 703-993-6942, webpage: lannan.github.io/",
+    "response": "Engineering 5332"
+  },
+  {
+    "instruction": "What is Lannan (Lisa) Luo's position?",
+    "context": "name: Lannan (Lisa) Luo, title: Associate Professor, email: lluo4@gmu.edu, office: Engineering 5332, phone: 703-993-6942, webpage: lannan.github.io/",
+    "response": "Associate Professor"
+  },
+  {
+    "instruction": "What is the webpage for Lannan (Lisa) Luo?",
+    "context": "name: Lannan (Lisa) Luo, title: Associate Professor, email: lluo4@gmu.edu, office: Engineering 5332, phone: 703-993-6942, webpage: lannan.github.io/",
+    "response": "lannan.github.io/"
+  },
+  {
+    "instruction": "What is Tamara Maddox's email address?",
+    "context": "name: Tamara Maddox, title: Professor (Teaching), email: tmaddox@cs.gmu.edu, office: Engineering 5347, phone: 703-993-1525, webpage: cs.gmu.edu/~tmaddox/",
+    "response": "tmaddox@cs.gmu.edu"
+  },
+  {
+    "instruction": "What is Tamara Maddox's phone number?",
+    "context": "name: Tamara Maddox, title: Professor (Teaching), email: tmaddox@cs.gmu.edu, office: Engineering 5347, phone: 703-993-1525, webpage: cs.gmu.edu/~tmaddox/",
+    "response": "703-993-1525"
+  },
+  {
+    "instruction": "Where is Tamara Maddox's office located?",
+    "context": "name: Tamara Maddox, title: Professor (Teaching), email: tmaddox@cs.gmu.edu, office: Engineering 5347, phone: 703-993-1525, webpage: cs.gmu.edu/~tmaddox/",
+    "response": "Engineering 5347"
+  },
+  {
+    "instruction": "What is Tamara Maddox's position?",
+    "context": "name: Tamara Maddox, title: Professor (Teaching), email: tmaddox@cs.gmu.edu, office: Engineering 5347, phone: 703-993-1525, webpage: cs.gmu.edu/~tmaddox/",
+    "response": "Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Tamara Maddox?",
+    "context": "name: Tamara Maddox, title: Professor (Teaching), email: tmaddox@cs.gmu.edu, office: Engineering 5347, phone: 703-993-1525, webpage: cs.gmu.edu/~tmaddox/",
+    "response": "cs.gmu.edu/~tmaddox/"
+  },
+  {
+    "instruction": "What is Andrian Marcus's email address?",
+    "context": "name: Andrian Marcus, title: Professor, email: amarcus7@gmu.edu, office: Engineering 4452, phone: 703-993-9237, webpage: www.andrianmarcus.net/",
+    "response": "amarcus7@gmu.edu"
+  },
+  {
+    "instruction": "What is Andrian Marcus's phone number?",
+    "context": "name: Andrian Marcus, title: Professor, email: amarcus7@gmu.edu, office: Engineering 4452, phone: 703-993-9237, webpage: www.andrianmarcus.net/",
+    "response": "703-993-9237"
+  },
+  {
+    "instruction": "Where is Andrian Marcus's office located?",
+    "context": "name: Andrian Marcus, title: Professor, email: amarcus7@gmu.edu, office: Engineering 4452, phone: 703-993-9237, webpage: www.andrianmarcus.net/",
+    "response": "Engineering 4452"
+  },
+  {
+    "instruction": "What is Andrian Marcus's position?",
+    "context": "name: Andrian Marcus, title: Professor, email: amarcus7@gmu.edu, office: Engineering 4452, phone: 703-993-9237, webpage: www.andrianmarcus.net/",
+    "response": "Professor"
+  },
+  {
+    "instruction": "What is the webpage for Andrian Marcus?",
+    "context": "name: Andrian Marcus, title: Professor, email: amarcus7@gmu.edu, office: Engineering 4452, phone: 703-993-9237, webpage: www.andrianmarcus.net/",
+    "response": "www.andrianmarcus.net/"
+  },
+  {
+    "instruction": "What is Wes Masri's email address?",
+    "context": "name: Wes Masri, title: Professor (Teaching), email: vmasri@gmu.edu, office: Engineering 4709, phone: 703-993-6647, webpage: N/A",
+    "response": "vmasri@gmu.edu"
+  },
+  {
+    "instruction": "What is Wes Masri's phone number?",
+    "context": "name: Wes Masri, title: Professor (Teaching), email: vmasri@gmu.edu, office: Engineering 4709, phone: 703-993-6647, webpage: N/A",
+    "response": "703-993-6647"
+  },
+  {
+    "instruction": "Where is Wes Masri's office located?",
+    "context": "name: Wes Masri, title: Professor (Teaching), email: vmasri@gmu.edu, office: Engineering 4709, phone: 703-993-6647, webpage: N/A",
+    "response": "Engineering 4709"
+  },
+  {
+    "instruction": "What is Wes Masri's position?",
+    "context": "name: Wes Masri, title: Professor (Teaching), email: vmasri@gmu.edu, office: Engineering 4709, phone: 703-993-6647, webpage: N/A",
+    "response": "Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Wes Masri?",
+    "context": "name: Wes Masri, title: Professor (Teaching), email: vmasri@gmu.edu, office: Engineering 4709, phone: 703-993-6647, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Thema Monroe-White's email address?",
+    "context": "name: Thema Monroe-White, title: Associate Professor, email: tmonroew@gmu.edu, office: Arlington Van Metre 631, phone: N/A, webpage: N/A",
+    "response": "tmonroew@gmu.edu"
+  },
+  {
+    "instruction": "What is Thema Monroe-White's phone number?",
+    "context": "name: Thema Monroe-White, title: Associate Professor, email: tmonroew@gmu.edu, office: Arlington Van Metre 631, phone: N/A, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "Where is Thema Monroe-White's office located?",
+    "context": "name: Thema Monroe-White, title: Associate Professor, email: tmonroew@gmu.edu, office: Arlington Van Metre 631, phone: N/A, webpage: N/A",
+    "response": "Arlington Van Metre 631"
+  },
+  {
+    "instruction": "What is Thema Monroe-White's position?",
+    "context": "name: Thema Monroe-White, title: Associate Professor, email: tmonroew@gmu.edu, office: Arlington Van Metre 631, phone: N/A, webpage: N/A",
+    "response": "Associate Professor"
+  },
+  {
+    "instruction": "What is the webpage for Thema Monroe-White?",
+    "context": "name: Thema Monroe-White, title: Associate Professor, email: tmonroew@gmu.edu, office: Arlington Van Metre 631, phone: N/A, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Hamza Mughal's email address?",
+    "context": "name: Hamza Mughal, title: Assistant Professor (Teaching), email: hmughal2@gmu.edu, office: Buchanan Hall D217F, phone: 703-993-6934, webpage: hamzamughal.com",
+    "response": "hmughal2@gmu.edu"
+  },
+  {
+    "instruction": "What is Hamza Mughal's phone number?",
+    "context": "name: Hamza Mughal, title: Assistant Professor (Teaching), email: hmughal2@gmu.edu, office: Buchanan Hall D217F, phone: 703-993-6934, webpage: hamzamughal.com",
+    "response": "703-993-6934"
+  },
+  {
+    "instruction": "Where is Hamza Mughal's office located?",
+    "context": "name: Hamza Mughal, title: Assistant Professor (Teaching), email: hmughal2@gmu.edu, office: Buchanan Hall D217F, phone: 703-993-6934, webpage: hamzamughal.com",
+    "response": "Buchanan Hall D217F"
+  },
+  {
+    "instruction": "What is Hamza Mughal's position?",
+    "context": "name: Hamza Mughal, title: Assistant Professor (Teaching), email: hmughal2@gmu.edu, office: Buchanan Hall D217F, phone: 703-993-6934, webpage: hamzamughal.com",
+    "response": "Assistant Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Hamza Mughal?",
+    "context": "name: Hamza Mughal, title: Assistant Professor (Teaching), email: hmughal2@gmu.edu, office: Buchanan Hall D217F, phone: 703-993-6934, webpage: hamzamughal.com",
+    "response": "hamzamughal.com"
+  },
+  {
+    "instruction": "What is Radu Negulescu's email address?",
+    "context": "name: Radu Negulescu, title: Associate Professor (Teaching), email: rnegules@gmu.edu, office: Research Hall 364, phone: 703-993-6836, webpage: N/A",
+    "response": "rnegules@gmu.edu"
+  },
+  {
+    "instruction": "What is Radu Negulescu's phone number?",
+    "context": "name: Radu Negulescu, title: Associate Professor (Teaching), email: rnegules@gmu.edu, office: Research Hall 364, phone: 703-993-6836, webpage: N/A",
+    "response": "703-993-6836"
+  },
+  {
+    "instruction": "Where is Radu Negulescu's office located?",
+    "context": "name: Radu Negulescu, title: Associate Professor (Teaching), email: rnegules@gmu.edu, office: Research Hall 364, phone: 703-993-6836, webpage: N/A",
+    "response": "Research Hall 364"
+  },
+  {
+    "instruction": "What is Radu Negulescu's position?",
+    "context": "name: Radu Negulescu, title: Associate Professor (Teaching), email: rnegules@gmu.edu, office: Research Hall 364, phone: 703-993-6836, webpage: N/A",
+    "response": "Associate Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Radu Negulescu?",
+    "context": "name: Radu Negulescu, title: Associate Professor (Teaching), email: rnegules@gmu.edu, office: Research Hall 364, phone: 703-993-6836, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is ThanhVu (Vu) Nguyen's email address?",
+    "context": "name: ThanhVu (Vu) Nguyen, title: Associate Professor, email: tvn@gmu.edu, office: Engineering 4430, phone: 703-993-6641, webpage: dynaroars.cs.gmu.edu",
+    "response": "tvn@gmu.edu"
+  },
+  {
+    "instruction": "What is ThanhVu (Vu) Nguyen's phone number?",
+    "context": "name: ThanhVu (Vu) Nguyen, title: Associate Professor, email: tvn@gmu.edu, office: Engineering 4430, phone: 703-993-6641, webpage: dynaroars.cs.gmu.edu",
+    "response": "703-993-6641"
+  },
+  {
+    "instruction": "Where is ThanhVu (Vu) Nguyen's office located?",
+    "context": "name: ThanhVu (Vu) Nguyen, title: Associate Professor, email: tvn@gmu.edu, office: Engineering 4430, phone: 703-993-6641, webpage: dynaroars.cs.gmu.edu",
+    "response": "Engineering 4430"
+  },
+  {
+    "instruction": "What is ThanhVu (Vu) Nguyen's position?",
+    "context": "name: ThanhVu (Vu) Nguyen, title: Associate Professor, email: tvn@gmu.edu, office: Engineering 4430, phone: 703-993-6641, webpage: dynaroars.cs.gmu.edu",
+    "response": "Associate Professor"
+  },
+  {
+    "instruction": "What is the webpage for ThanhVu (Vu) Nguyen?",
+    "context": "name: ThanhVu (Vu) Nguyen, title: Associate Professor, email: tvn@gmu.edu, office: Engineering 4430, phone: 703-993-6641, webpage: dynaroars.cs.gmu.edu",
+    "response": "dynaroars.cs.gmu.edu"
+  },
+  {
+    "instruction": "What is Eric Osterweil's email address?",
+    "context": "name: Eric Osterweil, title: Assistant Professor, email: eoster@gmu.edu, office: Engineering 5346, phone: 703-993-4321, webpage: cs.gmu.edu/~eoster/",
+    "response": "eoster@gmu.edu"
+  },
+  {
+    "instruction": "What is Eric Osterweil's phone number?",
+    "context": "name: Eric Osterweil, title: Assistant Professor, email: eoster@gmu.edu, office: Engineering 5346, phone: 703-993-4321, webpage: cs.gmu.edu/~eoster/",
+    "response": "703-993-4321"
+  },
+  {
+    "instruction": "Where is Eric Osterweil's office located?",
+    "context": "name: Eric Osterweil, title: Assistant Professor, email: eoster@gmu.edu, office: Engineering 5346, phone: 703-993-4321, webpage: cs.gmu.edu/~eoster/",
+    "response": "Engineering 5346"
+  },
+  {
+    "instruction": "What is Eric Osterweil's position?",
+    "context": "name: Eric Osterweil, title: Assistant Professor, email: eoster@gmu.edu, office: Engineering 5346, phone: 703-993-4321, webpage: cs.gmu.edu/~eoster/",
+    "response": "Assistant Professor"
+  },
+  {
+    "instruction": "What is the webpage for Eric Osterweil?",
+    "context": "name: Eric Osterweil, title: Assistant Professor, email: eoster@gmu.edu, office: Engineering 5346, phone: 703-993-4321, webpage: cs.gmu.edu/~eoster/",
+    "response": "cs.gmu.edu/~eoster/"
+  },
+  {
+    "instruction": "What is John Otten's email address?",
+    "context": "name: John Otten, title: Senior Instructor, email: jotten2@gmu.edu, office: Engineering 5335, phone: 703-993-1669, webpage: cs.gmu.edu/~jotten2/",
+    "response": "jotten2@gmu.edu"
+  },
+  {
+    "instruction": "What is John Otten's phone number?",
+    "context": "name: John Otten, title: Senior Instructor, email: jotten2@gmu.edu, office: Engineering 5335, phone: 703-993-1669, webpage: cs.gmu.edu/~jotten2/",
+    "response": "703-993-1669"
+  },
+  {
+    "instruction": "Where is John Otten's office located?",
+    "context": "name: John Otten, title: Senior Instructor, email: jotten2@gmu.edu, office: Engineering 5335, phone: 703-993-1669, webpage: cs.gmu.edu/~jotten2/",
+    "response": "Engineering 5335"
+  },
+  {
+    "instruction": "What is John Otten's position?",
+    "context": "name: John Otten, title: Senior Instructor, email: jotten2@gmu.edu, office: Engineering 5335, phone: 703-993-1669, webpage: cs.gmu.edu/~jotten2/",
+    "response": "Senior Instructor"
+  },
+  {
+    "instruction": "What is the webpage for John Otten?",
+    "context": "name: John Otten, title: Senior Instructor, email: jotten2@gmu.edu, office: Engineering 5335, phone: 703-993-1669, webpage: cs.gmu.edu/~jotten2/",
+    "response": "cs.gmu.edu/~jotten2/"
+  },
+  {
+    "instruction": "What is Parth Pathak's email address?",
+    "context": "name: Parth Pathak, title: Associate Professor, email: ppathak@gmu.edu, office: Engineering 5318, phone: 703-993-6232, webpage: cs.gmu.edu/~ppathak/",
+    "response": "ppathak@gmu.edu"
+  },
+  {
+    "instruction": "What is Parth Pathak's phone number?",
+    "context": "name: Parth Pathak, title: Associate Professor, email: ppathak@gmu.edu, office: Engineering 5318, phone: 703-993-6232, webpage: cs.gmu.edu/~ppathak/",
+    "response": "703-993-6232"
+  },
+  {
+    "instruction": "Where is Parth Pathak's office located?",
+    "context": "name: Parth Pathak, title: Associate Professor, email: ppathak@gmu.edu, office: Engineering 5318, phone: 703-993-6232, webpage: cs.gmu.edu/~ppathak/",
+    "response": "Engineering 5318"
+  },
+  {
+    "instruction": "What is Parth Pathak's position?",
+    "context": "name: Parth Pathak, title: Associate Professor, email: ppathak@gmu.edu, office: Engineering 5318, phone: 703-993-6232, webpage: cs.gmu.edu/~ppathak/",
+    "response": "Associate Professor"
+  },
+  {
+    "instruction": "What is the webpage for Parth Pathak?",
+    "context": "name: Parth Pathak, title: Associate Professor, email: ppathak@gmu.edu, office: Engineering 5318, phone: 703-993-6232, webpage: cs.gmu.edu/~ppathak/",
+    "response": "cs.gmu.edu/~ppathak/"
+  },
+  {
+    "instruction": "What is Robert Pettit's email address?",
+    "context": "name: Robert Pettit, title: Professor of Practice and Associate Chair, email: rpettit@gmu.edu, office: Engineering 4304, phone: 703-993-6643, webpage: cs.gmu.edu/~rpettit/",
+    "response": "rpettit@gmu.edu"
+  },
+  {
+    "instruction": "What is Robert Pettit's phone number?",
+    "context": "name: Robert Pettit, title: Professor of Practice and Associate Chair, email: rpettit@gmu.edu, office: Engineering 4304, phone: 703-993-6643, webpage: cs.gmu.edu/~rpettit/",
+    "response": "703-993-6643"
+  },
+  {
+    "instruction": "Where is Robert Pettit's office located?",
+    "context": "name: Robert Pettit, title: Professor of Practice and Associate Chair, email: rpettit@gmu.edu, office: Engineering 4304, phone: 703-993-6643, webpage: cs.gmu.edu/~rpettit/",
+    "response": "Engineering 4304"
+  },
+  {
+    "instruction": "What is Robert Pettit's position?",
+    "context": "name: Robert Pettit, title: Professor of Practice and Associate Chair, email: rpettit@gmu.edu, office: Engineering 4304, phone: 703-993-6643, webpage: cs.gmu.edu/~rpettit/",
+    "response": "Professor of Practice and Associate Chair"
+  },
+  {
+    "instruction": "What is the webpage for Robert Pettit?",
+    "context": "name: Robert Pettit, title: Professor of Practice and Associate Chair, email: rpettit@gmu.edu, office: Engineering 4304, phone: 703-993-6643, webpage: cs.gmu.edu/~rpettit/",
+    "response": "cs.gmu.edu/~rpettit/"
+  },
+  {
+    "instruction": "What is Dasha Pruss's email address?",
+    "context": "name: Dasha Pruss, title: Assistant Professor, email: dpruss@gmu.edu, office: Horizon Hall 6271, phone: N/A, webpage: N/A",
+    "response": "dpruss@gmu.edu"
+  },
+  {
+    "instruction": "What is Dasha Pruss's phone number?",
+    "context": "name: Dasha Pruss, title: Assistant Professor, email: dpruss@gmu.edu, office: Horizon Hall 6271, phone: N/A, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "Where is Dasha Pruss's office located?",
+    "context": "name: Dasha Pruss, title: Assistant Professor, email: dpruss@gmu.edu, office: Horizon Hall 6271, phone: N/A, webpage: N/A",
+    "response": "Horizon Hall 6271"
+  },
+  {
+    "instruction": "What is Dasha Pruss's position?",
+    "context": "name: Dasha Pruss, title: Assistant Professor, email: dpruss@gmu.edu, office: Horizon Hall 6271, phone: N/A, webpage: N/A",
+    "response": "Assistant Professor"
+  },
+  {
+    "instruction": "What is the webpage for Dasha Pruss?",
+    "context": "name: Dasha Pruss, title: Assistant Professor, email: dpruss@gmu.edu, office: Horizon Hall 6271, phone: N/A, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Huzefa Rangwala's email address?",
+    "context": "name: Huzefa Rangwala, title: Professor and Lawrence Cranberg Faculty Fellow, email: rangwala@gmu.edu, office: On Leave, phone: N/A, webpage: cs.gmu.edu/~rangwala/",
+    "response": "rangwala@gmu.edu"
+  },
+  {
+    "instruction": "What is Huzefa Rangwala's phone number?",
+    "context": "name: Huzefa Rangwala, title: Professor and Lawrence Cranberg Faculty Fellow, email: rangwala@gmu.edu, office: On Leave, phone: N/A, webpage: cs.gmu.edu/~rangwala/",
+    "response": "N/A"
+  },
+  {
+    "instruction": "Where is Huzefa Rangwala's office located?",
+    "context": "name: Huzefa Rangwala, title: Professor and Lawrence Cranberg Faculty Fellow, email: rangwala@gmu.edu, office: On Leave, phone: N/A, webpage: cs.gmu.edu/~rangwala/",
+    "response": "On Leave"
+  },
+  {
+    "instruction": "What is Huzefa Rangwala's position?",
+    "context": "name: Huzefa Rangwala, title: Professor and Lawrence Cranberg Faculty Fellow, email: rangwala@gmu.edu, office: On Leave, phone: N/A, webpage: cs.gmu.edu/~rangwala/",
+    "response": "Professor and Lawrence Cranberg Faculty Fellow"
+  },
+  {
+    "instruction": "What is the webpage for Huzefa Rangwala?",
+    "context": "name: Huzefa Rangwala, title: Professor and Lawrence Cranberg Faculty Fellow, email: rangwala@gmu.edu, office: On Leave, phone: N/A, webpage: cs.gmu.edu/~rangwala/",
+    "response": "cs.gmu.edu/~rangwala/"
+  },
+  {
+    "instruction": "What is Michael Reep's email address?",
+    "context": "name: Michael Reep, title: Associate Professor (Teaching), email: mreep@gmu.edu, office: Engineering 4417, phone: 703-993-7164, webpage: N/A",
+    "response": "mreep@gmu.edu"
+  },
+  {
+    "instruction": "What is Michael Reep's phone number?",
+    "context": "name: Michael Reep, title: Associate Professor (Teaching), email: mreep@gmu.edu, office: Engineering 4417, phone: 703-993-7164, webpage: N/A",
+    "response": "703-993-7164"
+  },
+  {
+    "instruction": "Where is Michael Reep's office located?",
+    "context": "name: Michael Reep, title: Associate Professor (Teaching), email: mreep@gmu.edu, office: Engineering 4417, phone: 703-993-7164, webpage: N/A",
+    "response": "Engineering 4417"
+  },
+  {
+    "instruction": "What is Michael Reep's position?",
+    "context": "name: Michael Reep, title: Associate Professor (Teaching), email: mreep@gmu.edu, office: Engineering 4417, phone: 703-993-7164, webpage: N/A",
+    "response": "Associate Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Michael Reep?",
+    "context": "name: Michael Reep, title: Associate Professor (Teaching), email: mreep@gmu.edu, office: Engineering 4417, phone: 703-993-7164, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Dana Richards's email address?",
+    "context": "name: Dana Richards, title: Associate Professor, email: richards@cs.gmu.edu, office: Engineering 5320, phone: 703-993-1545, webpage: cs.gmu.edu/~richards/",
+    "response": "richards@cs.gmu.edu"
+  },
+  {
+    "instruction": "What is Dana Richards's phone number?",
+    "context": "name: Dana Richards, title: Associate Professor, email: richards@cs.gmu.edu, office: Engineering 5320, phone: 703-993-1545, webpage: cs.gmu.edu/~richards/",
+    "response": "703-993-1545"
+  },
+  {
+    "instruction": "Where is Dana Richards's office located?",
+    "context": "name: Dana Richards, title: Associate Professor, email: richards@cs.gmu.edu, office: Engineering 5320, phone: 703-993-1545, webpage: cs.gmu.edu/~richards/",
+    "response": "Engineering 5320"
+  },
+  {
+    "instruction": "What is Dana Richards's position?",
+    "context": "name: Dana Richards, title: Associate Professor, email: richards@cs.gmu.edu, office: Engineering 5320, phone: 703-993-1545, webpage: cs.gmu.edu/~richards/",
+    "response": "Associate Professor"
+  },
+  {
+    "instruction": "What is the webpage for Dana Richards?",
+    "context": "name: Dana Richards, title: Associate Professor, email: richards@cs.gmu.edu, office: Engineering 5320, phone: 703-993-1545, webpage: cs.gmu.edu/~richards/",
+    "response": "cs.gmu.edu/~richards/"
+  },
+  {
+    "instruction": "What is David Rosenblum's email address?",
+    "context": "name: David Rosenblum, title: Planning Research Corporation Professor and Chair, email: cschair@gmu.edu, office: Engineering 4300, phone: 703-993-1530, webpage: cs.gmu.edu/~dsr/",
+    "response": "cschair@gmu.edu"
+  },
+  {
+    "instruction": "What is David Rosenblum's phone number?",
+    "context": "name: David Rosenblum, title: Planning Research Corporation Professor and Chair, email: cschair@gmu.edu, office: Engineering 4300, phone: 703-993-1530, webpage: cs.gmu.edu/~dsr/",
+    "response": "703-993-1530"
+  },
+  {
+    "instruction": "Where is David Rosenblum's office located?",
+    "context": "name: David Rosenblum, title: Planning Research Corporation Professor and Chair, email: cschair@gmu.edu, office: Engineering 4300, phone: 703-993-1530, webpage: cs.gmu.edu/~dsr/",
+    "response": "Engineering 4300"
+  },
+  {
+    "instruction": "What is David Rosenblum's position?",
+    "context": "name: David Rosenblum, title: Planning Research Corporation Professor and Chair, email: cschair@gmu.edu, office: Engineering 4300, phone: 703-993-1530, webpage: cs.gmu.edu/~dsr/",
+    "response": "Planning Research Corporation Professor and Chair"
+  },
+  {
+    "instruction": "What is the webpage for David Rosenblum?",
+    "context": "name: David Rosenblum, title: Planning Research Corporation Professor and Chair, email: cschair@gmu.edu, office: Engineering 4300, phone: 703-993-1530, webpage: cs.gmu.edu/~dsr/",
+    "response": "cs.gmu.edu/~dsr/"
+  },
+  {
+    "instruction": "What is Katherine Russell's email address?",
+    "context": "name: Katherine Russell, title: Associate Professor (Teaching), email: krusselc@gmu.edu, office: Buchanan Hall D217B, phone: 703-993-3339, webpage: N/A",
+    "response": "krusselc@gmu.edu"
+  },
+  {
+    "instruction": "What is Katherine Russell's phone number?",
+    "context": "name: Katherine Russell, title: Associate Professor (Teaching), email: krusselc@gmu.edu, office: Buchanan Hall D217B, phone: 703-993-3339, webpage: N/A",
+    "response": "703-993-3339"
+  },
+  {
+    "instruction": "Where is Katherine Russell's office located?",
+    "context": "name: Katherine Russell, title: Associate Professor (Teaching), email: krusselc@gmu.edu, office: Buchanan Hall D217B, phone: 703-993-3339, webpage: N/A",
+    "response": "Buchanan Hall D217B"
+  },
+  {
+    "instruction": "What is Katherine Russell's position?",
+    "context": "name: Katherine Russell, title: Associate Professor (Teaching), email: krusselc@gmu.edu, office: Buchanan Hall D217B, phone: 703-993-3339, webpage: N/A",
+    "response": "Associate Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Katherine Russell?",
+    "context": "name: Katherine Russell, title: Associate Professor (Teaching), email: krusselc@gmu.edu, office: Buchanan Hall D217B, phone: 703-993-3339, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Sanjeev Setia's email address?",
+    "context": "name: Sanjeev Setia, title: Professor, email: setia@gmu.edu, office: Engineering 5305, phone: 703-993-4098, webpage: cs.gmu.edu/~setia/",
+    "response": "setia@gmu.edu"
+  },
+  {
+    "instruction": "What is Sanjeev Setia's phone number?",
+    "context": "name: Sanjeev Setia, title: Professor, email: setia@gmu.edu, office: Engineering 5305, phone: 703-993-4098, webpage: cs.gmu.edu/~setia/",
+    "response": "703-993-4098"
+  },
+  {
+    "instruction": "Where is Sanjeev Setia's office located?",
+    "context": "name: Sanjeev Setia, title: Professor, email: setia@gmu.edu, office: Engineering 5305, phone: 703-993-4098, webpage: cs.gmu.edu/~setia/",
+    "response": "Engineering 5305"
+  },
+  {
+    "instruction": "What is Sanjeev Setia's position?",
+    "context": "name: Sanjeev Setia, title: Professor, email: setia@gmu.edu, office: Engineering 5305, phone: 703-993-4098, webpage: cs.gmu.edu/~setia/",
+    "response": "Professor"
+  },
+  {
+    "instruction": "What is the webpage for Sanjeev Setia?",
+    "context": "name: Sanjeev Setia, title: Professor, email: setia@gmu.edu, office: Engineering 5305, phone: 703-993-4098, webpage: cs.gmu.edu/~setia/",
+    "response": "cs.gmu.edu/~setia/"
+  },
+  {
+    "instruction": "What is Maha Shamseddine's email address?",
+    "context": "name: Maha Shamseddine, title: Assistant Professor (Teaching), email: maha@gmu.edu, office: Buchanan Hall D215I, phone: 703-993-6941, webpage: N/A",
+    "response": "maha@gmu.edu"
+  },
+  {
+    "instruction": "What is Maha Shamseddine's phone number?",
+    "context": "name: Maha Shamseddine, title: Assistant Professor (Teaching), email: maha@gmu.edu, office: Buchanan Hall D215I, phone: 703-993-6941, webpage: N/A",
+    "response": "703-993-6941"
+  },
+  {
+    "instruction": "Where is Maha Shamseddine's office located?",
+    "context": "name: Maha Shamseddine, title: Assistant Professor (Teaching), email: maha@gmu.edu, office: Buchanan Hall D215I, phone: 703-993-6941, webpage: N/A",
+    "response": "Buchanan Hall D215I"
+  },
+  {
+    "instruction": "What is Maha Shamseddine's position?",
+    "context": "name: Maha Shamseddine, title: Assistant Professor (Teaching), email: maha@gmu.edu, office: Buchanan Hall D215I, phone: 703-993-6941, webpage: N/A",
+    "response": "Assistant Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Maha Shamseddine?",
+    "context": "name: Maha Shamseddine, title: Assistant Professor (Teaching), email: maha@gmu.edu, office: Buchanan Hall D215I, phone: 703-993-6941, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Amarda Shehu's email address?",
+    "context": "name: Amarda Shehu, title: Professor and Associate Dean, email: amarda@gmu.edu, office: Engineering 5104, phone: N/A, webpage: cs.gmu.edu/~ashehu/",
+    "response": "amarda@gmu.edu"
+  },
+  {
+    "instruction": "What is Amarda Shehu's phone number?",
+    "context": "name: Amarda Shehu, title: Professor and Associate Dean, email: amarda@gmu.edu, office: Engineering 5104, phone: N/A, webpage: cs.gmu.edu/~ashehu/",
+    "response": "N/A"
+  },
+  {
+    "instruction": "Where is Amarda Shehu's office located?",
+    "context": "name: Amarda Shehu, title: Professor and Associate Dean, email: amarda@gmu.edu, office: Engineering 5104, phone: N/A, webpage: cs.gmu.edu/~ashehu/",
+    "response": "Engineering 5104"
+  },
+  {
+    "instruction": "What is Amarda Shehu's position?",
+    "context": "name: Amarda Shehu, title: Professor and Associate Dean, email: amarda@gmu.edu, office: Engineering 5104, phone: N/A, webpage: cs.gmu.edu/~ashehu/",
+    "response": "Professor and Associate Dean"
+  },
+  {
+    "instruction": "What is the webpage for Amarda Shehu?",
+    "context": "name: Amarda Shehu, title: Professor and Associate Dean, email: amarda@gmu.edu, office: Engineering 5104, phone: N/A, webpage: cs.gmu.edu/~ashehu/",
+    "response": "cs.gmu.edu/~ashehu/"
+  },
+  {
+    "instruction": "What is Robert Simon's email address?",
+    "context": "name: Robert Simon, title: Professor, email: simon@cs.gmu.edu, office: Engineering 5322, phone: 703-993-1556, webpage: cs.gmu.edu/~simon/",
+    "response": "simon@cs.gmu.edu"
+  },
+  {
+    "instruction": "What is Robert Simon's phone number?",
+    "context": "name: Robert Simon, title: Professor, email: simon@cs.gmu.edu, office: Engineering 5322, phone: 703-993-1556, webpage: cs.gmu.edu/~simon/",
+    "response": "703-993-1556"
+  },
+  {
+    "instruction": "Where is Robert Simon's office located?",
+    "context": "name: Robert Simon, title: Professor, email: simon@cs.gmu.edu, office: Engineering 5322, phone: 703-993-1556, webpage: cs.gmu.edu/~simon/",
+    "response": "Engineering 5322"
+  },
+  {
+    "instruction": "What is Robert Simon's position?",
+    "context": "name: Robert Simon, title: Professor, email: simon@cs.gmu.edu, office: Engineering 5322, phone: 703-993-1556, webpage: cs.gmu.edu/~simon/",
+    "response": "Professor"
+  },
+  {
+    "instruction": "What is the webpage for Robert Simon?",
+    "context": "name: Robert Simon, title: Professor, email: simon@cs.gmu.edu, office: Engineering 5322, phone: 703-993-1556, webpage: cs.gmu.edu/~simon/",
+    "response": "cs.gmu.edu/~simon/"
+  },
+  {
+    "instruction": "What is Gurdip Singh's email address?",
+    "context": "name: Gurdip Singh, title: Professor and Divisional Dean, School of Computing, email: gsingh5@gmu.edu, office: N/A, phone: N/A, webpage: N/A",
+    "response": "gsingh5@gmu.edu"
+  },
+  {
+    "instruction": "What is Gurdip Singh's phone number?",
+    "context": "name: Gurdip Singh, title: Professor and Divisional Dean, School of Computing, email: gsingh5@gmu.edu, office: N/A, phone: N/A, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "Where is Gurdip Singh's office located?",
+    "context": "name: Gurdip Singh, title: Professor and Divisional Dean, School of Computing, email: gsingh5@gmu.edu, office: N/A, phone: N/A, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Gurdip Singh's position?",
+    "context": "name: Gurdip Singh, title: Professor and Divisional Dean, School of Computing, email: gsingh5@gmu.edu, office: N/A, phone: N/A, webpage: N/A",
+    "response": "Professor and Divisional Dean, School of Computing"
+  },
+  {
+    "instruction": "What is the webpage for Gurdip Singh?",
+    "context": "name: Gurdip Singh, title: Professor and Divisional Dean, School of Computing, email: gsingh5@gmu.edu, office: N/A, phone: N/A, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Mark Snyder's email address?",
+    "context": "name: Mark Snyder, title: Professor (Teaching) and Associate Chair, email: msnyde14@gmu.edu, office: Buchanan Hall D217G, phone: 703-993-5624, webpage: cs.gmu.edu/~marks/",
+    "response": "msnyde14@gmu.edu"
+  },
+  {
+    "instruction": "What is Mark Snyder's phone number?",
+    "context": "name: Mark Snyder, title: Professor (Teaching) and Associate Chair, email: msnyde14@gmu.edu, office: Buchanan Hall D217G, phone: 703-993-5624, webpage: cs.gmu.edu/~marks/",
+    "response": "703-993-5624"
+  },
+  {
+    "instruction": "Where is Mark Snyder's office located?",
+    "context": "name: Mark Snyder, title: Professor (Teaching) and Associate Chair, email: msnyde14@gmu.edu, office: Buchanan Hall D217G, phone: 703-993-5624, webpage: cs.gmu.edu/~marks/",
+    "response": "Buchanan Hall D217G"
+  },
+  {
+    "instruction": "What is Mark Snyder's position?",
+    "context": "name: Mark Snyder, title: Professor (Teaching) and Associate Chair, email: msnyde14@gmu.edu, office: Buchanan Hall D217G, phone: 703-993-5624, webpage: cs.gmu.edu/~marks/",
+    "response": "Professor (Teaching) and Associate Chair"
+  },
+  {
+    "instruction": "What is the webpage for Mark Snyder?",
+    "context": "name: Mark Snyder, title: Professor (Teaching) and Associate Chair, email: msnyde14@gmu.edu, office: Buchanan Hall D217G, phone: 703-993-5624, webpage: cs.gmu.edu/~marks/",
+    "response": "cs.gmu.edu/~marks/"
+  },
+  {
+    "instruction": "What is Shvetha Soundararajan's email address?",
+    "context": "name: Shvetha Soundararajan, title: Associate Chair and Associate Professor (Teaching), email: shvetha@gmu.edu, office: Buchanan Hall D217H, phone: 703-993-6219, webpage: cs.gmu.edu/~shvetha/",
+    "response": "shvetha@gmu.edu"
+  },
+  {
+    "instruction": "What is Shvetha Soundararajan's phone number?",
+    "context": "name: Shvetha Soundararajan, title: Associate Chair and Associate Professor (Teaching), email: shvetha@gmu.edu, office: Buchanan Hall D217H, phone: 703-993-6219, webpage: cs.gmu.edu/~shvetha/",
+    "response": "703-993-6219"
+  },
+  {
+    "instruction": "Where is Shvetha Soundararajan's office located?",
+    "context": "name: Shvetha Soundararajan, title: Associate Chair and Associate Professor (Teaching), email: shvetha@gmu.edu, office: Buchanan Hall D217H, phone: 703-993-6219, webpage: cs.gmu.edu/~shvetha/",
+    "response": "Buchanan Hall D217H"
+  },
+  {
+    "instruction": "What is Shvetha Soundararajan's position?",
+    "context": "name: Shvetha Soundararajan, title: Associate Chair and Associate Professor (Teaching), email: shvetha@gmu.edu, office: Buchanan Hall D217H, phone: 703-993-6219, webpage: cs.gmu.edu/~shvetha/",
+    "response": "Associate Chair and Associate Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Shvetha Soundararajan?",
+    "context": "name: Shvetha Soundararajan, title: Associate Chair and Associate Professor (Teaching), email: shvetha@gmu.edu, office: Buchanan Hall D217H, phone: 703-993-6219, webpage: cs.gmu.edu/~shvetha/",
+    "response": "cs.gmu.edu/~shvetha/"
+  },
+  {
+    "instruction": "What is Gregory Stein's email address?",
+    "context": "name: Gregory Stein, title: Assistant Professor, email: gjstein@gmu.edu, office: Research Hall 169, phone: 703-993-6822, webpage: cs.gmu.edu/~gjstein/",
+    "response": "gjstein@gmu.edu"
+  },
+  {
+    "instruction": "What is Gregory Stein's phone number?",
+    "context": "name: Gregory Stein, title: Assistant Professor, email: gjstein@gmu.edu, office: Research Hall 169, phone: 703-993-6822, webpage: cs.gmu.edu/~gjstein/",
+    "response": "703-993-6822"
+  },
+  {
+    "instruction": "Where is Gregory Stein's office located?",
+    "context": "name: Gregory Stein, title: Assistant Professor, email: gjstein@gmu.edu, office: Research Hall 169, phone: 703-993-6822, webpage: cs.gmu.edu/~gjstein/",
+    "response": "Research Hall 169"
+  },
+  {
+    "instruction": "What is Gregory Stein's position?",
+    "context": "name: Gregory Stein, title: Assistant Professor, email: gjstein@gmu.edu, office: Research Hall 169, phone: 703-993-6822, webpage: cs.gmu.edu/~gjstein/",
+    "response": "Assistant Professor"
+  },
+  {
+    "instruction": "What is the webpage for Gregory Stein?",
+    "context": "name: Gregory Stein, title: Assistant Professor, email: gjstein@gmu.edu, office: Research Hall 169, phone: 703-993-6822, webpage: cs.gmu.edu/~gjstein/",
+    "response": "cs.gmu.edu/~gjstein/"
+  },
+  {
+    "instruction": "What is Gheorghe Tecuci's email address?",
+    "context": "name: Gheorghe Tecuci, title: Professor, email: tecuci@gmu.edu, office: Engineering 4613, phone: 703-993-1722, webpage: lac.gmu.edu/members/~tecuci/",
+    "response": "tecuci@gmu.edu"
+  },
+  {
+    "instruction": "What is Gheorghe Tecuci's phone number?",
+    "context": "name: Gheorghe Tecuci, title: Professor, email: tecuci@gmu.edu, office: Engineering 4613, phone: 703-993-1722, webpage: lac.gmu.edu/members/~tecuci/",
+    "response": "703-993-1722"
+  },
+  {
+    "instruction": "Where is Gheorghe Tecuci's office located?",
+    "context": "name: Gheorghe Tecuci, title: Professor, email: tecuci@gmu.edu, office: Engineering 4613, phone: 703-993-1722, webpage: lac.gmu.edu/members/~tecuci/",
+    "response": "Engineering 4613"
+  },
+  {
+    "instruction": "What is Gheorghe Tecuci's position?",
+    "context": "name: Gheorghe Tecuci, title: Professor, email: tecuci@gmu.edu, office: Engineering 4613, phone: 703-993-1722, webpage: lac.gmu.edu/members/~tecuci/",
+    "response": "Professor"
+  },
+  {
+    "instruction": "What is the webpage for Gheorghe Tecuci?",
+    "context": "name: Gheorghe Tecuci, title: Professor, email: tecuci@gmu.edu, office: Engineering 4613, phone: 703-993-1722, webpage: lac.gmu.edu/members/~tecuci/",
+    "response": "lac.gmu.edu/members/~tecuci/"
+  },
+  {
+    "instruction": "What is Xinyuan (Frank) Wang's email address?",
+    "context": "name: Xinyuan (Frank) Wang, title: Associate Professor, email: xwangc@gmu.edu, office: Engineering 5331, phone: 703-993-9461, webpage: cs.gmu.edu/~xwangc/",
+    "response": "xwangc@gmu.edu"
+  },
+  {
+    "instruction": "What is Xinyuan (Frank) Wang's phone number?",
+    "context": "name: Xinyuan (Frank) Wang, title: Associate Professor, email: xwangc@gmu.edu, office: Engineering 5331, phone: 703-993-9461, webpage: cs.gmu.edu/~xwangc/",
+    "response": "703-993-9461"
+  },
+  {
+    "instruction": "Where is Xinyuan (Frank) Wang's office located?",
+    "context": "name: Xinyuan (Frank) Wang, title: Associate Professor, email: xwangc@gmu.edu, office: Engineering 5331, phone: 703-993-9461, webpage: cs.gmu.edu/~xwangc/",
+    "response": "Engineering 5331"
+  },
+  {
+    "instruction": "What is Xinyuan (Frank) Wang's position?",
+    "context": "name: Xinyuan (Frank) Wang, title: Associate Professor, email: xwangc@gmu.edu, office: Engineering 5331, phone: 703-993-9461, webpage: cs.gmu.edu/~xwangc/",
+    "response": "Associate Professor"
+  },
+  {
+    "instruction": "What is the webpage for Xinyuan (Frank) Wang?",
+    "context": "name: Xinyuan (Frank) Wang, title: Associate Professor, email: xwangc@gmu.edu, office: Engineering 5331, phone: 703-993-9461, webpage: cs.gmu.edu/~xwangc/",
+    "response": "cs.gmu.edu/~xwangc/"
+  },
+  {
+    "instruction": "What is Elizabeth White's email address?",
+    "context": "name: Elizabeth White, title: Associate Professor, email: white@gmu.edu, office: Engineering 5315, phone: 703-993-1586, webpage: cs.gmu.edu/~white/",
+    "response": "white@gmu.edu"
+  },
+  {
+    "instruction": "What is Elizabeth White's phone number?",
+    "context": "name: Elizabeth White, title: Associate Professor, email: white@gmu.edu, office: Engineering 5315, phone: 703-993-1586, webpage: cs.gmu.edu/~white/",
+    "response": "703-993-1586"
+  },
+  {
+    "instruction": "Where is Elizabeth White's office located?",
+    "context": "name: Elizabeth White, title: Associate Professor, email: white@gmu.edu, office: Engineering 5315, phone: 703-993-1586, webpage: cs.gmu.edu/~white/",
+    "response": "Engineering 5315"
+  },
+  {
+    "instruction": "What is Elizabeth White's position?",
+    "context": "name: Elizabeth White, title: Associate Professor, email: white@gmu.edu, office: Engineering 5315, phone: 703-993-1586, webpage: cs.gmu.edu/~white/",
+    "response": "Associate Professor"
+  },
+  {
+    "instruction": "What is the webpage for Elizabeth White?",
+    "context": "name: Elizabeth White, title: Associate Professor, email: white@gmu.edu, office: Engineering 5315, phone: 703-993-1586, webpage: cs.gmu.edu/~white/",
+    "response": "cs.gmu.edu/~white/"
+  },
+  {
+    "instruction": "What is Duminda Wijesekera's email address?",
+    "context": "name: Duminda Wijesekera, title: Professor, email: dwijesek@gmu.edu, office: Research Hall 436, phone: 703-993-1578, webpage: cs.gmu.edu/~duminda/",
+    "response": "dwijesek@gmu.edu"
+  },
+  {
+    "instruction": "What is Duminda Wijesekera's phone number?",
+    "context": "name: Duminda Wijesekera, title: Professor, email: dwijesek@gmu.edu, office: Research Hall 436, phone: 703-993-1578, webpage: cs.gmu.edu/~duminda/",
+    "response": "703-993-1578"
+  },
+  {
+    "instruction": "Where is Duminda Wijesekera's office located?",
+    "context": "name: Duminda Wijesekera, title: Professor, email: dwijesek@gmu.edu, office: Research Hall 436, phone: 703-993-1578, webpage: cs.gmu.edu/~duminda/",
+    "response": "Research Hall 436"
+  },
+  {
+    "instruction": "What is Duminda Wijesekera's position?",
+    "context": "name: Duminda Wijesekera, title: Professor, email: dwijesek@gmu.edu, office: Research Hall 436, phone: 703-993-1578, webpage: cs.gmu.edu/~duminda/",
+    "response": "Professor"
+  },
+  {
+    "instruction": "What is the webpage for Duminda Wijesekera?",
+    "context": "name: Duminda Wijesekera, title: Professor, email: dwijesek@gmu.edu, office: Research Hall 436, phone: 703-993-1578, webpage: cs.gmu.edu/~duminda/",
+    "response": "cs.gmu.edu/~duminda/"
+  },
+  {
+    "instruction": "What is Xuesu Xiao's email address?",
+    "context": "name: Xuesu Xiao, title: Assistant Professor, email: xiao@gmu.edu, office: Research Hall 165, phone: 703-993-6938, webpage: cs.gmu.edu/~xiao/",
+    "response": "xiao@gmu.edu"
+  },
+  {
+    "instruction": "What is Xuesu Xiao's phone number?",
+    "context": "name: Xuesu Xiao, title: Assistant Professor, email: xiao@gmu.edu, office: Research Hall 165, phone: 703-993-6938, webpage: cs.gmu.edu/~xiao/",
+    "response": "703-993-6938"
+  },
+  {
+    "instruction": "Where is Xuesu Xiao's office located?",
+    "context": "name: Xuesu Xiao, title: Assistant Professor, email: xiao@gmu.edu, office: Research Hall 165, phone: 703-993-6938, webpage: cs.gmu.edu/~xiao/",
+    "response": "Research Hall 165"
+  },
+  {
+    "instruction": "What is Xuesu Xiao's position?",
+    "context": "name: Xuesu Xiao, title: Assistant Professor, email: xiao@gmu.edu, office: Research Hall 165, phone: 703-993-6938, webpage: cs.gmu.edu/~xiao/",
+    "response": "Assistant Professor"
+  },
+  {
+    "instruction": "What is the webpage for Xuesu Xiao?",
+    "context": "name: Xuesu Xiao, title: Assistant Professor, email: xiao@gmu.edu, office: Research Hall 165, phone: 703-993-6938, webpage: cs.gmu.edu/~xiao/",
+    "response": "cs.gmu.edu/~xiao/"
+  },
+  {
+    "instruction": "What is Lishan Yang's email address?",
+    "context": "name: Lishan Yang, title: Assistant Professor, email: lyang28@gmu.edu, office: Engineering 4610, phone: 703-993-6903, webpage: lishanyang.github.io",
+    "response": "lyang28@gmu.edu"
+  },
+  {
+    "instruction": "What is Lishan Yang's phone number?",
+    "context": "name: Lishan Yang, title: Assistant Professor, email: lyang28@gmu.edu, office: Engineering 4610, phone: 703-993-6903, webpage: lishanyang.github.io",
+    "response": "703-993-6903"
+  },
+  {
+    "instruction": "Where is Lishan Yang's office located?",
+    "context": "name: Lishan Yang, title: Assistant Professor, email: lyang28@gmu.edu, office: Engineering 4610, phone: 703-993-6903, webpage: lishanyang.github.io",
+    "response": "Engineering 4610"
+  },
+  {
+    "instruction": "What is Lishan Yang's position?",
+    "context": "name: Lishan Yang, title: Assistant Professor, email: lyang28@gmu.edu, office: Engineering 4610, phone: 703-993-6903, webpage: lishanyang.github.io",
+    "response": "Assistant Professor"
+  },
+  {
+    "instruction": "What is the webpage for Lishan Yang?",
+    "context": "name: Lishan Yang, title: Assistant Professor, email: lyang28@gmu.edu, office: Engineering 4610, phone: 703-993-6903, webpage: lishanyang.github.io",
+    "response": "lishanyang.github.io"
+  },
+  {
+    "instruction": "What is Shuochao Yao's email address?",
+    "context": "name: Shuochao Yao, title: Assistant Professor, email: shuochao@gmu.edu, office: Engineering 5327, phone: 703-993-6827, webpage: yscacaca.github.io/",
+    "response": "shuochao@gmu.edu"
+  },
+  {
+    "instruction": "What is Shuochao Yao's phone number?",
+    "context": "name: Shuochao Yao, title: Assistant Professor, email: shuochao@gmu.edu, office: Engineering 5327, phone: 703-993-6827, webpage: yscacaca.github.io/",
+    "response": "703-993-6827"
+  },
+  {
+    "instruction": "Where is Shuochao Yao's office located?",
+    "context": "name: Shuochao Yao, title: Assistant Professor, email: shuochao@gmu.edu, office: Engineering 5327, phone: 703-993-6827, webpage: yscacaca.github.io/",
+    "response": "Engineering 5327"
+  },
+  {
+    "instruction": "What is Shuochao Yao's position?",
+    "context": "name: Shuochao Yao, title: Assistant Professor, email: shuochao@gmu.edu, office: Engineering 5327, phone: 703-993-6827, webpage: yscacaca.github.io/",
+    "response": "Assistant Professor"
+  },
+  {
+    "instruction": "What is the webpage for Shuochao Yao?",
+    "context": "name: Shuochao Yao, title: Assistant Professor, email: shuochao@gmu.edu, office: Engineering 5327, phone: 703-993-6827, webpage: yscacaca.github.io/",
+    "response": "yscacaca.github.io/"
+  },
+  {
+    "instruction": "What is Ziyu Yao's email address?",
+    "context": "name: Ziyu Yao, title: Assistant Professor, email: ziyuyao@gmu.edu, office: Engineering 4415, phone: 703-993-6649, webpage: ziyuyao.org/",
+    "response": "ziyuyao@gmu.edu"
+  },
+  {
+    "instruction": "What is Ziyu Yao's phone number?",
+    "context": "name: Ziyu Yao, title: Assistant Professor, email: ziyuyao@gmu.edu, office: Engineering 4415, phone: 703-993-6649, webpage: ziyuyao.org/",
+    "response": "703-993-6649"
+  },
+  {
+    "instruction": "Where is Ziyu Yao's office located?",
+    "context": "name: Ziyu Yao, title: Assistant Professor, email: ziyuyao@gmu.edu, office: Engineering 4415, phone: 703-993-6649, webpage: ziyuyao.org/",
+    "response": "Engineering 4415"
+  },
+  {
+    "instruction": "What is Ziyu Yao's position?",
+    "context": "name: Ziyu Yao, title: Assistant Professor, email: ziyuyao@gmu.edu, office: Engineering 4415, phone: 703-993-6649, webpage: ziyuyao.org/",
+    "response": "Assistant Professor"
+  },
+  {
+    "instruction": "What is the webpage for Ziyu Yao?",
+    "context": "name: Ziyu Yao, title: Assistant Professor, email: ziyuyao@gmu.edu, office: Engineering 4415, phone: 703-993-6649, webpage: ziyuyao.org/",
+    "response": "ziyuyao.org/"
+  },
+  {
+    "instruction": "What is Jinwei Ye's email address?",
+    "context": "name: Jinwei Ye, title: Associate Professor, email: jinweiye@gmu.edu, office: Research Hall 409, phone: 703-993-6668, webpage: cs.gmu.edu/~jinweiye/",
+    "response": "jinweiye@gmu.edu"
+  },
+  {
+    "instruction": "What is Jinwei Ye's phone number?",
+    "context": "name: Jinwei Ye, title: Associate Professor, email: jinweiye@gmu.edu, office: Research Hall 409, phone: 703-993-6668, webpage: cs.gmu.edu/~jinweiye/",
+    "response": "703-993-6668"
+  },
+  {
+    "instruction": "Where is Jinwei Ye's office located?",
+    "context": "name: Jinwei Ye, title: Associate Professor, email: jinweiye@gmu.edu, office: Research Hall 409, phone: 703-993-6668, webpage: cs.gmu.edu/~jinweiye/",
+    "response": "Research Hall 409"
+  },
+  {
+    "instruction": "What is Jinwei Ye's position?",
+    "context": "name: Jinwei Ye, title: Associate Professor, email: jinweiye@gmu.edu, office: Research Hall 409, phone: 703-993-6668, webpage: cs.gmu.edu/~jinweiye/",
+    "response": "Associate Professor"
+  },
+  {
+    "instruction": "What is the webpage for Jinwei Ye?",
+    "context": "name: Jinwei Ye, title: Associate Professor, email: jinweiye@gmu.edu, office: Research Hall 409, phone: 703-993-6668, webpage: cs.gmu.edu/~jinweiye/",
+    "response": "cs.gmu.edu/~jinweiye/"
+  },
+  {
+    "instruction": "What is Binqian (Bella) Yin's email address?",
+    "context": "name: Binqian (Bella) Yin, title: Assistant Professor (Teaching), email: byin2@gmu.edu, office: Buchanan Hall D215J, phone: 703-993-8454, webpage: N/A",
+    "response": "byin2@gmu.edu"
+  },
+  {
+    "instruction": "What is Binqian (Bella) Yin's phone number?",
+    "context": "name: Binqian (Bella) Yin, title: Assistant Professor (Teaching), email: byin2@gmu.edu, office: Buchanan Hall D215J, phone: 703-993-8454, webpage: N/A",
+    "response": "703-993-8454"
+  },
+  {
+    "instruction": "Where is Binqian (Bella) Yin's office located?",
+    "context": "name: Binqian (Bella) Yin, title: Assistant Professor (Teaching), email: byin2@gmu.edu, office: Buchanan Hall D215J, phone: 703-993-8454, webpage: N/A",
+    "response": "Buchanan Hall D215J"
+  },
+  {
+    "instruction": "What is Binqian (Bella) Yin's position?",
+    "context": "name: Binqian (Bella) Yin, title: Assistant Professor (Teaching), email: byin2@gmu.edu, office: Buchanan Hall D215J, phone: 703-993-8454, webpage: N/A",
+    "response": "Assistant Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Binqian (Bella) Yin?",
+    "context": "name: Binqian (Bella) Yin, title: Assistant Professor (Teaching), email: byin2@gmu.edu, office: Buchanan Hall D215J, phone: 703-993-8454, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Fang-Yi Yu's email address?",
+    "context": "name: Fang-Yi Yu, title: Assistant Professor, email: fangyiyu@gmu.edu, office: Research Hall 350, phone: 703-993-6930, webpage: cs.gmu.edu/~fangyiyu/",
+    "response": "fangyiyu@gmu.edu"
+  },
+  {
+    "instruction": "What is Fang-Yi Yu's phone number?",
+    "context": "name: Fang-Yi Yu, title: Assistant Professor, email: fangyiyu@gmu.edu, office: Research Hall 350, phone: 703-993-6930, webpage: cs.gmu.edu/~fangyiyu/",
+    "response": "703-993-6930"
+  },
+  {
+    "instruction": "Where is Fang-Yi Yu's office located?",
+    "context": "name: Fang-Yi Yu, title: Assistant Professor, email: fangyiyu@gmu.edu, office: Research Hall 350, phone: 703-993-6930, webpage: cs.gmu.edu/~fangyiyu/",
+    "response": "Research Hall 350"
+  },
+  {
+    "instruction": "What is Fang-Yi Yu's position?",
+    "context": "name: Fang-Yi Yu, title: Assistant Professor, email: fangyiyu@gmu.edu, office: Research Hall 350, phone: 703-993-6930, webpage: cs.gmu.edu/~fangyiyu/",
+    "response": "Assistant Professor"
+  },
+  {
+    "instruction": "What is the webpage for Fang-Yi Yu?",
+    "context": "name: Fang-Yi Yu, title: Assistant Professor, email: fangyiyu@gmu.edu, office: Research Hall 350, phone: 703-993-6930, webpage: cs.gmu.edu/~fangyiyu/",
+    "response": "cs.gmu.edu/~fangyiyu/"
+  },
+  {
+    "instruction": "What is Lap-Fai (Craig) Yu's email address?",
+    "context": "name: Lap-Fai (Craig) Yu, title: Associate Professor, email: craigyu@gmu.edu, office: Research Hall 406, phone: 703-993-4813, webpage: cs.gmu.edu/~craigyu/",
+    "response": "craigyu@gmu.edu"
+  },
+  {
+    "instruction": "What is Lap-Fai (Craig) Yu's phone number?",
+    "context": "name: Lap-Fai (Craig) Yu, title: Associate Professor, email: craigyu@gmu.edu, office: Research Hall 406, phone: 703-993-4813, webpage: cs.gmu.edu/~craigyu/",
+    "response": "703-993-4813"
+  },
+  {
+    "instruction": "Where is Lap-Fai (Craig) Yu's office located?",
+    "context": "name: Lap-Fai (Craig) Yu, title: Associate Professor, email: craigyu@gmu.edu, office: Research Hall 406, phone: 703-993-4813, webpage: cs.gmu.edu/~craigyu/",
+    "response": "Research Hall 406"
+  },
+  {
+    "instruction": "What is Lap-Fai (Craig) Yu's position?",
+    "context": "name: Lap-Fai (Craig) Yu, title: Associate Professor, email: craigyu@gmu.edu, office: Research Hall 406, phone: 703-993-4813, webpage: cs.gmu.edu/~craigyu/",
+    "response": "Associate Professor"
+  },
+  {
+    "instruction": "What is the webpage for Lap-Fai (Craig) Yu?",
+    "context": "name: Lap-Fai (Craig) Yu, title: Associate Professor, email: craigyu@gmu.edu, office: Research Hall 406, phone: 703-993-4813, webpage: cs.gmu.edu/~craigyu/",
+    "response": "cs.gmu.edu/~craigyu/"
+  },
+  {
+    "instruction": "What is Ahmed Bin Zaman's email address?",
+    "context": "name: Ahmed Bin Zaman, title: Assistant Professor (Teaching), email: azaman6@gmu.edu, office: Engineering 4455, phone: 703-993-6642, webpage: N/A",
+    "response": "azaman6@gmu.edu"
+  },
+  {
+    "instruction": "What is Ahmed Bin Zaman's phone number?",
+    "context": "name: Ahmed Bin Zaman, title: Assistant Professor (Teaching), email: azaman6@gmu.edu, office: Engineering 4455, phone: 703-993-6642, webpage: N/A",
+    "response": "703-993-6642"
+  },
+  {
+    "instruction": "Where is Ahmed Bin Zaman's office located?",
+    "context": "name: Ahmed Bin Zaman, title: Assistant Professor (Teaching), email: azaman6@gmu.edu, office: Engineering 4455, phone: 703-993-6642, webpage: N/A",
+    "response": "Engineering 4455"
+  },
+  {
+    "instruction": "What is Ahmed Bin Zaman's position?",
+    "context": "name: Ahmed Bin Zaman, title: Assistant Professor (Teaching), email: azaman6@gmu.edu, office: Engineering 4455, phone: 703-993-6642, webpage: N/A",
+    "response": "Assistant Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Ahmed Bin Zaman?",
+    "context": "name: Ahmed Bin Zaman, title: Assistant Professor (Teaching), email: azaman6@gmu.edu, office: Engineering 4455, phone: 703-993-6642, webpage: N/A",
+    "response": "N/A"
+  },
+  {
+    "instruction": "What is Qiang Zeng's email address?",
+    "context": "name: Qiang Zeng, title: Associate Professor, email: zeng@gmu.edu, office: Engineering 4448, phone: N/A, webpage: cs.gmu.edu/~zeng/",
+    "response": "zeng@gmu.edu"
+  },
+  {
+    "instruction": "What is Qiang Zeng's phone number?",
+    "context": "name: Qiang Zeng, title: Associate Professor, email: zeng@gmu.edu, office: Engineering 4448, phone: N/A, webpage: cs.gmu.edu/~zeng/",
+    "response": "N/A"
+  },
+  {
+    "instruction": "Where is Qiang Zeng's office located?",
+    "context": "name: Qiang Zeng, title: Associate Professor, email: zeng@gmu.edu, office: Engineering 4448, phone: N/A, webpage: cs.gmu.edu/~zeng/",
+    "response": "Engineering 4448"
+  },
+  {
+    "instruction": "What is Qiang Zeng's position?",
+    "context": "name: Qiang Zeng, title: Associate Professor, email: zeng@gmu.edu, office: Engineering 4448, phone: N/A, webpage: cs.gmu.edu/~zeng/",
+    "response": "Associate Professor"
+  },
+  {
+    "instruction": "What is the webpage for Qiang Zeng?",
+    "context": "name: Qiang Zeng, title: Associate Professor, email: zeng@gmu.edu, office: Engineering 4448, phone: N/A, webpage: cs.gmu.edu/~zeng/",
+    "response": "cs.gmu.edu/~zeng/"
+  },
+  {
+    "instruction": "What is Xiaokuan Zhang's email address?",
+    "context": "name: Xiaokuan Zhang, title: Assistant Professor, email: xiaokuan@gmu.edu, office: Research Hall 357, phone: 703-993-6931, webpage: mainrake.github.io/",
+    "response": "xiaokuan@gmu.edu"
+  },
+  {
+    "instruction": "What is Xiaokuan Zhang's phone number?",
+    "context": "name: Xiaokuan Zhang, title: Assistant Professor, email: xiaokuan@gmu.edu, office: Research Hall 357, phone: 703-993-6931, webpage: mainrake.github.io/",
+    "response": "703-993-6931"
+  },
+  {
+    "instruction": "Where is Xiaokuan Zhang's office located?",
+    "context": "name: Xiaokuan Zhang, title: Assistant Professor, email: xiaokuan@gmu.edu, office: Research Hall 357, phone: 703-993-6931, webpage: mainrake.github.io/",
+    "response": "Research Hall 357"
+  },
+  {
+    "instruction": "What is Xiaokuan Zhang's position?",
+    "context": "name: Xiaokuan Zhang, title: Assistant Professor, email: xiaokuan@gmu.edu, office: Research Hall 357, phone: 703-993-6931, webpage: mainrake.github.io/",
+    "response": "Assistant Professor"
+  },
+  {
+    "instruction": "What is the webpage for Xiaokuan Zhang?",
+    "context": "name: Xiaokuan Zhang, title: Assistant Professor, email: xiaokuan@gmu.edu, office: Research Hall 357, phone: 703-993-6931, webpage: mainrake.github.io/",
+    "response": "mainrake.github.io/"
+  },
+  {
+    "instruction": "What is Yutao Zhong's email address?",
+    "context": "name: Yutao Zhong, title: Associate Professor (Teaching), email: yzhong@gmu.edu, office: Engineering 4433, phone: 703-993-1773, webpage: cs.gmu.edu/~yzhong/",
+    "response": "yzhong@gmu.edu"
+  },
+  {
+    "instruction": "What is Yutao Zhong's phone number?",
+    "context": "name: Yutao Zhong, title: Associate Professor (Teaching), email: yzhong@gmu.edu, office: Engineering 4433, phone: 703-993-1773, webpage: cs.gmu.edu/~yzhong/",
+    "response": "703-993-1773"
+  },
+  {
+    "instruction": "Where is Yutao Zhong's office located?",
+    "context": "name: Yutao Zhong, title: Associate Professor (Teaching), email: yzhong@gmu.edu, office: Engineering 4433, phone: 703-993-1773, webpage: cs.gmu.edu/~yzhong/",
+    "response": "Engineering 4433"
+  },
+  {
+    "instruction": "What is Yutao Zhong's position?",
+    "context": "name: Yutao Zhong, title: Associate Professor (Teaching), email: yzhong@gmu.edu, office: Engineering 4433, phone: 703-993-1773, webpage: cs.gmu.edu/~yzhong/",
+    "response": "Associate Professor (Teaching)"
+  },
+  {
+    "instruction": "What is the webpage for Yutao Zhong?",
+    "context": "name: Yutao Zhong, title: Associate Professor (Teaching), email: yzhong@gmu.edu, office: Engineering 4433, phone: 703-993-1773, webpage: cs.gmu.edu/~yzhong/",
+    "response": "cs.gmu.edu/~yzhong/"
+  },
+  {
+    "instruction": "What is Keren Zhou's email address?",
+    "context": "name: Keren Zhou, title: Assistant Professor, email: kzhou6@gmu.edu, office: Engineering 5315, phone: 703-993-8889, webpage: www.jokerzen.tech/",
+    "response": "kzhou6@gmu.edu"
+  },
+  {
+    "instruction": "What is Keren Zhou's phone number?",
+    "context": "name: Keren Zhou, title: Assistant Professor, email: kzhou6@gmu.edu, office: Engineering 5315, phone: 703-993-8889, webpage: www.jokerzen.tech/",
+    "response": "703-993-8889"
+  },
+  {
+    "instruction": "Where is Keren Zhou's office located?",
+    "context": "name: Keren Zhou, title: Assistant Professor, email: kzhou6@gmu.edu, office: Engineering 5315, phone: 703-993-8889, webpage: www.jokerzen.tech/",
+    "response": "Engineering 5315"
+  },
+  {
+    "instruction": "What is Keren Zhou's position?",
+    "context": "name: Keren Zhou, title: Assistant Professor, email: kzhou6@gmu.edu, office: Engineering 5315, phone: 703-993-8889, webpage: www.jokerzen.tech/",
+    "response": "Assistant Professor"
+  },
+  {
+    "instruction": "What is the webpage for Keren Zhou?",
+    "context": "name: Keren Zhou, title: Assistant Professor, email: kzhou6@gmu.edu, office: Engineering 5315, phone: 703-993-8889, webpage: www.jokerzen.tech/",
+    "response": "www.jokerzen.tech/"
+  },
+  {
+    "instruction": "What is Ziwei Zhu's email address?",
+    "context": "name: Ziwei Zhu, title: Assistant Professor, email: zzhu20@gmu.edu, office: Engineering 4609, phone: 703-993-6933, webpage: ziweii.github.io/",
+    "response": "zzhu20@gmu.edu"
+  },
+  {
+    "instruction": "What is Ziwei Zhu's phone number?",
+    "context": "name: Ziwei Zhu, title: Assistant Professor, email: zzhu20@gmu.edu, office: Engineering 4609, phone: 703-993-6933, webpage: ziweii.github.io/",
+    "response": "703-993-6933"
+  },
+  {
+    "instruction": "Where is Ziwei Zhu's office located?",
+    "context": "name: Ziwei Zhu, title: Assistant Professor, email: zzhu20@gmu.edu, office: Engineering 4609, phone: 703-993-6933, webpage: ziweii.github.io/",
+    "response": "Engineering 4609"
+  },
+  {
+    "instruction": "What is Ziwei Zhu's position?",
+    "context": "name: Ziwei Zhu, title: Assistant Professor, email: zzhu20@gmu.edu, office: Engineering 4609, phone: 703-993-6933, webpage: ziweii.github.io/",
+    "response": "Assistant Professor"
+  },
+  {
+    "instruction": "What is the webpage for Ziwei Zhu?",
+    "context": "name: Ziwei Zhu, title: Assistant Professor, email: zzhu20@gmu.edu, office: Engineering 4609, phone: 703-993-6933, webpage: ziweii.github.io/",
+    "response": "ziweii.github.io/"
+  },
+  {
+    "instruction": "Who is Ghada Abdelmoumin?",
+    "context": "",
+    "response": "Ghada Abdelmoumin is an Associate Professor (Teaching) in the Computer Science department."
+  },
+  {
+    "instruction": "What is Ghada Abdelmoumin's email address?",
+    "context": "",
+    "response": "The email address for Ghada Abdelmoumin is gabdelmo@gmu.edu."
+  },
+  {
+    "instruction": "Where is Ghada Abdelmoumin's office located?",
+    "context": "",
+    "response": "Ghada Abdelmoumin's office is located in Engineering 4439."
+  },
+  {
+    "instruction": "What is Ghada Abdelmoumin's phone number?",
+    "context": "",
+    "response": "Ghada Abdelmoumin's phone number is 703-993-1152."
+  },
+  {
+    "instruction": "Who is Jan Allbeck?",
+    "context": "",
+    "response": "Jan Allbeck is an Associate Professor and Associate Dean of the Honors College in the Computer Science department."
+  },
+  {
+    "instruction": "What is Jan Allbeck's email address?",
+    "context": "",
+    "response": "Jan Allbeck's email address is jallbeck@gmu.edu."
+  },
+  {
+    "instruction": "Where is Jan Allbeck's office located?",
+    "context": "",
+    "response": "Jan Allbeck's office is located in Buchanan D205D."
+  },
+  {
+    "instruction": "What is Jan Allbeck's phone number?",
+    "context": "",
+    "response": "Jan Allbeck's phone number is 703-993-1101."
+  },
+  {
+    "instruction": "What is the webpage for Jan Allbeck?",
+    "context": "",
+    "response": "The webpage for Jan Allbeck is cs.gmu.edu/~jallbeck/."
+  },
+  {
+    "instruction": "Who is Antonios Anastasopoulos?",
+    "context": "",
+    "response": "Antonios Anastasopoulos is an Assistant Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Antonios Anastasopoulos' email address?",
+    "context": "",
+    "response": "Antonios Anastasopoulos' email address is antonis@gmu.edu."
+  },
+  {
+    "instruction": "Where is Antonios Anastasopoulos' office located?",
+    "context": "",
+    "response": "Antonios Anastasopoulos' office is located in Engineering 4412."
+  },
+  {
+    "instruction": "What is Antonios Anastasopoulos' phone number?",
+    "context": "",
+    "response": "Antonios Anastasopoulos' phone number is 703-993-6821."
+  },
+  {
+    "instruction": "What is the webpage for Antonios Anastasopoulos?",
+    "context": "",
+    "response": "The webpage for Antonios Anastasopoulos is cs.gmu.edu/~antonis/."
+  },
+  {
+    "instruction": "Who is Kevin Andrea?",
+    "context": "",
+    "response": "Kevin Andrea is an Assistant Professor (Teaching) in the Computer Science department."
+  },
+  {
+    "instruction": "What is Kevin Andrea's email address?",
+    "context": "",
+    "response": "Kevin Andrea's email address is kandrea@gmu.edu."
+  },
+  {
+    "instruction": "Where is Kevin Andrea's office located?",
+    "context": "",
+    "response": "Kevin Andrea's office is located in Buchanan Hall D217C."
+  },
+  {
+    "instruction": "What is Kevin Andrea's phone number?",
+    "context": "",
+    "response": "Kevin Andrea's phone number is 703-993-5429."
+  },
+  {
+    "instruction": "What is the webpage for Kevin Andrea?",
+    "context": "",
+    "response": "The webpage for Kevin Andrea is cs.gmu.edu/~kandrea."
+  },
+  {
+    "instruction": "Who is Giuseppe Ateniese?",
+    "context": "",
+    "response": "Giuseppe Ateniese is an Eminent Scholar and Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Giuseppe Ateniese's email address?",
+    "context": "",
+    "response": "Giuseppe Ateniese's email address is ateniese@gmu.edu."
+  },
+  {
+    "instruction": "Where is Giuseppe Ateniese's office located?",
+    "context": "",
+    "response": "Giuseppe Ateniese's office is located in Research Hall 339."
+  },
+  {
+    "instruction": "What is Giuseppe Ateniese's phone number?",
+    "context": "",
+    "response": "Giuseppe Ateniese's phone number is 703-993-6758."
+  },
+  {
+    "instruction": "What is the webpage for Giuseppe Ateniese?",
+    "context": "",
+    "response": "The webpage for Giuseppe Ateniese is ateniese.github.io/."
+  },
+  {
+    "instruction": "Who is Ivan Avramovic?",
+    "context": "",
+    "response": "Ivan Avramovic is an Assistant Professor (Teaching) in the Computer Science department."
+  },
+  {
+    "instruction": "What is Ivan Avramovic's email address?",
+    "context": "",
+    "response": "Ivan Avramovic's email address is iavramo2@gmu.edu."
+  },
+  {
+    "instruction": "Where is Ivan Avramovic's office located?",
+    "context": "",
+    "response": "Ivan Avramovic's office is located in Buchanan Hall D215K."
+  },
+  {
+    "instruction": "What is Ivan Avramovic's phone number?",
+    "context": "",
+    "response": "Ivan Avramovic's phone number is 703-993-5426."
+  },
+  {
+    "instruction": "What is the webpage for Ivan Avramovic?",
+    "context": "",
+    "response": "The webpage for Ivan Avramovic is cs.gmu.edu/~iavramo2/."
+  },
+  {
+    "instruction": "Who is Hakan Aydin?",
+    "context": "",
+    "response": "Hakan Aydin is a Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Hakan Aydin's email address?",
+    "context": "",
+    "response": "Hakan Aydin's email address is aydin@cs.gmu.edu."
+  },
+  {
+    "instruction": "Where is Hakan Aydin's office located?",
+    "context": "",
+    "response": "Hakan Aydin's office is in Engineering 5334."
+  },
+  {
+    "instruction": "What is Hakan Aydin's phone number?",
+    "context": "",
+    "response": "Hakan Aydin's phone number is 703-993-3786."
+  },
+  {
+    "instruction": "What is the webpage for Hakan Aydin?",
+    "context": "",
+    "response": "The webpage for Hakan Aydin is cs.gmu.edu/~aydin/."
+  },
+  {
+    "instruction": "Who is Foteini Baldimtsi?",
+    "context": "",
+    "response": "Foteini Baldimtsi is an Associate Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Foteini Baldimtsi's email address?",
+    "context": "",
+    "response": "Foteini Baldimtsi's email address is foteini@gmu.edu."
+  },
+  {
+    "instruction": "Where is Foteini Baldimtsi's office located?",
+    "context": "",
+    "response": "Foteini Baldimtsi's office is in Engineering 5333."
+  },
+  {
+    "instruction": "What is Foteini Baldimtsi's phone number?",
+    "context": "",
+    "response": "Foteini Baldimtsi's phone number is 703-993-6148."
+  },
+  {
+    "instruction": "What is the webpage for Foteini Baldimtsi?",
+    "context": "",
+    "response": "The webpage for Foteini Baldimtsi is cs.gmu.edu/~foteini/."
+  },
+  {
+    "instruction": "Who is Daniel Barbara?",
+    "context": "",
+    "response": "Daniel Barbara is a Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Daniel Barbara's email address?",
+    "context": "",
+    "response": "Daniel Barbara's email address is dbarbara@gmu.edu."
+  },
+  {
+    "instruction": "Where is Daniel Barbara's office located?",
+    "context": "",
+    "response": "Daniel Barbara's office is in Engineering 4420."
+  },
+  {
+    "instruction": "What is Daniel Barbara's phone number?",
+    "context": "",
+    "response": "Daniel Barbara's phone number is 703-993-1627."
+  },
+  {
+    "instruction": "What is the webpage for Daniel Barbara?",
+    "context": "",
+    "response": "The webpage for Daniel Barbara is cs.gmu.edu/~dbarbara/."
+  },
+  {
+    "instruction": "Who is Alex Brodsky?",
+    "context": "",
+    "response": "Alex Brodsky is a Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Alex Brodsky's email address?",
+    "context": "",
+    "response": "Alex Brodsky's email address is brodsky@gmu.edu."
+  },
+  {
+    "instruction": "Where is Alex Brodsky's office located?",
+    "context": "",
+    "response": "Alex Brodsky's office is in Engineering 4424."
+  },
+  {
+    "instruction": "What is Alex Brodsky's phone number?",
+    "context": "",
+    "response": "Alex Brodsky's phone number is 703-993-1529."
+  },
+  {
+    "instruction": "What is the webpage for Alex Brodsky?",
+    "context": "",
+    "response": "The webpage for Alex Brodsky is cs.gmu.edu/~brodsky/."
+  },
+  {
+    "instruction": "Who is Jim X. Chen?",
+    "context": "",
+    "response": "Jim X. Chen is a Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Jim X. Chen's email address?",
+    "context": "",
+    "response": "Jim X. Chen's email address is jchen@cs.gmu.edu."
+  },
+  {
+    "instruction": "Where is Jim X. Chen's office located?",
+    "context": "",
+    "response": "Jim X. Chen's office is in Engineering 4446."
+  },
+  {
+    "instruction": "What is Jim X. Chen's phone number?",
+    "context": "",
+    "response": "Jim X. Chen's phone number is 703-993-1510."
+  },
+  {
+    "instruction": "What is the webpage for Jim X. Chen?",
+    "context": "",
+    "response": "The webpage for Jim X. Chen is cs.gmu.edu/~jchen/."
+  },
+  {
+    "instruction": "Who is Mary Cummings?",
+    "context": "",
+    "response": "Mary Cummings is a Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Mary Cummings' email address?",
+    "context": "",
+    "response": "Mary Cummings' email address is cummings@gmu.edu."
+  },
+  {
+    "instruction": "Where is Mary Cummings' office located?",
+    "context": "",
+    "response": "Mary Cummings' office is in Engineering 2705."
+  },
+  {
+    "instruction": "What is Mary Cummings' phone number?",
+    "context": "",
+    "response": "Mary Cummings' phone number is 703-993-6969."
+  },
+  {
+    "instruction": "What is the webpage for Mary Cummings?",
+    "context": "",
+    "response": "The webpage for Mary Cummings is cs.gmu.edu/~cummings/."
+  },
+  {
+    "instruction": "Who is Sanmay Das?",
+    "context": "",
+    "response": "Sanmay Das is a Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Sanmay Das' email address?",
+    "context": "",
+    "response": "Sanmay Das' email address is sanmay@gmu.edu."
+  },
+  {
+    "instruction": "Where is Sanmay Das' office located?",
+    "context": "",
+    "response": "Sanmay Das' office is in Engineering 4430."
+  },
+  {
+    "instruction": "What is Sanmay Das' phone number?",
+    "context": "",
+    "response": "Sanmay Das' phone number is 703-993-6820."
+  },
+  {
+    "instruction": "What is the webpage for Sanmay Das?",
+    "context": "",
+    "response": "The webpage for Sanmay Das is cs.gmu.edu/~sanmay/."
+  },
+  {
+    "instruction": "Who is Dov Gordon?",
+    "context": "",
+    "response": "Dov Gordon is an Associate Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Dov Gordon's email address?",
+    "context": "",
+    "response": "Dov Gordon's email address is dgordon@gmu.edu."
+  },
+  {
+    "instruction": "Where is Dov Gordon's office located?",
+    "context": "",
+    "response": "Dov Gordon's office is in Engineering 5423."
+  },
+  {
+    "instruction": "What is Dov Gordon's phone number?",
+    "context": "",
+    "response": "Dov Gordon's phone number is 703-993-2767."
+  },
+  {
+    "instruction": "What is the webpage for Dov Gordon?",
+    "context": "",
+    "response": "The webpage for Dov Gordon is cs.gmu.edu/~dgordon/."
+  },
+  {
+    "instruction": "Who is Bo Han?",
+    "context": "",
+    "response": "Bo Han is an Associate Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Bo Han's email address?",
+    "context": "",
+    "response": "Bo Han's email address is bohan@gmu.edu."
+  },
+  {
+    "instruction": "Where is Bo Han's office located?",
+    "context": "",
+    "response": "Bo Han's office is in Engineering 5324."
+  },
+  {
+    "instruction": "What is Bo Han's phone number?",
+    "context": "",
+    "response": "Bo Han's phone number is 703-993-6651."
+  },
+  {
+    "instruction": "What is the webpage for Bo Han?",
+    "context": "",
+    "response": "The webpage for Bo Han is cs.gmu.edu/~bohan/."
+  },
+  {
+    "instruction": "Who is Jessica Lin?",
+    "context": "",
+    "response": "Jessica Lin is a Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Jessica Lin's email address?",
+    "context": "",
+    "response": "Jessica Lin's email address is jessica@cs.gmu.edu."
+  },
+  {
+    "instruction": "Where is Jessica Lin's office located?",
+    "context": "",
+    "response": "Jessica Lin's office is in Engineering 4419."
+  },
+  {
+    "instruction": "What is Jessica Lin's phone number?",
+    "context": "",
+    "response": "Jessica Lin's phone number is 703-993-4693."
+  },
+  {
+    "instruction": "What is the webpage for Jessica Lin?",
+    "context": "",
+    "response": "The webpage for Jessica Lin is cs.gmu.edu/~jessica/."
+  },
+  {
+    "instruction": "Who is Yotam Gingold?",
+    "context": "",
+    "response": "Yotam Gingold is an Associate Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Yotam Gingold's email address?",
+    "context": "",
+    "response": "Yotam Gingold's email address is ygingold@gmu.edu."
+  },
+  {
+    "instruction": "Where is Yotam Gingold's office located?",
+    "context": "",
+    "response": "Yotam Gingold's office is in Research Hall 408."
+  },
+  {
+    "instruction": "What is Yotam Gingold's phone number?",
+    "context": "",
+    "response": "Yotam Gingold's phone number is 703-993-9196."
+  },
+  {
+    "instruction": "What is the webpage for Yotam Gingold?",
+    "context": "",
+    "response": "The webpage for Yotam Gingold is cs.gmu.edu/~ygingold/."
+  },
+  {
+    "instruction": "Who is Tamara Maddox?",
+    "context": "",
+    "response": "Tamara Maddox is a Professor (Teaching) in the Computer Science department."
+  },
+  {
+    "instruction": "What is Tamara Maddox's email address?",
+    "context": "",
+    "response": "Tamara Maddox's email address is tmaddox@cs.gmu.edu."
+  },
+  {
+    "instruction": "Where is Tamara Maddox's office located?",
+    "context": "",
+    "response": "Tamara Maddox's office is in Engineering 5347."
+  },
+  {
+    "instruction": "What is Tamara Maddox's phone number?",
+    "context": "",
+    "response": "Tamara Maddox's phone number is 703-993-1525."
+  },
+  {
+    "instruction": "What is the webpage for Tamara Maddox?",
+    "context": "",
+    "response": "The webpage for Tamara Maddox is cs.gmu.edu/~tmaddox/."
+  },
+  {
+    "instruction": "Who is Mingrui Liu?",
+    "context": "",
+    "response": "Mingrui Liu is an Assistant Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Mingrui Liu's email address?",
+    "context": "",
+    "response": "Mingrui Liu's email address is mingrui@gmu.edu."
+  },
+  {
+    "instruction": "Where is Mingrui Liu's office located?",
+    "context": "",
+    "response": "Mingrui Liu's office is in Research Hall 355."
+  },
+  {
+    "instruction": "What is Mingrui Liu's phone number?",
+    "context": "",
+    "response": "Mingrui Liu's phone number is 703-993-6645."
+  },
+  {
+    "instruction": "What is the webpage for Mingrui Liu?",
+    "context": "",
+    "response": "The webpage for Mingrui Liu is mingrui.github.io."
+  },
+  {
+    "instruction": "Who is Sean Luke?",
+    "context": "",
+    "response": "Sean Luke is a Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Sean Luke's email address?",
+    "context": "",
+    "response": "Sean Luke's email address is sean@cs.gmu.edu."
+  },
+  {
+    "instruction": "Where is Sean Luke's office located?",
+    "context": "",
+    "response": "Sean Luke's office is in Engineering 4451."
+  },
+  {
+    "instruction": "What is Sean Luke's phone number?",
+    "context": "",
+    "response": "Sean Luke's phone number is 703-993-4169."
+  },
+  {
+    "instruction": "What is the webpage for Sean Luke?",
+    "context": "",
+    "response": "The webpage for Sean Luke is cs.gmu.edu/~sean/."
+  },
+  {
+    "instruction": "Who is Judy Luo?",
+    "context": "",
+    "response": "Judy Luo is an Associate Professor (Teaching) in the Computer Science department."
+  },
+  {
+    "instruction": "What is Judy Luo's email address?",
+    "context": "",
+    "response": "Judy Luo's email address is jluo2@gmu.edu."
+  },
+  {
+    "instruction": "Where is Judy Luo's office located?",
+    "context": "",
+    "response": "Judy Luo's office is in Engineering 5328."
+  },
+  {
+    "instruction": "What is Judy Luo's phone number?",
+    "context": "",
+    "response": "Judy Luo's phone number is 703-993-5241."
+  },
+  {
+    "instruction": "Who is Tamara Maddox?",
+    "context": "",
+    "response": "Tamara Maddox is a Professor (Teaching) in the Computer Science department."
+  },
+  {
+    "instruction": "What is Tamara Maddox's email address?",
+    "context": "",
+    "response": "Tamara Maddox's email address is tmaddox@cs.gmu.edu."
+  },
+  {
+    "instruction": "Where is Tamara Maddox's office located?",
+    "context": "",
+    "response": "Tamara Maddox's office is in Engineering 5347."
+  },
+  {
+    "instruction": "What is Tamara Maddox's phone number?",
+    "context": "",
+    "response": "Tamara Maddox's phone number is 703-993-1525."
+  },
+  {
+    "instruction": "What is the webpage for Tamara Maddox?",
+    "context": "",
+    "response": "The webpage for Tamara Maddox is cs.gmu.edu/~tmaddox/."
+  },
+  {
+    "instruction": "Who is Lannan (Lisa) Luo?",
+    "context": "",
+    "response": "Lannan (Lisa) Luo is an Associate Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Lannan (Lisa) Luo's email address?",
+    "context": "",
+    "response": "Lannan (Lisa) Luo's email address is lluo4@gmu.edu."
+  },
+  {
+    "instruction": "Where is Lannan (Lisa) Luo's office located?",
+    "context": "",
+    "response": "Lannan (Lisa) Luo's office is in Engineering 5332."
+  },
+  {
+    "instruction": "What is Lannan (Lisa) Luo's phone number?",
+    "context": "",
+    "response": "Lannan (Lisa) Luo's phone number is 703-993-5238."
+  },
+  {
+    "instruction": "What is the webpage for Lannan (Lisa) Luo?",
+    "context": "",
+    "response": "The webpage for Lannan (Lisa) Luo is lannan.github.io/."
+  },
+  {
+    "instruction": "Who is Andrian Marcus?",
+    "context": "",
+    "response": "Andrian Marcus is a Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Andrian Marcus' email address?",
+    "context": "",
+    "response": "Andrian Marcus' email address is amarcus7@gmu.edu."
+  },
+  {
+    "instruction": "Where is Andrian Marcus' office located?",
+    "context": "",
+    "response": "Andrian Marcus' office is in Engineering 4452."
+  },
+  {
+    "instruction": "What is Andrian Marcus' phone number?",
+    "context": "",
+    "response": "Andrian Marcus' phone number is 703-993-9237."
+  },
+  {
+    "instruction": "What is the webpage for Andrian Marcus?",
+    "context": "",
+    "response": "The webpage for Andrian Marcus is www.andrianmarcus.net/."
+  },
+  {
+    "instruction": "Who is Wes Masri?",
+    "context": "",
+    "response": "Wes Masri is a Professor (Teaching) in the Computer Science department."
+  },
+  {
+    "instruction": "What is Wes Masri's email address?",
+    "context": "",
+    "response": "Wes Masri's email address is vmasri@gmu.edu."
+  },
+  {
+    "instruction": "Where is Wes Masri's office located?",
+    "context": "",
+    "response": "Wes Masri's office is in Engineering 4709."
+  },
+  {
+    "instruction": "What is Wes Masri's phone number?",
+    "context": "",
+    "response": "Wes Masri's phone number is 703-993-6647."
+  },
+  {
+    "instruction": "What is the webpage for Wes Masri?",
+    "context": "",
+    "response": "The webpage for Wes Masri is cs.gmu.edu/~vmasri/."
+  },
+  {
+    "instruction": "Who is Thema Monroe-White?",
+    "context": "",
+    "response": "Thema Monroe-White is an Associate Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Thema Monroe-White's email address?",
+    "context": "",
+    "response": "Thema Monroe-White's email address is tmonroew@gmu.edu."
+  },
+  {
+    "instruction": "Where is Thema Monroe-White's office located?",
+    "context": "",
+    "response": "Thema Monroe-White's office is in Arlington Van Metre 631."
+  },
+  {
+    "instruction": "What is Thema Monroe-White's phone number?",
+    "context": "",
+    "response": "Thema Monroe-White's phone number is 703-993-8642."
+  },
+  {
+    "instruction": "Who is Hamza Mughal?",
+    "context": "",
+    "response": "Hamza Mughal is an Assistant Professor (Teaching) in the Computer Science department."
+  },
+  {
+    "instruction": "What is Hamza Mughal's email address?",
+    "context": "",
+    "response": "Hamza Mughal's email address is hmughal2@gmu.edu."
+  },
+  {
+    "instruction": "Where is Hamza Mughal's office located?",
+    "context": "",
+    "response": "Hamza Mughal's office is in Buchanan Hall D217F."
+  },
+  {
+    "instruction": "What is Hamza Mughal's phone number?",
+    "context": "",
+    "response": "Hamza Mughal's phone number is 703-993-6934."
+  },
+  {
+    "instruction": "What is the webpage for Hamza Mughal?",
+    "context": "",
+    "response": "The webpage for Hamza Mughal is hamzamughal.com."
+  },
+  {
+    "instruction": "Who is Dov Gordon?",
+    "context": "",
+    "response": "Dov Gordon is an Associate Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Dov Gordon's email address?",
+    "context": "",
+    "response": "Dov Gordon's email address is dgordon@gmu.edu."
+  },
+  {
+    "instruction": "Where is Dov Gordon's office located?",
+    "context": "",
+    "response": "Dov Gordon's office is in Engineering 5423."
+  },
+  {
+    "instruction": "What is Dov Gordon's phone number?",
+    "context": "",
+    "response": "Dov Gordon's phone number is 703-993-2767."
+  },
+  {
+    "instruction": "What is the webpage for Dov Gordon?",
+    "context": "",
+    "response": "The webpage for Dov Gordon is cs.gmu.edu/~dgordon/."
+  },
+  {
+    "instruction": "Who is Bo Han?",
+    "context": "",
+    "response": "Bo Han is an Associate Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Bo Han's email address?",
+    "context": "",
+    "response": "Bo Han's email address is bohan@gmu.edu."
+  },
+  {
+    "instruction": "Where is Bo Han's office located?",
+    "context": "",
+    "response": "Bo Han's office is in Engineering 5324."
+  },
+  {
+    "instruction": "What is Bo Han's phone number?",
+    "context": "",
+    "response": "Bo Han's phone number is 703-993-6651."
+  },
+  {
+    "instruction": "What is the webpage for Bo Han?",
+    "context": "",
+    "response": "The webpage for Bo Han is cs.gmu.edu/~bohan/."
+  },
+  {
+    "instruction": "Who is Jessica Lin?",
+    "context": "",
+    "response": "Jessica Lin is a Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Jessica Lin's email address?",
+    "context": "",
+    "response": "Jessica Lin's email address is jessica@cs.gmu.edu."
+  },
+  {
+    "instruction": "Where is Jessica Lin's office located?",
+    "context": "",
+    "response": "Jessica Lin's office is in Engineering 4419."
+  },
+  {
+    "instruction": "What is Jessica Lin's phone number?",
+    "context": "",
+    "response": "Jessica Lin's phone number is 703-993-4693."
+  },
+  {
+    "instruction": "What is the webpage for Jessica Lin?",
+    "context": "",
+    "response": "The webpage for Jessica Lin is cs.gmu.edu/~jessica/."
+  },
+  {
+    "instruction": "Who is Yotam Gingold?",
+    "context": "",
+    "response": "Yotam Gingold is an Associate Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Yotam Gingold's email address?",
+    "context": "",
+    "response": "Yotam Gingold's email address is ygingold@gmu.edu."
+  },
+  {
+    "instruction": "Where is Yotam Gingold's office located?",
+    "context": "",
+    "response": "Yotam Gingold's office is in Research Hall 408."
+  },
+  {
+    "instruction": "What is Yotam Gingold's phone number?",
+    "context": "",
+    "response": "Yotam Gingold's phone number is 703-993-9196."
+  },
+  {
+    "instruction": "What is the webpage for Yotam Gingold?",
+    "context": "",
+    "response": "The webpage for Yotam Gingold is cs.gmu.edu/~ygingold/."
+  },
+  {
+    "instruction": "Who is Sean Luke?",
+    "context": "",
+    "response": "Sean Luke is a Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Sean Luke's email address?",
+    "context": "",
+    "response": "Sean Luke's email address is sean@cs.gmu.edu."
+  },
+  {
+    "instruction": "Where is Sean Luke's office located?",
+    "context": "",
+    "response": "Sean Luke's office is in Engineering 4451."
+  },
+  {
+    "instruction": "What is Sean Luke's phone number?",
+    "context": "",
+    "response": "Sean Luke's phone number is 703-993-4169."
+  },
+  {
+    "instruction": "What is the webpage for Sean Luke?",
+    "context": "",
+    "response": "The webpage for Sean Luke is cs.gmu.edu/~sean/."
+  },
+  {
+    "instruction": "Who is Tamara Maddox?",
+    "context": "",
+    "response": "Tamara Maddox is a Professor (Teaching) in the Computer Science department."
+  },
+  {
+    "instruction": "What is Tamara Maddox's email address?",
+    "context": "",
+    "response": "Tamara Maddox's email address is tmaddox@cs.gmu.edu."
+  },
+  {
+    "instruction": "Where is Tamara Maddox's office located?",
+    "context": "",
+    "response": "Tamara Maddox's office is in Engineering 5347."
+  },
+  {
+    "instruction": "What is Tamara Maddox's phone number?",
+    "context": "",
+    "response": "Tamara Maddox's phone number is 703-993-1525."
+  },
+  {
+    "instruction": "What is the webpage for Tamara Maddox?",
+    "context": "",
+    "response": "The webpage for Tamara Maddox is cs.gmu.edu/~tmaddox/."
+  },
+  {
+    "instruction": "Who is Mingrui Liu?",
+    "context": "",
+    "response": "Mingrui Liu is an Assistant Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Mingrui Liu's email address?",
+    "context": "",
+    "response": "Mingrui Liu's email address is mingrui@gmu.edu."
+  },
+  {
+    "instruction": "Where is Mingrui Liu's office located?",
+    "context": "",
+    "response": "Mingrui Liu's office is in Research Hall 355."
+  },
+  {
+    "instruction": "What is Mingrui Liu's phone number?",
+    "context": "",
+    "response": "Mingrui Liu's phone number is 703-993-6645."
+  },
+  {
+    "instruction": "What is the webpage for Mingrui Liu?",
+    "context": "",
+    "response": "The webpage for Mingrui Liu is mingrui.github.io."
+  },
+  {
+    "instruction": "Who is Lannan (Lisa) Luo?",
+    "context": "",
+    "response": "Lannan (Lisa) Luo is an Associate Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Lannan (Lisa) Luo's email address?",
+    "context": "",
+    "response": "Lannan (Lisa) Luo's email address is lluo4@gmu.edu."
+  },
+  {
+    "instruction": "Where is Lannan (Lisa) Luo's office located?",
+    "context": "",
+    "response": "Lannan (Lisa) Luo's office is in Engineering 5332."
+  },
+  {
+    "instruction": "What is Lannan (Lisa) Luo's phone number?",
+    "context": "",
+    "response": "Lannan (Lisa) Luo's phone number is 703-993-5238."
+  },
+  {
+    "instruction": "What is the webpage for Lannan (Lisa) Luo?",
+    "context": "",
+    "response": "The webpage for Lannan (Lisa) Luo is lannan.github.io/."
+  },
+  {
+    "instruction": "Who is Andrian Marcus?",
+    "context": "",
+    "response": "Andrian Marcus is a Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Andrian Marcus' email address?",
+    "context": "",
+    "response": "Andrian Marcus' email address is amarcus7@gmu.edu."
+  },
+  {
+    "instruction": "Where is Andrian Marcus' office located?",
+    "context": "",
+    "response": "Andrian Marcus' office is in Engineering 4452."
+  },
+  {
+    "instruction": "What is Andrian Marcus' phone number?",
+    "context": "",
+    "response": "Andrian Marcus' phone number is 703-993-9237."
+  },
+  {
+    "instruction": "What is the webpage for Andrian Marcus?",
+    "context": "",
+    "response": "The webpage for Andrian Marcus is www.andrianmarcus.net/."
+  },
+  {
+    "instruction": "Who is Wes Masri?",
+    "context": "",
+    "response": "Wes Masri is a Professor (Teaching) in the Computer Science department."
+  },
+  {
+    "instruction": "What is Wes Masri's email address?",
+    "context": "",
+    "response": "Wes Masri's email address is vmasri@gmu.edu."
+  },
+  {
+    "instruction": "Where is Wes Masri's office located?",
+    "context": "",
+    "response": "Wes Masri's office is in Engineering 4709."
+  },
+  {
+    "instruction": "What is Wes Masri's phone number?",
+    "context": "",
+    "response": "Wes Masri's phone number is 703-993-6647."
+  },
+  {
+    "instruction": "What is the webpage for Wes Masri?",
+    "context": "",
+    "response": "The webpage for Wes Masri is cs.gmu.edu/~vmasri/."
+  },
+  {
+    "instruction": "Who is Thema Monroe-White?",
+    "context": "",
+    "response": "Thema Monroe-White is an Associate Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Thema Monroe-White's email address?",
+    "context": "",
+    "response": "Thema Monroe-White's email address is tmonroew@gmu.edu."
+  },
+  {
+    "instruction": "Where is Thema Monroe-White's office located?",
+    "context": "",
+    "response": "Thema Monroe-White's office is in Arlington Van Metre 631."
+  },
+  {
+    "instruction": "What is Thema Monroe-White's phone number?",
+    "context": "",
+    "response": "Thema Monroe-White's phone number is 703-993-8642."
+  },
+  {
+    "instruction": "Who is Hamza Mughal?",
+    "context": "",
+    "response": "Hamza Mughal is an Assistant Professor (Teaching) in the Computer Science department."
+  },
+  {
+    "instruction": "What is Hamza Mughal's email address?",
+    "context": "",
+    "response": "Hamza Mughal's email address is hmughal2@gmu.edu."
+  },
+  {
+    "instruction": "Where is Hamza Mughal's office located?",
+    "context": "",
+    "response": "Hamza Mughal's office is in Buchanan Hall D217F."
+  },
+  {
+    "instruction": "What is Hamza Mughal's phone number?",
+    "context": "",
+    "response": "Hamza Mughal's phone number is 703-993-6934."
+  },
+  {
+    "instruction": "What is the webpage for Hamza Mughal?",
+    "context": "",
+    "response": "The webpage for Hamza Mughal is hamzamughal.com."
+  },
+  {
+    "instruction": "Who is Mark Snyder?",
+    "context": "",
+    "response": "Mark Snyder is a Professor (Teaching) and Associate Chair in the Computer Science department."
+  },
+  {
+    "instruction": "What is Mark Snyder's email address?",
+    "context": "",
+    "response": "Mark Snyder's email address is msnyde14@gmu.edu."
+  },
+  {
+    "instruction": "Where is Mark Snyder's office located?",
+    "context": "",
+    "response": "Mark Snyder's office is in Buchanan Hall D217G."
+  },
+  {
+    "instruction": "What is Mark Snyder's phone number?",
+    "context": "",
+    "response": "Mark Snyder's phone number is 703-993-5624."
+  },
+  {
+    "instruction": "What is the webpage for Mark Snyder?",
+    "context": "",
+    "response": "Mark Snyder's webpage is cs.gmu.edu/~marks/."
+  },
+  {
+    "instruction": "Who is Shvetha Soundararajan?",
+    "context": "",
+    "response": "Shvetha Soundararajan is an Associate Chair and Associate Professor (Teaching) in the Computer Science department."
+  },
+  {
+    "instruction": "What is Shvetha Soundararajan's email address?",
+    "context": "",
+    "response": "Shvetha Soundararajan's email address is shvetha@gmu.edu."
+  },
+  {
+    "instruction": "Where is Shvetha Soundararajan's office located?",
+    "context": "",
+    "response": "Shvetha Soundararajan's office is in Buchanan Hall D217H."
+  },
+  {
+    "instruction": "What is Shvetha Soundararajan's phone number?",
+    "context": "",
+    "response": "Shvetha Soundararajan's phone number is 703-993-6219."
+  },
+  {
+    "instruction": "What is the webpage for Shvetha Soundararajan?",
+    "context": "",
+    "response": "The webpage for Shvetha Soundararajan is cs.gmu.edu/~shvetha/."
+  },
+  {
+    "instruction": "Who is Gregory Stein?",
+    "context": "",
+    "response": "Gregory Stein is an Assistant Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Gregory Stein's email address?",
+    "context": "",
+    "response": "Gregory Stein's email address is gjstein@gmu.edu."
+  },
+  {
+    "instruction": "Where is Gregory Stein's office located?",
+    "context": "",
+    "response": "Gregory Stein's office is in Research Hall 169."
+  },
+  {
+    "instruction": "What is Gregory Stein's phone number?",
+    "context": "",
+    "response": "Gregory Stein's phone number is 703-993-6822."
+  },
+  {
+    "instruction": "What is the webpage for Gregory Stein?",
+    "context": "",
+    "response": "The webpage for Gregory Stein is cs.gmu.edu/~gjstein/."
+  },
+  {
+    "instruction": "Who is Gheorghe Tecuci?",
+    "context": "",
+    "response": "Gheorghe Tecuci is a Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Gheorghe Tecuci's email address?",
+    "context": "",
+    "response": "Gheorghe Tecuci's email address is tecuci@gmu.edu."
+  },
+  {
+    "instruction": "Where is Gheorghe Tecuci's office located?",
+    "context": "",
+    "response": "Gheorghe Tecuci's office is in Engineering 4613."
+  },
+  {
+    "instruction": "What is Gheorghe Tecuci's phone number?",
+    "context": "",
+    "response": "Gheorghe Tecuci's phone number is 703-993-1722."
+  },
+  {
+    "instruction": "What is the webpage for Gheorghe Tecuci?",
+    "context": "",
+    "response": "The webpage for Gheorghe Tecuci is lac.gmu.edu/members/~tecuci/."
+  },
+  {
+    "instruction": "Who is Xinyuan (Frank) Wang?",
+    "context": "",
+    "response": "Xinyuan (Frank) Wang is an Associate Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Xinyuan (Frank) Wang's email address?",
+    "context": "",
+    "response": "Xinyuan (Frank) Wang's email address is xwangc@gmu.edu."
+  },
+  {
+    "instruction": "Where is Xinyuan (Frank) Wang's office located?",
+    "context": "",
+    "response": "Xinyuan (Frank) Wang's office is in Engineering 5331."
+  },
+  {
+    "instruction": "What is Xinyuan (Frank) Wang's phone number?",
+    "context": "",
+    "response": "Xinyuan (Frank) Wang's phone number is 703-993-9461."
+  },
+  {
+    "instruction": "What is the webpage for Xinyuan (Frank) Wang?",
+    "context": "",
+    "response": "The webpage for Xinyuan (Frank) Wang is cs.gmu.edu/~xwangc/."
+  },
+  {
+    "instruction": "Who is Harry Wechsler?",
+    "context": "",
+    "response": "Harry Wechsler is a Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Harry Wechsler's email address?",
+    "context": "",
+    "response": "Harry Wechsler's email address is wechsler@gmu.edu."
+  },
+  {
+    "instruction": "Where is Harry Wechsler's office located?",
+    "context": "",
+    "response": "Harry Wechsler's office is in Engineering 4428."
+  },
+  {
+    "instruction": "What is Harry Wechsler's phone number?",
+    "context": "",
+    "response": "Harry Wechsler's phone number is 703-993-1577."
+  },
+  {
+    "instruction": "What is the webpage for Harry Wechsler?",
+    "context": "",
+    "response": "The webpage for Harry Wechsler is cs.gmu.edu/~wechsler/."
+  },
+  {
+    "instruction": "Who is Robert Simon?",
+    "context": "",
+    "response": "Robert Simon is a Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Robert Simon's email address?",
+    "context": "",
+    "response": "Robert Simon's email address is simon@gmu.edu."
+  },
+  {
+    "instruction": "Where is Robert Simon's office located?",
+    "context": "",
+    "response": "Robert Simon's office is in Engineering 5329."
+  },
+  {
+    "instruction": "What is Robert Simon's phone number?",
+    "context": "",
+    "response": "Robert Simon's phone number is 703-993-1532."
+  },
+  {
+    "instruction": "What is the webpage for Robert Simon?",
+    "context": "",
+    "response": "The webpage for Robert Simon is cs.gmu.edu/~simon/."
+  },
+  {
+    "instruction": "Who is Amarda Shehu?",
+    "context": "",
+    "response": "Amarda Shehu is a Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Amarda Shehu's email address?",
+    "context": "",
+    "response": "Amarda Shehu's email address is amarda@gmu.edu."
+  },
+  {
+    "instruction": "Where is Amarda Shehu's office located?",
+    "context": "",
+    "response": "Amarda Shehu's office is in Research Hall 442."
+  },
+  {
+    "instruction": "What is Amarda Shehu's phone number?",
+    "context": "",
+    "response": "Amarda Shehu's phone number is 703-993-4250."
+  },
+  {
+    "instruction": "What is the webpage for Amarda Shehu?",
+    "context": "",
+    "response": "The webpage for Amarda Shehu is cs.gmu.edu/~ashehu/."
+  },
+  {
+    "instruction": "Who is Jana Kosecka?",
+    "context": "",
+    "response": "Jana Kosecka is a Professor in the Computer Science department."
+  },
+  {
+    "instruction": "What is Jana Kosecka's email address?",
+    "context": "",
+    "response": "Jana Kosecka's email address is kosecka@gmu.edu."
+  },
+  {
+    "instruction": "Where is Jana Kosecka's office located?",
+    "context": "",
+    "response": "Jana Kosecka's office is in Engineering 5327."
+  },
+  {
+    "instruction": "What is Jana Kosecka's phone number?",
+    "context": "",
+    "response": "Jana Kosecka's phone number is 703-993-3973."
+  },
+  {
+    "instruction": "What is the webpage for Jana Kosecka?",
+    "context": "",
+    "response": "The webpage for Jana Kosecka is cs.gmu.edu/~kosecka/."
+  }
+]

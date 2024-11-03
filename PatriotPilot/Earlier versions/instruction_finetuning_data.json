@@ -1,0 +1,87 @@
+[
+  {
+    "instruction": "What is David Rosenblum's position?",
+    "context": "name: David Rosenblum, position: Department Chair",
+    "response": "Department Chair"
+  },
+  {
+    "instruction": "What is Shvetha Soundararajan's position?",
+    "context": "name: Shvetha Soundararajan, position: Associate Chair for Undergraduate Studies",
+    "response": "Associate Chair for Undergraduate Studies"
+  },
+  {
+    "instruction": "What is Mark Snyder's position?",
+    "context": "name: Mark Snyder, position: Associate Chair for Undergraduate Studies",
+    "response": "Associate Chair for Undergraduate Studies"
+  },
+  {
+    "instruction": "What is Robert Pettit's position?",
+    "context": "name: Robert Pettit, position: Associate Chair for Graduate Studies and Program Director, Online MS CS, Computing Foundations Certificate",
+    "response": "Associate Chair for Graduate Studies and Program Director, Online MS CS, Computing Foundations Certificate"
+  },
+  {
+    "instruction": "What is Hakan Aydin's position?",
+    "context": "name: Hakan Aydin, position: Program Director, PhD CS",
+    "response": "Program Director, PhD CS"
+  },
+  {
+    "instruction": "What is ThanhVu Nguyen's position?",
+    "context": "name: ThanhVu Nguyen, position: Program Director, MS Software Engineering",
+    "response": "Program Director, MS Software Engineering"
+  },
+  {
+    "instruction": "What is Alex Brodsky's position?",
+    "context": "name: Alex Brodsky, position: Program Director, MS Information Systems",
+    "response": "Program Director, MS Information Systems"
+  },
+  {
+    "instruction": "What is Zoran Duric's position?",
+    "context": "name: Zoran Duric, position: Program Director, MS CS",
+    "response": "Program Director, MS CS"
+  },
+  {
+    "instruction": "What is Shahnaz Kamberi's position?",
+    "context": "name: Shahnaz Kamberi, position: Director of Inclusive Computing",
+    "response": "Director of Inclusive Computing"
+  },
+  {
+    "instruction": "What is Michele Pieper's position?",
+    "context": "name: Michele Pieper, position: Department Operations Manager and Assistant to Chair",
+    "response": "Department Operations Manager and Assistant to Chair"
+  },
+  {
+    "instruction": "What is Tonya Lawrence's position?",
+    "context": "name: Tonya Lawrence, position: Office Manager",
+    "response": "Office Manager"
+  },
+  {
+    "instruction": "What is Alyssa Tsukamoto's position?",
+    "context": "name: Alyssa Tsukamoto, position: Graduate Program Specialist",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Beth Posocco's position?",
+    "context": "name: Beth Posocco, position: Graduate Program Specialist",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Linda Sheridan's position?",
+    "context": "name: Linda Sheridan, position: Undergraduate Academic Advisor",
+    "response": "Undergraduate Academic Advisor"
+  },
+  {
+    "instruction": "What is Joshua Fletcher's position?",
+    "context": "name: Joshua Fletcher, position: Undergraduate Academic Advisor",
+    "response": "Undergraduate Academic Advisor"
+  },
+  {
+    "instruction": "What is Vernell Wilks's position?",
+    "context": "name: Vernell Wilks, position: Undergraduate Academic Advisor",
+    "response": "Undergraduate Academic Advisor"
+  },
+  {
+    "instruction": "What is Kristi Morrow's position?",
+    "context": "name: Kristi Morrow, position: Undergraduate Academic Advisor",
+    "response": "Undergraduate Academic Advisor"
+  }
+]

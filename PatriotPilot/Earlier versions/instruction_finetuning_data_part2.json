@@ -1,0 +1,169 @@
+[
+  {
+    "instruction": "What is Josh Fletcher's position?",
+    "context": "name: Josh Fletcher, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/96/",
+    "response": "Undergraduate Academic Advisor"
+  },
+  {
+    "instruction": "What is Josh Fletcher's webpage?",
+    "context": "name: Josh Fletcher, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/96/",
+    "response": "https://cs.gmu.edu/directory/detail/96/"
+  },
+  {
+    "instruction": "What is Kristi Morrow's position?",
+    "context": "name: Kristi Morrow, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/186/",
+    "response": "Undergraduate Academic Advisor"
+  },
+  {
+    "instruction": "What is Kristi Morrow's webpage?",
+    "context": "name: Kristi Morrow, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/186/",
+    "response": "https://cs.gmu.edu/directory/detail/186/"
+  },
+  {
+    "instruction": "What is Linda Sheridan's position?",
+    "context": "name: Linda Sheridan, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/74/",
+    "response": "Undergraduate Academic Advisor"
+  },
+  {
+    "instruction": "What is Linda Sheridan's webpage?",
+    "context": "name: Linda Sheridan, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/74/",
+    "response": "https://cs.gmu.edu/directory/detail/74/"
+  },
+  {
+    "instruction": "What is Vernell Wilks's position?",
+    "context": "name: Vernell Wilks, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/167/",
+    "response": "Undergraduate Academic Advisor"
+  },
+  {
+    "instruction": "What is Vernell Wilks's webpage?",
+    "context": "name: Vernell Wilks, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/167/",
+    "response": "https://cs.gmu.edu/directory/detail/167/"
+  },
+  {
+    "instruction": "What is the undergraduate advising contact email?",
+    "context": "email: csug@gmu.edu, phone: (703) 993-1530",
+    "response": "csug@gmu.edu"
+  },
+  {
+    "instruction": "What is the undergraduate advising phone number?",
+    "context": "email: csug@gmu.edu, phone: (703) 993-1530",
+    "response": "(703) 993-1530"
+  },
+  {
+    "instruction": "What is the note for undergraduate advising appointments?",
+    "context": "note: Advising is by appointment only, booking_link: https://outlook.office365.com/book/CSUGAdvising@gmuedu.onmicrosoft.com/",
+    "response": "Advising is by appointment only"
+  },
+  {
+    "instruction": "Where can I book an undergraduate advising appointment?",
+    "context": "note: Advising is by appointment only, booking_link: https://outlook.office365.com/book/CSUGAdvising@gmuedu.onmicrosoft.com/",
+    "response": "https://outlook.office365.com/book/CSUGAdvising@gmuedu.onmicrosoft.com/"
+  },
+  {
+    "instruction": "What are the instructions for required advising for CS 110?",
+    "context": "course: CS 110, form_link: https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs110.pdf",
+    "response": [
+      "Meet with one of the Undergraduate Academic Advisors listed above.",
+      "Email the filled out CS 110 Advising Form at least 48 hours prior to the scheduled appointment.",
+      "Do not arrive at your appointment with your form in hand or on your laptop."
+    ]
+  },
+  {
+    "instruction": "Where can I find the advising form for CS 110?",
+    "context": "course: CS 110, form_link: https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs110.pdf",
+    "response": "https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs110.pdf"
+  },
+  {
+    "instruction": "What are the instructions for required advising for CS 330?",
+    "context": "course: CS 330, form_link: https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs330.pdf",
+    "response": [
+      "Meet with your faculty advisor.",
+      "Bring the filled out CS 330 Advising Form to your faculty meeting."
+    ]
+  },
+  {
+    "instruction": "Where can I find the advising form for CS 330?",
+    "context": "course: CS 330, form_link: https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs330.pdf",
+    "response": "https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs330.pdf"
+  },
+  {
+    "instruction": "What is Imekom Inyang's position?",
+    "context": "name: Imekom Inyang, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/198/",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Imekom Inyang's webpage?",
+    "context": "name: Imekom Inyang, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/198/",
+    "response": "https://cs.gmu.edu/directory/detail/198/"
+  },
+  {
+    "instruction": "What is Lauren Nyilas's position?",
+    "context": "name: Lauren Nyilas, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/197/",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Lauren Nyilas's webpage?",
+    "context": "name: Lauren Nyilas, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/197/",
+    "response": "https://cs.gmu.edu/directory/detail/197/"
+  },
+  {
+    "instruction": "What is Beth Posocco's position?",
+    "context": "name: Beth Posocco, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/75/",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Beth Posocco's webpage?",
+    "context": "name: Beth Posocco, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/75/",
+    "response": "https://cs.gmu.edu/directory/detail/75/"
+  },
+  {
+    "instruction": "What is Alyssa Tsukamoto's position?",
+    "context": "name: Alyssa Tsukamoto, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/180/",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Alyssa Tsukamoto's webpage?",
+    "context": "name: Alyssa Tsukamoto, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/180/",
+    "response": "https://cs.gmu.edu/directory/detail/180/"
+  },
+  {
+    "instruction": "Where is the graduate advising office located?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csgrad@gmu.edu, phone: (703) 993-1530",
+    "response": "Engineering Building Suite #4300, 4th Floor"
+  },
+  {
+    "instruction": "What is the graduate advising contact email?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csgrad@gmu.edu, phone: (703) 993-1530",
+    "response": "csgrad@gmu.edu"
+  },
+  {
+    "instruction": "What is the graduate advising phone number?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csgrad@gmu.edu, phone: (703) 993-1530",
+    "response": "(703) 993-1530"
+  },
+  {
+    "instruction": "What is Alyssa Tsukamoto's position?",
+    "context": "name: Alyssa Tsukamoto, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/180/",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Alyssa Tsukamoto's webpage?",
+    "context": "name: Alyssa Tsukamoto, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/180/",
+    "response": "https://cs.gmu.edu/directory/detail/180/"
+  },
+  {
+    "instruction": "Where is the PhD advising office located?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csphd@gmu.edu, phone: (703) 993-1530",
+    "response": "Engineering Building Suite #4300, 4th Floor"
+  },
+  {
+    "instruction": "What is the PhD advising contact email?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csphd@gmu.edu, phone: (703) 993-1530",
+    "response": "csphd@gmu.edu"
+  },
+  {
+    "instruction": "What is the PhD advising phone number?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csphd@gmu.edu, phone: (703) 993-1530",
+    "response": "(703) 993-1530"
+  }
+]

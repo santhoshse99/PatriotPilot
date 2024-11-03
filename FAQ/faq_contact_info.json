@@ -1,0 +1,158 @@
+[
+    {
+        "question": "Where is the administrative office for graduate advising located?",
+        "answer": "The administrative office for graduate advising is in the Engineering Building, Room 4300.",
+        "source": "Computer Science Department Info Page",
+        "category": "Graduate Advising Location"
+    },
+    {
+        "question": "Where can I find the undergraduate advising office at George Mason University?",
+        "answer": "The undergraduate advising office is located in Buchanan Hall, Room D215.",
+        "source": "Computer Science Department Info Page",
+        "category": "Undergraduate Advising Location"
+    },
+    {
+        "question": "What is the map link for the graduate advising office?",
+        "answer": "The map link for the graduate advising office is: https://cs.gmu.edu/about/visit-the-department/",
+        "source": "Computer Science Department Info Page",
+        "category": "Graduate Advising Map"
+    },
+    {
+        "question": "What is the map link for the undergraduate advising office?",
+        "answer": "The map link for the undergraduate advising office is: https://cs.gmu.edu/about/visit-the-department/",
+        "source": "Computer Science Department Info Page",
+        "category": "Undergraduate Advising Map"
+    },
+    {
+        "question": "What is the contact number for the Computer Science department?",
+        "answer": "The contact number for the Computer Science department is (703) 993-1530.",
+        "source": "Computer Science Department Info Page",
+        "category": "Department Contact Number"
+    },
+    {
+        "question": "What is the address of the Computer Science department at George Mason University?",
+        "answer": "The address is 4400 University Drive, MSN 4A5, Fairfax, VA 22030, USA.",
+        "source": "Computer Science Department Info Page",
+        "category": "Department Mailing Address"
+    },
+    {
+        "question": "How do I contact administrative support for the Computer Science department?",
+        "answer": "You can contact administrative support via email at csinfo@gmu.edu.",
+        "source": "Computer Science Department Info Page",
+        "category": "Administrative Support Email"
+    },
+    {
+        "question": "What is the email address for the PhD program in Computer Science?",
+        "answer": "The email address for the PhD program is csphd@gmu.edu.",
+        "source": "Computer Science Department Info Page",
+        "category": "PhD Program Email"
+    },
+    {
+        "question": "How do I reach the MS programs at the Computer Science department?",
+        "answer": "You can reach the MS programs via email at csgrad@gmu.edu.",
+        "source": "Computer Science Department Info Page",
+        "category": "MS Programs Email"
+    },
+    {
+        "question": "Who should I contact regarding undergraduate programs in Computer Science?",
+        "answer": "For undergraduate programs, email csug@gmu.edu.",
+        "source": "Computer Science Department Info Page",
+        "category": "Undergraduate Programs Email"
+    },
+    {
+        "question": "Who is in charge of the Computer Science department?",
+        "answer": "The Department Chair of Computer Science is David Rosenblum.",
+        "source": "Computer Science Department Info Page",
+        "category": "Department Chair"
+    },
+    {
+        "question": "Who manages undergraduate studies in the Computer Science department?",
+        "answer": "The Associate Chairs for Undergraduate Studies are Shvetha Soundararajan and Mark Snyder.",
+        "source": "Computer Science Department Info Page",
+        "category": "Undergraduate Studies Chair"
+    },
+    {
+        "question": "Who is the Graduate Studies Chair in the Computer Science department?",
+        "answer": "The Associate Chair for Graduate Studies and Program Director for the Online MS CS is Robert Pettit.",
+        "source": "Computer Science Department Info Page",
+        "category": "Graduate Studies Chair"
+    },
+    {
+        "question": "Who oversees the PhD program in Computer Science?",
+        "answer": "The Program Director for the PhD CS is Hakan Aydin.",
+        "source": "Computer Science Department Info Page",
+        "category": "PhD Program Director"
+    },
+    {
+        "question": "Who is the Program Director for MS Software Engineering?",
+        "answer": "The Program Director for MS Software Engineering is ThanhVu Nguyen.",
+        "source": "Computer Science Department Info Page",
+        "category": "MS Software Engineering Director"
+    },
+    {
+        "question": "Who directs the MS Information Systems program?",
+        "answer": "The Program Director for MS Information Systems is Alex Brodsky.",
+        "source": "Computer Science Department Info Page",
+        "category": "MS Information Systems Director"
+    },
+    {
+        "question": "Who is responsible for the MS CS program?",
+        "answer": "The Program Director for MS CS is Zoran Duric.",
+        "source": "Computer Science Department Info Page",
+        "category": "MS CS Director"
+    },
+    {
+        "question": "Who is the Director of Inclusive Computing in the Computer Science department?",
+        "answer": "The Director of Inclusive Computing is Shahnaz Kamberi.",
+        "source": "Computer Science Department Info Page",
+        "category": "Inclusive Computing Director"
+    },
+    {
+        "question": "Who is the Operations Manager for the Computer Science department?",
+        "answer": "The Department Operations Manager and Assistant to the Chair is Michele Pieper.",
+        "source": "Computer Science Department Info Page",
+        "category": "Operations Manager"
+    },
+    {
+        "question": "Who is the Office Manager for the Computer Science department?",
+        "answer": "The Office Manager is Tonya Lawrence.",
+        "source": "Computer Science Department Info Page",
+        "category": "Office Manager"
+    },
+    {
+        "question": "Who are the Graduate Program Specialists?",
+        "answer": "The Graduate Program Specialists are Alyssa Tsukamoto and Beth Posocco.",
+        "source": "Computer Science Department Info Page",
+        "category": "Graduate Program Specialists"
+    },
+    {
+        "question": "Who are the Undergraduate Academic Advisors?",
+        "answer": "The Undergraduate Academic Advisors are Linda Sheridan, Joshua Fletcher, Vernell Wilks, and Kristi Morrow.",
+        "source": "Computer Science Department Info Page",
+        "category": "Undergraduate Academic Advisors"
+    },
+    {
+        "question": "Where is George Mason University located?",
+        "answer": "George Mason University is located at 4400 University Drive, Fairfax, VA 22030, USA.",
+        "source": "Computer Science Department Info Page",
+        "category": "University Location"
+    },
+    {
+        "question": "How do I reach the Computer Science department by mail?",
+        "answer": "You can mail the Computer Science department at 4400 University Drive, MSN 4A5, Fairfax, VA 22030, USA.",
+        "source": "Computer Science Department Info Page",
+        "category": "Mailing Address"
+    },
+    {
+        "question": "What is the general email for the Computer Science department?",
+        "answer": "The general email for the Computer Science department is csinfo@gmu.edu.",
+        "source": "Computer Science Department Info Page",
+        "category": "General Email"
+    },
+    {
+        "question": "How can I contact the administrative office of the Computer Science department?",
+        "answer": "You can contact the administrative office by calling (703) 993-1530 or emailing csinfo@gmu.edu.",
+        "source": "Computer Science Department Info Page",
+        "category": "Department Contact"
+    }
+]

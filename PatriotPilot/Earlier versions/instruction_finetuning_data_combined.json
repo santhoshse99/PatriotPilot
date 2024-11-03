@@ -1,0 +1,299 @@
+[
+  {
+    "instruction": "Where is the administrative office for graduate advising located?",
+    "context": "Source: Computer Science Department Info Page, Category: Graduate Advising Location",
+    "response": "The administrative office for graduate advising is in the Engineering Building, Room 4300."
+  },
+  {
+    "instruction": "Where can I find the undergraduate advising office at George Mason University?",
+    "context": "Source: Computer Science Department Info Page, Category: Undergraduate Advising Location",
+    "response": "The undergraduate advising office is located in Buchanan Hall, Room D215."
+  },
+  {
+    "instruction": "What is the map link for the graduate advising office?",
+    "context": "Source: Computer Science Department Info Page, Category: Graduate Advising Map",
+    "response": "The map link for the graduate advising office is: https://cs.gmu.edu/about/visit-the-department/"
+  },
+  {
+    "instruction": "What is the map link for the undergraduate advising office?",
+    "context": "Source: Computer Science Department Info Page, Category: Undergraduate Advising Map",
+    "response": "The map link for the undergraduate advising office is: https://cs.gmu.edu/about/visit-the-department/"
+  },
+  {
+    "instruction": "What is the contact number for the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: Department Contact Number",
+    "response": "The contact number for the Computer Science department is (703) 993-1530."
+  },
+  {
+    "instruction": "What is the address of the Computer Science department at George Mason University?",
+    "context": "Source: Computer Science Department Info Page, Category: Department Mailing Address",
+    "response": "The address is 4400 University Drive, MSN 4A5, Fairfax, VA 22030, USA."
+  },
+  {
+    "instruction": "How do I contact administrative support for the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: Administrative Support Email",
+    "response": "You can contact administrative support via email at csinfo@gmu.edu."
+  },
+  {
+    "instruction": "What is the email address for the PhD program in Computer Science?",
+    "context": "Source: Computer Science Department Info Page, Category: PhD Program Email",
+    "response": "The email address for the PhD program is csphd@gmu.edu."
+  },
+  {
+    "instruction": "How do I reach the MS programs at the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: MS Programs Email",
+    "response": "You can reach the MS programs via email at csgrad@gmu.edu."
+  },
+  {
+    "instruction": "Who should I contact regarding undergraduate programs in Computer Science?",
+    "context": "Source: Computer Science Department Info Page, Category: Undergraduate Programs Email",
+    "response": "For undergraduate programs, email csug@gmu.edu."
+  },
+  {
+    "instruction": "Who is in charge of the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: Department Chair",
+    "response": "The Department Chair of Computer Science is David Rosenblum."
+  },
+  {
+    "instruction": "Who manages undergraduate studies in the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: Undergraduate Studies Chair",
+    "response": "The Associate Chairs for Undergraduate Studies are Shvetha Soundararajan and Mark Snyder."
+  },
+  {
+    "instruction": "Who is the Graduate Studies Chair in the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: Graduate Studies Chair",
+    "response": "The Associate Chair for Graduate Studies and Program Director for the Online MS CS is Robert Pettit."
+  },
+  {
+    "instruction": "Who oversees the PhD program in Computer Science?",
+    "context": "Source: Computer Science Department Info Page, Category: PhD Program Director",
+    "response": "The Program Director for the PhD CS is Hakan Aydin."
+  },
+  {
+    "instruction": "Who is the Program Director for MS Software Engineering?",
+    "context": "Source: Computer Science Department Info Page, Category: MS Software Engineering Director",
+    "response": "The Program Director for MS Software Engineering is ThanhVu Nguyen."
+  },
+  {
+    "instruction": "Who directs the MS Information Systems program?",
+    "context": "Source: Computer Science Department Info Page, Category: MS Information Systems Director",
+    "response": "The Program Director for MS Information Systems is Alex Brodsky."
+  },
+  {
+    "instruction": "Who is responsible for the MS CS program?",
+    "context": "Source: Computer Science Department Info Page, Category: MS CS Director",
+    "response": "The Program Director for MS CS is Zoran Duric."
+  },
+  {
+    "instruction": "Who is the Director of Inclusive Computing in the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: Inclusive Computing Director",
+    "response": "The Director of Inclusive Computing is Shahnaz Kamberi."
+  },
+  {
+    "instruction": "Who is the Operations Manager for the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: Operations Manager",
+    "response": "The Department Operations Manager and Assistant to the Chair is Michele Pieper."
+  },
+  {
+    "instruction": "Who is the Office Manager for the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: Office Manager",
+    "response": "The Office Manager is Tonya Lawrence."
+  },
+  {
+    "instruction": "Who are the Graduate Program Specialists?",
+    "context": "Source: Computer Science Department Info Page, Category: Graduate Program Specialists",
+    "response": "The Graduate Program Specialists are Alyssa Tsukamoto and Beth Posocco."
+  },
+  {
+    "instruction": "Who are the Undergraduate Academic Advisors?",
+    "context": "Source: Computer Science Department Info Page, Category: Undergraduate Academic Advisors",
+    "response": "The Undergraduate Academic Advisors are Linda Sheridan, Joshua Fletcher, Vernell Wilks, and Kristi Morrow."
+  },
+  {
+    "instruction": "Where is George Mason University located?",
+    "context": "Source: Computer Science Department Info Page, Category: University Location",
+    "response": "George Mason University is located at 4400 University Drive, Fairfax, VA 22030, USA."
+  },
+  {
+    "instruction": "How do I reach the Computer Science department by mail?",
+    "context": "Source: Computer Science Department Info Page, Category: Mailing Address",
+    "response": "You can mail the Computer Science department at 4400 University Drive, MSN 4A5, Fairfax, VA 22030, USA."
+  },
+  {
+    "instruction": "What is the general email for the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: General Email",
+    "response": "The general email for the Computer Science department is csinfo@gmu.edu."
+  },
+  {
+    "instruction": "How can I contact the administrative office of the Computer Science department?",
+    "context": "Source: Computer Science Department Info Page, Category: Department Contact",
+    "response": "You can contact the administrative office by calling (703) 993-1530 or emailing csinfo@gmu.edu."
+  },
+  {
+    "instruction": "What is Josh Fletcher's position?",
+    "context": "name: Josh Fletcher, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/96/",
+    "response": "Undergraduate Academic Advisor"
+  },
+  {
+    "instruction": "What is Josh Fletcher's webpage?",
+    "context": "name: Josh Fletcher, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/96/",
+    "response": "https://cs.gmu.edu/directory/detail/96/"
+  },
+  {
+    "instruction": "What is Kristi Morrow's position?",
+    "context": "name: Kristi Morrow, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/186/",
+    "response": "Undergraduate Academic Advisor"
+  },
+  {
+    "instruction": "What is Kristi Morrow's webpage?",
+    "context": "name: Kristi Morrow, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/186/",
+    "response": "https://cs.gmu.edu/directory/detail/186/"
+  },
+  {
+    "instruction": "What is Linda Sheridan's position?",
+    "context": "name: Linda Sheridan, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/74/",
+    "response": "Undergraduate Academic Advisor"
+  },
+  {
+    "instruction": "What is Linda Sheridan's webpage?",
+    "context": "name: Linda Sheridan, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/74/",
+    "response": "https://cs.gmu.edu/directory/detail/74/"
+  },
+  {
+    "instruction": "What is Vernell Wilks's position?",
+    "context": "name: Vernell Wilks, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/167/",
+    "response": "Undergraduate Academic Advisor"
+  },
+  {
+    "instruction": "What is Vernell Wilks's webpage?",
+    "context": "name: Vernell Wilks, position: Undergraduate Academic Advisor, webpage: https://cs.gmu.edu/directory/detail/167/",
+    "response": "https://cs.gmu.edu/directory/detail/167/"
+  },
+  {
+    "instruction": "What is the undergraduate advising contact email?",
+    "context": "email: csug@gmu.edu, phone: (703) 993-1530",
+    "response": "csug@gmu.edu"
+  },
+  {
+    "instruction": "What is the undergraduate advising phone number?",
+    "context": "email: csug@gmu.edu, phone: (703) 993-1530",
+    "response": "(703) 993-1530"
+  },
+  {
+    "instruction": "What is the note for undergraduate advising appointments?",
+    "context": "note: Advising is by appointment only, booking_link: https://outlook.office365.com/book/CSUGAdvising@gmuedu.onmicrosoft.com/",
+    "response": "Advising is by appointment only"
+  },
+  {
+    "instruction": "Where can I book an undergraduate advising appointment?",
+    "context": "note: Advising is by appointment only, booking_link: https://outlook.office365.com/book/CSUGAdvising@gmuedu.onmicrosoft.com/",
+    "response": "https://outlook.office365.com/book/CSUGAdvising@gmuedu.onmicrosoft.com/"
+  },
+  {
+    "instruction": "What are the instructions for required advising for CS 110?",
+    "context": "course: CS 110, form_link: https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs110.pdf",
+    "response": [
+      "Meet with one of the Undergraduate Academic Advisors listed above.",
+      "Email the filled out CS 110 Advising Form at least 48 hours prior to the scheduled appointment.",
+      "Do not arrive at your appointment with your form in hand or on your laptop."
+    ]
+  },
+  {
+    "instruction": "Where can I find the advising form for CS 110?",
+    "context": "course: CS 110, form_link: https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs110.pdf",
+    "response": "https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs110.pdf"
+  },
+  {
+    "instruction": "What are the instructions for required advising for CS 330?",
+    "context": "course: CS 330, form_link: https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs330.pdf",
+    "response": [
+      "Meet with your faculty advisor.",
+      "Bring the filled out CS 330 Advising Form to your faculty meeting."
+    ]
+  },
+  {
+    "instruction": "Where can I find the advising form for CS 330?",
+    "context": "course: CS 330, form_link: https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs330.pdf",
+    "response": "https://cs.gmu.edu/media/uploads/programs/undergraduate/files/advisingcs330.pdf"
+  },
+  {
+    "instruction": "What is Imekom Inyang's position?",
+    "context": "name: Imekom Inyang, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/198/",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Imekom Inyang's webpage?",
+    "context": "name: Imekom Inyang, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/198/",
+    "response": "https://cs.gmu.edu/directory/detail/198/"
+  },
+  {
+    "instruction": "What is Lauren Nyilas's position?",
+    "context": "name: Lauren Nyilas, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/197/",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Lauren Nyilas's webpage?",
+    "context": "name: Lauren Nyilas, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/197/",
+    "response": "https://cs.gmu.edu/directory/detail/197/"
+  },
+  {
+    "instruction": "What is Beth Posocco's position?",
+    "context": "name: Beth Posocco, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/75/",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Beth Posocco's webpage?",
+    "context": "name: Beth Posocco, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/75/",
+    "response": "https://cs.gmu.edu/directory/detail/75/"
+  },
+  {
+    "instruction": "What is Alyssa Tsukamoto's position?",
+    "context": "name: Alyssa Tsukamoto, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/180/",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Alyssa Tsukamoto's webpage?",
+    "context": "name: Alyssa Tsukamoto, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/180/",
+    "response": "https://cs.gmu.edu/directory/detail/180/"
+  },
+  {
+    "instruction": "Where is the graduate advising office located?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csgrad@gmu.edu, phone: (703) 993-1530",
+    "response": "Engineering Building Suite #4300, 4th Floor"
+  },
+  {
+    "instruction": "What is the graduate advising contact email?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csgrad@gmu.edu, phone: (703) 993-1530",
+    "response": "csgrad@gmu.edu"
+  },
+  {
+    "instruction": "What is the graduate advising phone number?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csgrad@gmu.edu, phone: (703) 993-1530",
+    "response": "(703) 993-1530"
+  },
+  {
+    "instruction": "What is Alyssa Tsukamoto's position?",
+    "context": "name: Alyssa Tsukamoto, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/180/",
+    "response": "Graduate Program Specialist"
+  },
+  {
+    "instruction": "What is Alyssa Tsukamoto's webpage?",
+    "context": "name: Alyssa Tsukamoto, position: Graduate Program Specialist, webpage: https://cs.gmu.edu/directory/detail/180/",
+    "response": "https://cs.gmu.edu/directory/detail/180/"
+  },
+  {
+    "instruction": "Where is the PhD advising office located?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csphd@gmu.edu, phone: (703) 993-1530",
+    "response": "Engineering Building Suite #4300, 4th Floor"
+  },
+  {
+    "instruction": "What is the PhD advising contact email?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csphd@gmu.edu, phone: (703) 993-1530",
+    "response": "csphd@gmu.edu"
+  },
+  {
+    "instruction": "What is the PhD advising phone number?",
+    "context": "office_location: Engineering Building Suite #4300, 4th Floor, email: csphd@gmu.edu, phone: (703) 993-1530",
+    "response": "(703) 993-1530"
+  }
+]
